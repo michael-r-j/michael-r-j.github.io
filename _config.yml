@@ -1,12 +1,12 @@
 # Site settings
-title: Phntm-tllbth
-#email: $$\text{mrj@uni-bonn.de}$$
-description: > # this means to ignore newlines until "baseurl:"
-  Description
+title: Michael-R-J
+email: #mrj at uni-bonn.de
+#description: > # this means to ignore newlines until "baseurl:"
+#  This is my page.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://michael-r-j.github.io" # the base hostname & protocol for your site
 #twitter_username:
-github_username:  michael-r-j
+github_username: michael-r-j
 
 # Build settings
 markdown: kramdown
