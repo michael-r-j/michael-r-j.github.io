@@ -1,19 +1,21 @@
 <header class="site-header">
 
+  <div class="wrapper-header">
   <div class="wrapper">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <div class="trigger">
         {% for itm in site.pages %}
           {% if itm.title and itm.title != page.title %}
-          <a class="page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
+          <a class="page-link" style="font-family: 'Alegreya Sans SC'; font-weight: 400" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
+          {% elsif itm.title and itm.title == page.title %}
+          <a class="page-link" style="font-family: 'Alegreya Sans SC'; font-weight:700" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
           {% endif %}
         {% endfor %}
       </div>
     </nav>
-
+  </div>
   </div>
 
 </header>

@@ -1,7 +1,15 @@
 /**
  * Site header
  */
+.wrapper-header {
+  background-color: darken($background-color, 15%);
+  height: 50px;
+  width: $content-width;
+  margin: 0px auto;
+}
 .site-header {
+  width: 100%;
+  position: fixed;
 /*    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -11,9 +19,10 @@
 }
 
 .site-title {
-    font-family: 'Abel';
-    font-size: 26px;
-    line-height: 56px;
+    font-family: $site-title-font-family;
+    font-weight: $site-title-font-weight;
+    font-size: $base-font-size * 2.5;
+    line-height: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -26,19 +35,20 @@
 
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 50px;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
+        font-size: $base-font-size * 1.25;
         color: $text-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            margin-left: 10px;
         }
     }
 
@@ -162,12 +172,24 @@
 /**
  * Page content
  */
+.home {
+  margin: 50px auto;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }
 
-.page-heading {
-    font-size: 20px;
+.page-title {
+    font-family: 'Alegreya Sans SC';
+    font-weight: 500;
+    font-size: $base-font-size * 2;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: $base-font-size * 2;
+    }
 }
 
 .post-list {
@@ -195,16 +217,19 @@
  * Posts
  */
 .post-header {
+    margin-top: 50px;
     margin-bottom: $spacing-unit;
 }
 
 .post-title {
-    font-size: 42px;
+    font-family: 'Alegreya Sans SC';
+    font-weight: 500;
+    font-size: $base-font-size * 2;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: $base-font-size * 2;
     }
 }
 
