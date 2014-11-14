@@ -1,15 +1,16 @@
 /**
  * Site header
  */
-.wrapper-header {
-  background-color: $header-background-color;
-  height: 50px;
-  width: $content-width;
-  margin: 0px auto;
-}
-.site-header {
+.header-cont {
+  height: $spacing-unit * 5;
   width: 100%;
   position: fixed;
+  top: 0px;
+}
+.site-header {
+  background-color: $header-background-color;
+  width: $content-width;
+  margin: 0px auto;
 /*    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -42,8 +43,27 @@
     }
 
     .page-link {
+        font-family: 'Alegreya Sans SC';
         font-size: $base-font-size * 1.25;
+        font-weight: 300;
         color: $text-color;
+        letter-spacing: -1px;
+
+        line-height: $base-line-height;
+
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 10px;
+        }
+    }
+
+    .current-page-link {
+        font-family: 'Alegreya Sans SC';
+        font-size: $base-font-size * 1.25;
+        font-weight: 500;
+        color: $text-color;
+        letter-spacing: -1px;
+
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -176,12 +196,11 @@
 /**
  * Page content
  */
-.home {
-  margin: 50px auto;
+.main-page {
 }
 
 .page-content {
-    padding: $spacing-unit 0;
+    margin: calc((#{$spacing-unit} * 5) + (#{$spacing-unit} * 2)) auto;
 }
 
 .page-title {
@@ -238,29 +257,5 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
-
-    h2 {
-        font-size: 32px;
-
-/*        @include media-query($on-laptop) {
-            font-size: 28px;
-        }*/
-    }
-
-    h3 {
-        font-size: 26px;
-
-/*        @include media-query($on-laptop) {
-            font-size: 22px;
-        }*/
-    }
-
-    h4 {
-        font-size: 20px;
-
-/*        @include media-query($on-laptop) {
-            font-size: 18px;
-        }*/
-    }
+    margin-bottom: $spacing-unit * 2;
 }
