@@ -104,8 +104,7 @@
  * Site footer
  */
 .site-footer {
-/*    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;*/
+    padding: $spacing-unit 0;
 }
 
 .footer-heading {
@@ -122,8 +121,12 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
+    border-top: 2px solid $header-background-color;
+    padding-top: 10px;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+
+    text-align: center;
 }
 
 .footer-col {
@@ -132,7 +135,7 @@
     padding-left: $spacing-unit / 2;
 }
 
-.footer-col-1 {
+/*.footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
 }
@@ -145,7 +148,7 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
-}
+}*/
 
 @include media-query($on-laptop) {
     .footer-col-1,
