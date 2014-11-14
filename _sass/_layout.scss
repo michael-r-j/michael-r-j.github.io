@@ -2,7 +2,7 @@
  * Site header
  */
 .wrapper-header {
-  background-color: darken($background-color, 15%);
+  background-color: $header-background-color;
   height: 50px;
   width: $content-width;
   margin: 0px auto;
@@ -56,13 +56,14 @@
         position: absolute;
         top: 9px;
         right: 30px;
-        background-color: $background-color;
+        background-color: $header-background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
         text-align: right;
 
         .menu-icon {
             display: block;
+//            background-color:
             float: right;
             width: 36px;
             height: 26px;
