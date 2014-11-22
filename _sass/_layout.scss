@@ -22,7 +22,7 @@
 .site-title {
     font-family: $site-title-font-family;
     font-weight: $site-title-font-weight;
-    font-size: $base-font-size * 2.5;
+    font-size: $larger-font-size;
     line-height: 50px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -44,7 +44,7 @@
 
     .page-link {
         font-family: 'Alegreya Sans SC';
-        font-size: $base-font-size * 1.25;
+        font-size: $medium-font-size;
         font-weight: 300;
         color: $text-color;
         letter-spacing: -1px;
@@ -59,7 +59,7 @@
 
     .current-page-link {
         font-family: 'Alegreya Sans SC';
-        font-size: $base-font-size * 1.25;
+        font-size: $medium-font-size;
         font-weight: 500;
         color: $text-color;
         letter-spacing: -1px;
@@ -207,12 +207,12 @@
 .page-title {
     font-family: 'Alegreya Sans SC';
     font-weight: 500;
-    font-size: $base-font-size * 2;
+    font-size: $large-font-size;
     letter-spacing: -1px;
     line-height: 1;
 
 /*    @include media-query($on-laptop) {
-        font-size: $base-font-size * 2;
+        font-size: $large-font-size;
     }*/
 }
 
@@ -248,12 +248,12 @@
 .post-title {
     font-family: 'Alegreya Sans SC';
     font-weight: 500;
-    font-size: $base-font-size * 2;
+    font-size: $large-font-size;
     letter-spacing: -1px;
     line-height: 1;
 
 /*    @include media-query($on-laptop) {
-        font-size: $base-font-size * 2;
+        font-size: $large-font-size;
     }*/
 }
 
