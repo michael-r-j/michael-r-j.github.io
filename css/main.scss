@@ -9,7 +9,10 @@ $base-font-family: 'Abel', sans-serif;
 $site-title-font-family: 'Alegreya Sans', serif;
 $site-title-font-weight: 500;
 $base-font-size:   15px;
-$small-font-size:  $base-font-size * 0.75;
+$smaller-font-size:  $base-font-size * 0.75;
+$medium-font-size: $base-font-size * 1.5;
+$large-font-size: $base-font-size * 2;
+$larger-font-size: $base-font-size * 2.5;
 $base-line-height: 1.5;
 
 $spacing-unit:     10px;
