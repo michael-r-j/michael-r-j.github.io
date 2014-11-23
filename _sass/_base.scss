@@ -39,7 +39,7 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit * 2;
 }
 p {
-    margin-bottom: $spacing-unit * .5;
+    margin-bottom: $spacing-unit;
 }
 
 
@@ -91,6 +91,12 @@ h1 {
 }
 h2 {
     font-size: $medium-font-size;
+}
+
+h3 {
+    font-size: $base-font-size;
+    font-weight: 700;
+    margin-bottom: $spacing-unit;
 }
 
 
@@ -211,4 +217,14 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * Hiding text
+ * https://berther.io/2009/01/15/hiding-an-email-address-from-spam-harvesters
+**/
+
+span.rev {
+    unicode-bidi: bidi-override;
+    direction: rtl;
 }
