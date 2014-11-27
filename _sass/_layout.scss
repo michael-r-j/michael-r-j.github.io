@@ -52,7 +52,7 @@
         color: $text-color;
         letter-spacing: -1px;
 
-        line-height: $base-line-height;
+        line-height: 50px;//$base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -67,7 +67,7 @@
         color: $text-color;
         letter-spacing: -1px;
 
-        line-height: $base-line-height;
+        line-height: 50px;//$base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -248,7 +248,7 @@
     margin-bottom: $spacing-unit;
 
     @include media-query ($mobile) {
-      margin-top: 100px;
+      margin-top: calc(#{$spacing-unit} + 100px);
     }
 }
 
