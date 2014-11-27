@@ -26,7 +26,7 @@
     font-family: $site-title-font-family;
     font-weight: $site-title-font-weight;
     font-size: $larger-font-size;
-    line-height: 50px;
+    line-height: $site-header-height;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -39,7 +39,7 @@
 
 .site-nav {
     float: right;
-    line-height: 50px;
+    line-height: $site-header-height;
 
     .menu-icon {
         display: none;
@@ -52,12 +52,12 @@
         color: $text-color;
         letter-spacing: -1px;
 
-        line-height: 50px;//$base-line-height;
+        line-height: $site-header-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 10px;
-        }
+//        &:not(:first-child) {
+            margin-left: $spacing-unit * 2;
+//        }
     }
 
     .current-page-link {
@@ -67,12 +67,12 @@
         color: $text-color;
         letter-spacing: -1px;
 
-        line-height: 50px;//$base-line-height;
+        line-height: $site-header-height;
 
         // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 10px;
-        }
+//        &:not(:first-child) {
+            margin-left: $spacing-unit * 2;
+//        }
     }
 
 /*    @include media-query($on-palm) {
@@ -200,6 +200,12 @@
  * Page content
  */
 .main-page {
+    margin-top: 50px;
+    margin-bottom: $spacing-unit;
+
+    @include media-query ($mobile) {
+      margin-top: 120px;
+    }
 }
 
 .page-content {
@@ -248,7 +254,7 @@
     margin-bottom: $spacing-unit;
 
     @include media-query ($mobile) {
-      margin-top: calc(#{$spacing-unit} + 100px);
+      margin-top: 120px;
     }
 }
 
