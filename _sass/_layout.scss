@@ -247,7 +247,7 @@
     margin-top: 50px;
     margin-bottom: $spacing-unit;
 
-    @include media-query($on-palm) {
+    @include media-query (767px) {
       margin-top: 500px;
     }
 }
