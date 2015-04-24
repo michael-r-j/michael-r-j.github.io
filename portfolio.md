@@ -1,15 +1,80 @@
 ---
-layout: page
+layout: post
 title: Portfolio
 permalink: /portfolio/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc ex, egestas vel purus id, aliquam porta mi. Ut ac tortor vitae orci malesuada dignissim at a magna. In dapibus ullamcorper sem, eget mattis lorem molestie sit amet. Proin posuere, turpis at lacinia scelerisque, lorem eros vehicula ante, nec efficitur diam elit vel arcu. Mauris suscipit velit at tellus scelerisque rutrum. Suspendisse accumsan erat id pulvinar placerat. Quisque semper, urna a lacinia luctus, justo ligula imperdiet mi, ut mollis nunc orci nec odio. Nam at velit sapien. Nulla neque nisl, tincidunt a justo quis, feugiat pellentesque diam. Duis id metus sollicitudin, consequat dolor a, rhoncus tellus. Vestibulum vitae leo sapien. Morbi nibh orci, sodales eu mi vitae, venenatis fermentum augue.
+<h2>Mathematics</h2>
 
-Quisque at augue quis enim pellentesque laoreet scelerisque quis risus. Suspendisse ornare porttitor justo, in elementum lacus lacinia sit amet. Maecenas congue nulla a ante volutpat porta. Vestibulum laoreet tortor nec faucibus blandit. In molestie id neque at commodo. Curabitur malesuada dapibus feugiat. Phasellus tortor est, eleifend et mi viverra, dictum accumsan orci. Maecenas tincidunt rutrum augue, in elementum purus gravida non. Vestibulum ut tincidunt dui. Nullam convallis fringilla tristique. Donec ornare erat a sapien laoreet, a faucibus sem pharetra. Ut eget leo at justo bibendum eleifend sit amet pulvinar nunc. Maecenas nec dignissim urna.
+<h3>Bachelors thesis</h3>
 
-Sed vulputate posuere erat non aliquet. Nam rhoncus mi quis sapien convallis varius. Sed eleifend, magna at consectetur lacinia, purus sapien suscipit elit, eget commodo mauris lorem eget turpis. Nulla facilisi. Morbi mattis bibendum justo a bibendum. Quisque porttitor lacus ut tellus congue suscipit. Integer leo erat, elementum vitae enim non, hendrerit pellentesque turpis. Nulla egestas eget ipsum at convallis. Aliquam cursus est ac tincidunt pretium.
+<p>
+Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian
+setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding
+(in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context,
+and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
+</p>
 
-Quisque pretium mollis enim pulvinar sagittis. Sed et massa ornare, fermentum sapien nec, cursus nisl. Etiam sed convallis diam. In libero eros, porta non ligula eget, varius accumsan nisi. Quisque aliquet vel nunc eget faucibus. Cras maximus nec dui vitae vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sit amet efficitur nunc, vel pretium nunc. Sed pellentesque ante eget feugiat viverra. Etiam lorem nulla, ullamcorper quis scelerisque sit amet, imperdiet ut eros. Phasellus sed nulla id eros accumsan euismod vitae non odio. Nam non sodales risus. Duis semper dui at velit elementum scelerisque. Ut porta bibendum eros sed volutpat.
+<!-- <p>
+There is a link for it 
+</p> -->
 
-Etiam interdum sapien ac est eleifend, at maximus purus euismod. Vivamus et dictum odio, sed consectetur neque. Sed erat dui, porta ut dolor sed, tincidunt volutpat ipsum. Proin viverra nulla eget purus pulvinar fringilla. Suspendisse hendrerit, diam vel dapibus efficitur, metus augue sagittis augue, ut dictum turpis lectus id quam. In vestibulum mi accumsan velit commodo volutpat. Morbi varius felis urna, sed elementum sem accumsan non. Sed non fermentum lectus, sit amet maximus metus. Nullam rhoncus turpis massa, ut maximus neque convallis et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam tempor, neque quis ultricies sodales, ex dolor scelerisque nisi, vel dignissim arcu justo nec felis. Maecenas semper id quam eget cursus. Cras eleifend blandit quam. --
+<h3>Masters thesis</h3>
+
+<p>
+This is a work in progress, and is described on the <a href="../index.html">main page</a>.
+</p>
+<br>
+
+<h2>Art</h2>
+
+<h3>Drawing</h3>
+<p>
+During my Masters studies, I participated in drawings courses offered by the Atelier für Bildende Kunst.  The drawings are mostly with charcoal, with some Conté.
+<table style="width:100%;">
+  <tr>
+  {% for j in (1..9) %}
+    <td><a href="/drawings/assorted/thumbs/00{{ j }}.jpg"><img src="/drawings/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+  {% assign row = forloop.index | modulo:4 %}
+  {% if row == 0 %}
+  </tr>
+  <tr>
+  {% endif %}
+  {% endfor %}
+  {% for j in (0..9) %}
+    <td><a href="/drawings/assorted/thumbs/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+  {% assign row = forloop.index | modulo:4 %}
+  {% if row == 3 %}
+  </tr>
+  <tr>
+  {% endif %}
+  {% endfor %}
+  </tr>
+</table>
+</p>
+<br>
+
+<h3>Sculpture</h3>
+<p>
+During my undergraduate studies, I participated in a few studio Art courses, mainly doing sculptural work.
+<table style="width:100%;">
+  <tr>
+  {% for j in (1..9) %}
+    <td><a href="/sculptures/small/0{{ j }}.jpg"><img src="/sculptures/thumbs/0{{ j }}.jpg" style="width:100%;"></a></td>
+  {% assign row = forloop.index | modulo:4 %}
+  {% if row == 0 %}
+  </tr>
+  <tr>
+  {% endif %}
+  {% endfor %}
+  {% for j in (0..6) %}
+    <td><a href="/sculptures/small/1{{ j }}.jpg"><img src="/sculptures/thumbs/1{{ j }}.jpg" style="width:100%;"></a></td>
+  {% assign row = forloop.index | modulo:4 %}
+  {% if row == 3 and j != 6 %}
+  </tr>
+  <tr>
+  {% endif %}
+  {% endfor %}
+  </tr>
+</table>
+</p>
