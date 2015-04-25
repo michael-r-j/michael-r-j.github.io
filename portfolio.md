@@ -34,7 +34,7 @@ During my Masters studies, I participated in drawings courses offered by the Ate
 <table style="width:100%;">
   <tr>
   {% for j in (1..9) %}
-    <td><a href="/drawings/assorted/thumbs/00{{ j }}.jpg"><img src="/drawings/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+    <td><a href="/drawings/assorted/00{{ j }}.jpg"><img src="/drawings/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
   {% assign row = forloop.index | modulo:4 %}
   {% if row == 0 %}
   </tr>
@@ -42,7 +42,7 @@ During my Masters studies, I participated in drawings courses offered by the Ate
   {% endif %}
   {% endfor %}
   {% for j in (0..9) %}
-    <td><a href="/drawings/assorted/thumbs/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    <td><a href="/drawings/assorted/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
   {% assign row = forloop.index | modulo:4 %}
   {% if row == 3 %}
   </tr>
