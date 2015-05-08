@@ -46,7 +46,7 @@
     }
 
     .page-link {
-        font-family: 'Alegreya Sans SC';
+        font-family: $header-SC-font;
         font-size: $medium-font-size;
         font-weight: 300;
         color: $text-color;
@@ -61,7 +61,7 @@
     }
 
     .current-page-link {
-        font-family: 'Alegreya Sans SC';
+        font-family: $header-SC-font;
         font-size: $medium-font-size;
         font-weight: 500;
         color: $text-color;
@@ -214,7 +214,7 @@
 }
 
 .page-title {
-    font-family: 'Alegreya Sans SC';
+    font-family: $header-SC-font;
     font-weight: 500;
     font-size: $large-font-size;
     letter-spacing: -1px;
@@ -259,7 +259,7 @@
 }
 
 .post-title {
-    font-family: 'Alegreya Sans SC';
+    font-family: $header-SC-font;
     font-weight: 500;
     font-size: $large-font-size;
     letter-spacing: -1px;
