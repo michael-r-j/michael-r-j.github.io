@@ -4,12 +4,212 @@ title: CV
 permalink: /CV/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nunc ex, egestas vel purus id, aliquam porta mi. Ut ac tortor vitae orci malesuada dignissim at a magna. In dapibus ullamcorper sem, eget mattis lorem molestie sit amet. Proin posuere, turpis at lacinia scelerisque, lorem eros vehicula ante, nec efficitur diam elit vel arcu. Mauris suscipit velit at tellus scelerisque rutrum. Suspendisse accumsan erat id pulvinar placerat. Quisque semper, urna a lacinia luctus, justo ligula imperdiet mi, ut mollis nunc orci nec odio. Nam at velit sapien. Nulla neque nisl, tincidunt a justo quis, feugiat pellentesque diam. Duis id metus sollicitudin, consequat dolor a, rhoncus tellus. Vestibulum vitae leo sapien. Morbi nibh orci, sodales eu mi vitae, venenatis fermentum augue.
+<h2>Education</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Universität Bonn</b>, Bonn, Germany<br>
+  M.Sc. <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
+  <b><i>Coursework Overview</i></b>: Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
+  <b><i>Thesis</i></b> with Prof. C. F. Bödigheimer (see a description on the <a href="/index.html">main page</a>)
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  October 2012 –<br>
+  Weighted GPA: 1.9 (84%)
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;">
+  <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
+  A.B. <a href="http://www.math.princeton.edu/">Mathematics</a><br>
+  <b><i>Coursework Overview</i></b>: Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
+  <b><i>Concurrent Coursework Overview</i></b>: Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
+  <b><i>Thesis</i></b> with Asst. Prof. G. Holzegel: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus
+of Variations</i>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  September 2008 – June 2012<br>
+  Dept. GPA: 3.35 of 4 (B+)
+  </td>
+</tr>
+</table>
+</p>
+<br>
 
-Quisque at augue quis enim pellentesque laoreet scelerisque quis risus. Suspendisse ornare porttitor justo, in elementum lacus lacinia sit amet. Maecenas congue nulla a ante volutpat porta. Vestibulum laoreet tortor nec faucibus blandit. In molestie id neque at commodo. Curabitur malesuada dapibus feugiat. Phasellus tortor est, eleifend et mi viverra, dictum accumsan orci. Maecenas tincidunt rutrum augue, in elementum purus gravida non. Vestibulum ut tincidunt dui. Nullam convallis fringilla tristique. Donec ornare erat a sapien laoreet, a faucibus sem pharetra. Ut eget leo at justo bibendum eleifend sit amet pulvinar nunc. Maecenas nec dignissim urna.
+<h2>Academic Experience</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>BMS/SFB Summer School: Discrete Differential Geometry</b>, TU Berlin, Berlin, Germany<br>
+  Lectures by: Prof. V. Bazhanov, D. Cremers, V. Fock, G. Kutyniok, F. Luo, U. Pinkall, W. K. Schief, Y. Suris, S. Tabachnikov, and M. Wardetzky<br>
+  with talk titles, and information, at <a href="http://www.discretization.de/en/events/16/">http://www.discretization.de/en/events/16/</a>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  9 – 20 September 2013
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Lab Assistant</b>, Civil Engineering Department, Princeton University<br>
+For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, regarding his course “Engineering in the Modern World”<br>
+— Designed a couple of interactive demonstrations of magnetism and telegraphy for first-year students<br>
+— Systematized the restoration of a vintage PDP 8/L computer, including both replacing hardware on its flip-chip modules, and debugging memory reading/writing
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  June – August 2012
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>NSF/RTG Summer Program in Analysis and Geometry</b>, Princeton University<br>
+  Lectures by: Asst. Prof. G. Holzegel, Prof. E. Stein, L. Pierce, and A. Ionescu<br>
+  with (resp.) talk titles: “The Geometry of General Relativity”, “A quick introduction to harmonic analysis in \(\mathbf{R}^{d}\)”, “Discrete Analogues in Harmonic Analysis”, “Harmonic Analysis and Nonlinear Dispersive Equations”
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  6 – 22 July 2011
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Research Assistant</b>, Physics Department, Princeton University<br>
+  For <a href="http://www.princeton.edu/physics/people/display_person.xml?netid=staggs">Prof. Suzanne Staggs</a><br>
+  — Calculated, with Python, estimate Mueller matrices for an ABS half-wave plate<br>
+  — Learned about linear optics, Jones matrices, and Mueller matrices
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  June – August 2011
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Lab Assistant</b>, Civil Engineering Department, Princeton University<br>
+  For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, regarding his course “Engineering in the Modern World”<br>
+  — Developed six hands-on laboratory demonstrations for his course meant for first-year students<br>
+  — Wrote accompanying intuitive descriptions of the Physics-related processes exemplified by the demonstrations<br>
+  — Constructed guidelines for use in these laboratory exercises as to show how these processes are involved in radio transmission and reception
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  June – August 2010
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;">
+  <b>Research Assistant</b>, Astrophysics Department, Princeton University<br>
+  For <a href="http://www.astro.princeton.edu/~anatoly/">Prof. Anatoly Spitkovsky</a>, Lorenzo Sironi (GS)<br>
+  Abstract Title: Accelerating Particle Acceleration in Shocks<br>
+  — Worked with FORTRAN code to run particle-in-cell simulations of particle acceleration in plasma<br>
+  — Coded in IDL in order to analysis and interpret the output data
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  June – August 2009
+  </td>
+</tr>
+</table>
+</p>
+<br>
 
-Sed vulputate posuere erat non aliquet. Nam rhoncus mi quis sapien convallis varius. Sed eleifend, magna at consectetur lacinia, purus sapien suscipit elit, eget commodo mauris lorem eget turpis. Nulla facilisi. Morbi mattis bibendum justo a bibendum. Quisque porttitor lacus ut tellus congue suscipit. Integer leo erat, elementum vitae enim non, hendrerit pellentesque turpis. Nulla egestas eget ipsum at convallis. Aliquam cursus est ac tincidunt pretium.
+<h2>University Activities</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Universität Bonn Fachbibliothek Mathematik</b> <i>Studentische Hilfskraft (Student Assistant)</i>, Bonn, Germany<br>
+  — Managed, weekly, the front desk of the Mathematics library
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  April 2013 –
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Max Planck Institute for Mathematics</b> <i>Wissenschaftliche Hilfskraft (Scientific Assistant)</i>, Bonn, Germany<br>
+  — \(\LaTeX\)-ed several chapters for the fourth edition of Prof. Dale Husemöller’s textbook Fibre Bundles, under supervision of Dr. Alexander Weisse<br>
+  — \(\LaTeX\)-ed a few other smaller papers/files for Prof. Husemöller and Dr. Weisse
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  March 2013 –
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Princeton Learning Cooperative</b> <i>Tutor</i>, Princeton, NJ, U.S.A.<br>
+  — Tutored a local high school student in abstract Algebra, once a week for several months
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  October 2011 – January 2012
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Princeton UNIX Users’ Group (PUG)</b> <i>President</i> (2009 – 2011), <i>Treasurer</i> (2011 – 2012), Princeton University<br>
+  — Promoted student use of *nix on campus<br>
+  — Managed group’s listserv
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  May 2009 – May 2012
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;">
+  <b>Freshmen Scholars Institute</b> <i>Tutor</i>, Princeton University<br>
+  — Engaged selected incoming freshmen with elementary Number Theory and Probability<br>
+  — Aided tutees with homework sets, three nights a week for six weeks
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  July – August 2011
+  </td>
+</tr>
+</table>
+</p>
+<br>
 
-Quisque pretium mollis enim pulvinar sagittis. Sed et massa ornare, fermentum sapien nec, cursus nisl. Etiam sed convallis diam. In libero eros, porta non ligula eget, varius accumsan nisi. Quisque aliquet vel nunc eget faucibus. Cras maximus nec dui vitae vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sit amet efficitur nunc, vel pretium nunc. Sed pellentesque ante eget feugiat viverra. Etiam lorem nulla, ullamcorper quis scelerisque sit amet, imperdiet ut eros. Phasellus sed nulla id eros accumsan euismod vitae non odio. Nam non sodales risus. Duis semper dui at velit elementum scelerisque. Ut porta bibendum eros sed volutpat.
+<h2>University Accomplishments</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Princeton Class of 2012</b> <i>Class Jacket Designer</i>, Princeton University<br>
+  Winner of my class’s design competition for its traditional senior-class jacket<br>
+  <a href="http://blogs.princeton.edu/paw/2012/05/a_century_after.html">Mentioned</a> in the Princeton Alumni Weekly
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  12 December 2011
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Nassau Literature Review</b> <i>Contributor to Winter 2010 issue</i>, Princeton University<br>
+  Selected to have one of my sculptures featured in the student literary magazine Nassau Literature Review<br>
+  <a href="http://nasslit.mycpanel.princeton.edu/pdfs/2010-winter.pdf">Electronic copy</a>, see page 70 (PDF page 71)
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  4 December 2010
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left">
+  <b>Princeton Class of 2012</b> <i>Pre-Rade 2009 Shirt Designer</i>, Princeton University<br>
+  Winner of my class’s design competition for its t-shirt at the Princeton Pre-Rade, 13 September 2009
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  27 July 2009
+  </td>
+</tr>
+</table>
+</p>
+<br>
 
-Etiam interdum sapien ac est eleifend, at maximus purus euismod. Vivamus et dictum odio, sed consectetur neque. Sed erat dui, porta ut dolor sed, tincidunt volutpat ipsum. Proin viverra nulla eget purus pulvinar fringilla. Suspendisse hendrerit, diam vel dapibus efficitur, metus augue sagittis augue, ut dictum turpis lectus id quam. In vestibulum mi accumsan velit commodo volutpat. Morbi varius felis urna, sed elementum sem accumsan non. Sed non fermentum lectus, sit amet maximus metus. Nullam rhoncus turpis massa, ut maximus neque convallis et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam tempor, neque quis ultricies sodales, ex dolor scelerisque nisi, vel dignissim arcu justo nec felis. Maecenas semper id quam eget cursus. Cras eleifend blandit quam. 
+<h2>Skills</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+<b>Computer</b>: Proficient in using LTEX, Linux, Python, GIMP, Inkscape, most office-suite programs.<br>
+<b>Languages</b>: English (native), German (ca. B1).
+  </td>
+</tr>
+</table>
+</p>
+<br>
