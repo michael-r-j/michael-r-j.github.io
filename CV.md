@@ -98,7 +98,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   <td style="width:75%;vertical-align:top;text-align:left;">
   <b>Research Assistant</b>, Astrophysics Department, Princeton University<br>
   For <a href="http://www.astro.princeton.edu/~anatoly/">Prof. Anatoly Spitkovsky</a>, Lorenzo Sironi (GS)<br>
-  Abstract Title: Accelerating Particle Acceleration in Shocks<br>
+  Abstract Title: <i>Accelerating Particle Acceleration in Shocks</i><br>
   — Worked with FORTRAN code to run particle-in-cell simulations of particle acceleration in plasma<br>
   — Coded in IDL in order to analysis and interpret the output data
   </td>
@@ -125,7 +125,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Max Planck Institute for Mathematics</b> <i>Wissenschaftliche Hilfskraft (Scientific Assistant)</i>, Bonn, Germany<br>
-  — \(\LaTeX\)-ed several chapters for the fourth edition of Prof. Dale Husemöller’s textbook Fibre Bundles, under supervision of Dr. Alexander Weisse<br>
+  — \(\LaTeX\)-ed several chapters for the fourth edition of Prof. Dale Husemöller’s textbook <i>Fibre Bundles</i>, under supervision of Dr. Alexander Weisse<br>
   — \(\LaTeX\)-ed a few other smaller papers/files for Prof. Husemöller and Dr. Weisse
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
