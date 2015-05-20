@@ -207,7 +207,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
 <b>Computer</b>: Proficient in using LTEX, Linux, Python, GIMP, Inkscape, most office-suite programs.<br>
-<b>Languages</b>: English (native), German (ca. B1).
+<b>Languages</b>: English (native), German (ca. level B2).
   </td>
 </tr>
 </table>
