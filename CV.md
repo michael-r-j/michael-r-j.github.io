@@ -129,7 +129,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   — \(\LaTeX\)-ed a few other smaller papers/files for Prof. Husemöller and Dr. Weisse
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
-  March 2013 –
+  March 2013 – June 2015
   </td>
 </tr>
 <tr>
