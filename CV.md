@@ -15,7 +15,7 @@ permalink: /CV/
   <b><i>Thesis</i></b> with Prof. C. F. Bödigheimer (see a description on the <a href="/index.html">main page</a>)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
-  October 2012 – July 2015<br>
+  October 2012 –<br>
   Weighted GPA: 1.9 (84%)
   </td>
 </tr>
