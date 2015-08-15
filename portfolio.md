@@ -67,7 +67,7 @@ During my undergraduate studies, I participated in a few studio Art courses, mai
   <tr>
   {% endif %}
   {% endfor %}
-  {% for j in (0..6) %}
+  {% for j in (0..5) %}
     <td><a href="/sculptures/small/1{{ j }}.jpg"><img src="/sculptures/thumbs/1{{ j }}.jpg" style="width:100%;"></a></td>
   {% assign row = forloop.index | modulo:4 %}
   {% if row == 3 and j != 6 %}
