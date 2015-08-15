@@ -41,7 +41,7 @@ During my Masters studies, I participated in drawings courses offered by the Ate
   <tr>
   {% endif %}
   {% endfor %}
-  {% for j in (0..9) %}
+  {% for j in (0..6) %}
     <td><a href="/drawings/assorted/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
   {% assign row = forloop.index | modulo:4 %}
   {% if row == 3 %}
@@ -67,7 +67,7 @@ During my undergraduate studies, I participated in a few studio Art courses, mai
   <tr>
   {% endif %}
   {% endfor %}
-  {% for j in (0..5) %}
+  {% for j in (0..6) %}
     <td><a href="/sculptures/small/1{{ j }}.jpg"><img src="/sculptures/thumbs/1{{ j }}.jpg" style="width:100%;"></a></td>
   {% assign row = forloop.index | modulo:4 %}
   {% if row == 3 and j != 6 %}
