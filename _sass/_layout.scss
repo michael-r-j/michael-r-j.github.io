@@ -72,11 +72,11 @@
  * Site footer
  */
 .site-footer {
-    padding: $spacing-unit 0;
+//    padding: $spacing-unit;
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: $base-font-size;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -90,7 +90,8 @@
     font-size: $footer-font-size;
     color: $grey-color;
     border-top: 1.5px double $header-background-color;
-//    padding-top: 0px;
+    padding-top: $spacing-unit;
+    padding-bottom: $spacing-unit;
 //    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 
