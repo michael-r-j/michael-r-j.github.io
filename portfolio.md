@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: Portfolio
 permalink: /portfolio/
+sortname: portfolio
 ---
 
 <h2>Mathematics</h2>

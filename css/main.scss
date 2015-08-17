@@ -1,13 +1,14 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 
-// Our variables
+// Variables
 $base-font-family: 'Abel', sans-serif;
-$site-title-font-family: 'Alegreya Sans', serif;
-$header-SC-font: 'Alegreya Sans SC';
+$site-title-font-family: 'Alegreya Sans SC', sans-serif;
+$header-SC-font: 'Alegreya Sans SC', sans-serif;
 $site-title-font-weight: 500;
 $base-font-size:   15px;
 $small-font-size:  $base-font-size * 0.75;
@@ -17,6 +18,8 @@ $larger-font-size: $base-font-size * 2.5;
 $base-line-height: 1.5;
 
 $site-header-height: 50px;
+
+$footer-font-size: $base-font-size*.9;
 
 $spacing-unit:     10px;
 
@@ -32,8 +35,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    800px;
 $mobile:           '(min-width: 320px) and (max-width: 450px)';//767px)';
-//$on-palm:          600px;
-//$on-laptop:        800px;
 
 
 // Using media queries with like this:
@@ -53,6 +54,6 @@ $mobile:           '(min-width: 320px) and (max-width: 450px)';//767px)';
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
+//        "syntax-highlighting"
 ;

@@ -5,23 +5,9 @@
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path
-             d="m 18.009644,2.968 -18.00756932,0 0,-2.968 18.00637132,0 z"
-             style="fill:#424242" />
-          <path
-             d="m 18.005263,9 -18.00756877,0 0,-2.968 18.00637077,0 z"
-             style="fill:#424242" />
-          <path
-             d="m 18.003784,14.999999 -18.00756825,0 0,-2.968 18.00637025,0 z"
-             style="fill:#424242" />
-        </svg>
-      </a>
-
-    <nav class="site-nav">
-      <div class="trigger">
-        {% for itm in site.pages %}
+      <div>
+        {% assign sorted_pages = site.pages | sort:"sortname" %}
+        {% for itm in sorted_pages %}
           {% if itm.title and itm.title != page.title %}
           <a class="page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
           {% elsif itm.title and itm.title == page.title %}

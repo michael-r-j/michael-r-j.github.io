@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /CV/
+sortname: cv
 ---
 
 <h2>Education</h2>
