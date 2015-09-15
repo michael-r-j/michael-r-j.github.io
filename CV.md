@@ -17,7 +17,7 @@ sortname: cv
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2012 – September 2015<br>
-  Weighted GPA: 1.9 (84%)
+  Weighted GPA: 2.1 (81%)
   </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   — Managed, weekly, the front desk of the Mathematics library
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
-  April 2013 –
+  April 2013 – September 2015
   </td>
 </tr>
 <tr>
