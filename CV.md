@@ -5,6 +5,8 @@ permalink: /CV/
 sortname: cv
 ---
 
+<hr>
+
 <h2>Education</h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
@@ -21,7 +23,7 @@ sortname: cv
   </td>
 </tr>
 <tr>
-  <td style="width:75%;vertical-align:top;text-align:left;">
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
   A.B. <a href="http://www.math.princeton.edu/">Mathematics</a><br>
   <b><i>Coursework Overview</i></b>: Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
@@ -37,6 +39,26 @@ of Variations</i>
 </table>
 </p>
 <br>
+
+<hr>
+
+<h2>Work Experience</h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
+  <b>SAP Service &amp; Support Centre</b>, <i>Computer Analyst (Support Engineer)</i>, Dublin, Ireland<br>
+  Working on insurance software development.
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  14 March 2016 –
+  </td>
+</tr>
+</table>
+</p>
+<br>
+
+<hr>
 
 <h2>Academic Experience</h2>
 <p>
@@ -96,7 +118,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   </td>
 </tr>
 <tr>
-  <td style="width:75%;vertical-align:top;text-align:left;">
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Research Assistant</b>, Astrophysics Department, Princeton University<br>
   For <a href="http://www.astro.princeton.edu/~anatoly/">Prof. Anatoly Spitkovsky</a>, Lorenzo Sironi (GS)<br>
   Abstract Title: <i>Accelerating Particle Acceleration in Shocks</i><br>
@@ -110,6 +132,8 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 </table>
 </p>
 <br>
+
+<hr>
 
 <h2>University Activities</h2>
 <p>
@@ -153,7 +177,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   </td>
 </tr>
 <tr>
-  <td style="width:75%;vertical-align:top;text-align:left;">
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Freshmen Scholars Institute</b> <i>Tutor</i>, Princeton University<br>
   — Engaged selected incoming freshmen with elementary Number Theory and Probability<br>
   — Aided tutees with homework sets, three nights a week for six weeks
@@ -165,6 +189,8 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 </table>
 </p>
 <br>
+
+<hr>
 
 <h2>University Accomplishments</h2>
 <p>
@@ -190,7 +216,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   </td>
 </tr>
 <tr>
-  <td style="width:75%;vertical-align:top;text-align:left">
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton Class of 2012</b> <i>Pre-Rade 2009 Shirt Designer</i>, Princeton University<br>
   Winner of my class’s design competition for its t-shirt at the Princeton Pre-Rade, 13 September 2009
   </td>
@@ -202,11 +228,13 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 </p>
 <br>
 
+<hr>
+
 <h2>Skills</h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
-  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
 <b>Computer</b>: Proficient in using \(\LaTeX\), Linux, Python, GIMP, Inkscape, most office-suite programs.<br>
 <b>Languages</b>: English (native), German (ca. level B2).
   </td>
