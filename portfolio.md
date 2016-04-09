@@ -23,7 +23,7 @@ There is a link for it
 <h3>Masters thesis</h3>
 
 <p>
-This is a work in progress, and is described on the <a href="../index.html">main page</a>.
+This was completed in July 2015, and is described on the <a href="../index.html">main page</a>.
 </p>
 <br>
 
