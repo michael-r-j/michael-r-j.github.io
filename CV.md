@@ -48,7 +48,7 @@ of Variations</i>
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>SAP Service &amp; Support Centre</b>, <i>Computer Analyst (Support Engineer)</i>, Dublin, Ireland<br>
-  Working on insurance software development.
+  Working on insurance software development
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   14 March 2016 –
