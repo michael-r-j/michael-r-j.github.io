@@ -114,3 +114,11 @@ span.rev {
     unicode-bidi: bidi-override;
     direction: rtl;
 }
+
+// To position the line go-to
+a.anchor {
+  display: block;
+  position: relative;
+  top: - $spacing-unit * 5;
+  visibility: hidden;
+}
