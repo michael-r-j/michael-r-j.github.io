@@ -95,7 +95,6 @@ a {
  * Clearfix: needed for wrapper
  */
 %clearfix {
-
     &:after {
         content: "";
         display: table;
@@ -119,6 +118,6 @@ span.rev {
 a.anchor {
   display: block;
   position: relative;
-  top: - $spacing-unit * 5;
+  top: - $spacing-unit * 7;
   visibility: hidden;
 }
