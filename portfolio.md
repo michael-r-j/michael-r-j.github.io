@@ -7,6 +7,17 @@ sortname: portfolio
 
 <h2>Mathematics</h2>
 
+<h3>Doctoral dissertation</h3>
+
+This is to-be-determined.  A current description is on the <a href="../index.html#phd">main page</a>.
+
+<h3>Masters thesis</h3>
+
+<p>
+This was completed in July 2015, and is described on the <a href="../index.html#masters">main page</a>.
+</p>
+
+
 <h3>Bachelors thesis</h3>
 
 <p>
@@ -20,11 +31,6 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 There is a link for it 
 </p> -->
 
-<h3>Masters thesis</h3>
-
-<p>
-This was completed in July 2015, and is described on the <a href="../index.html">main page</a>.
-</p>
 <br>
 
 <h2>Art</h2>
