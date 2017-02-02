@@ -14,7 +14,7 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Technische Universität Wien</b>, Vienna, Austria<br>
   Ph.D. <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a> within the <a href="http://arcades-network.eu/">ARCADES Network</a><br>
-  <b><i>Thesis</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/index.html#phd">main page</a>)
+  <b><i>Dissertation</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/index.html#phd">main page</a>)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2016 –<br>
