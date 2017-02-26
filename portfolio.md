@@ -11,14 +11,14 @@ sortname: portfolio
 
 This is to-be-determined.  A current description is on the <a href="../index.html#phd">main page</a>.
 
-<h3>Masters thesis</h3>
+<h3>Master’s thesis</h3>
 
 <p>
 This was completed in July 2015, and is described on the <a href="../index.html#masters">main page</a>.
 </p>
 
 
-<h3>Bachelors thesis</h3>
+<h3>Bachelor’s thesis</h3>
 
 <p>
 Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian
@@ -37,7 +37,7 @@ There is a link for it
 
 <h3>Drawing</h3>
 <p>
-During my Masters studies, I participated in drawings courses offered by the Atelier für Bildende Kunst.  The drawings are mostly with charcoal, with some Conté.
+During my Master’s studies, I participated in drawings courses offered by the Atelier für Bildende Kunst.  The drawings are mostly with charcoal, with some Conté.
 <table style="width:100%;">
   <tr>
   {% for j in (1..9) %}
