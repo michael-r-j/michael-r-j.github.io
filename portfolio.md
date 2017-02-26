@@ -9,12 +9,12 @@ sortname: portfolio
 
 <h3>Doctoral dissertation</h3>
 
-This is to-be-determined.  A current description is on the <a href="../index.html#phd">main page</a>.
+This is to-be-determined.  A current description is on the <a href="/index.html#phd">main page</a>.
 
 <h3>Master’s thesis</h3>
 
 <p>
-This was completed in July 2015, and is described on the <a href="../index.html#masters">main page</a>.
+This was completed in July 2015, and is described on the <a href="/index.html#masters">main page</a>; a PDF is available <a href="/files/theses/masters.pdf">here</a>.
 </p>
 
 
@@ -25,11 +25,9 @@ Starting from near foundations, the theory of the calculus of variations was dev
 setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding
 (in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context,
 and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
+<br>
+A PDF is available <a href="/files/theses/thesis.pdf">here</a>.
 </p>
-
-<!-- <p>
-There is a link for it 
-</p> -->
 
 <br>
 
@@ -37,7 +35,7 @@ There is a link for it
 
 <h3>Drawing</h3>
 <p>
-During my Master’s studies, I participated in drawings courses offered by the Atelier für Bildende Kunst.  The drawings are mostly with charcoal, with some Conté.
+During my Master’s studies (2012-2015), I participated in drawing courses offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly with charcoal, with some Conté.
 <table style="width:100%;">
   <tr>
   {% for j in (1..9) %}
@@ -63,7 +61,7 @@ During my Master’s studies, I participated in drawings courses offered by the 
 
 <h3>Sculpture</h3>
 <p>
-During my undergraduate studies, I participated in a few studio Art courses, mainly doing sculptural work.
+During my undergraduate studies, I participated in a few studio Art courses (2010-2012), mainly doing sculptural work.  Below is a selection of my work from those courses; they are mixed-media, with predominant use of steel, wood, and twine.  A recurrent theme is exploring space through promoted negative space and constructed tension.
 <table style="width:100%;">
   <tr>
   {% for j in (1..9) %}
@@ -85,3 +83,10 @@ During my undergraduate studies, I participated in a few studio Art courses, mai
   </tr>
 </table>
 </p>
+<br>
+
+<h3>Video</h3>
+<p>
+A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
+<br><br>
+<a href="/files/video/Draenge.mp4"><img src="/files/video/Draenge-titel.png" style="width:50%"></a>
