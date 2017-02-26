@@ -89,4 +89,4 @@ During my undergraduate studies, I participated in a few studio Art courses (201
 <p>
 A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
 <br><br>
-<a href="/files/video/Draenge.mp4"><img src="/files/video/Draenge-titel-thumb.png" style="width:50%"></a>
+<a href="/files/video/Draenge.mp4"><img src="/files/video/Draenge-titel-small.png" style="width:50%"></a>
