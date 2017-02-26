@@ -218,8 +218,8 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Nassau Literature Review</b> <i>Contributor to Winter 2010 issue</i>, Princeton University<br>
-  Selected to have one of my sculptures featured in the student literary magazine Nassau Literature Review<br>
-  <a href="http://nasslit.mycpanel.princeton.edu/pdfs/2010-winter.pdf">Electronic copy</a>, see page 70 (PDF page 71)
+  Selected to have one of my sculptures featured in the student literary magazine <a href="https://nasslit.com/">Nassau Literature Review</a><br>
+  <a href="https://michael-r-j.github.io/files/NassLit-2010-winter.pdf">Electronic copy</a>, see page 70 (PDF page 71)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   4 December 2010
