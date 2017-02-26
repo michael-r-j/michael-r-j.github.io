@@ -13,7 +13,7 @@ sortname: cv
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Technische Universität Wien</b>, Vienna, Austria<br>
-  Ph.D. <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a> within the <a href="http://arcades-network.eu/">ARCADES Network</a><br>
+  Ph.D. in <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a> and early-stage researcher (ESR) within the <a href="http://arcades-network.eu/">ARCADES Network</a><br>
   <b><i>Dissertation</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/index.html#phd">main page</a>)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
@@ -23,7 +23,7 @@ sortname: cv
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Universität Bonn</b>, Bonn, Germany<br>
-  M.Sc. <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
+  M.Sc. in <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
   <b><i>Coursework Overview</i></b>: Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
   <b><i>Thesis</i></b> with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/index.html#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
   </td>
@@ -35,7 +35,7 @@ sortname: cv
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
-  A.B. <a href="http://www.math.princeton.edu/">Mathematics</a><br>
+  A.B. in <a href="http://www.math.princeton.edu/">Mathematics</a><br>
   <b><i>Coursework Overview</i></b>: Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
   <b><i>Concurrent Coursework Overview</i></b>: Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
   <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a>: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus
