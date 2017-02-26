@@ -209,7 +209,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Princeton Class of 2012</b> <i>Class Jacket Designer</i>, Princeton University<br>
   Winner of my class’s design competition for its traditional senior-class jacket<br>
-  <a href="http://blogs.princeton.edu/paw/2012/05/a_century_after.html">Mentioned</a> in the Princeton Alumni Weekly
+  <a href="https://www.princeton.edu/paw/ROXEN/av_files/PAWReunionsGuide2012.pdf">Mentioned</a> in the Princeton Alumni Weekly, page 4 (PDF page 6)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   12 December 2011
