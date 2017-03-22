@@ -14,7 +14,7 @@ This is to-be-determined.  A current description is on the <a href="/index.html#
 <h3>Master’s thesis</h3>
 
 <p>
-This was completed in July 2015, and is described on the <a href="/index.html#masters">main page</a>; a PDF is available <a href="/files/theses/masters.pdf">here</a>.
+This was completed in July 2015, and is described on the <a href="/index.html#masters">main page</a>.
 </p>
 
 
@@ -25,8 +25,6 @@ Starting from near foundations, the theory of the calculus of variations was dev
 setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding
 (in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context,
 and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
-<br>
-A PDF is available <a href="/files/theses/thesis.pdf">here</a>.
 </p>
 
 <br>
@@ -89,4 +87,4 @@ During my undergraduate studies, I participated in a few studio Art courses (201
 <p>
 A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
 <br><br>
-<a href="/files/video/Draenge.mp4"><img src="/files/video/Draenge-titel-small.png" style="width:50%"></a>
+<img src="/files/video/Draenge-titel-small.png" style="width:50%">
