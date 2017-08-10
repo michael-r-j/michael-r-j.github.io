@@ -14,7 +14,7 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Technische Universität Wien</b>, Vienna, Austria<br>
   Ph.D. in <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a> and early-stage researcher (ESR) within the <a href="http://arcades-network.eu/">ARCADES Network</a><br>
-  <b><i>Dissertation</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/index.html#phd">main page</a>)
+  <b><i>Dissertation</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/#phd">main page</a>)
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2016 –<br>
@@ -25,7 +25,7 @@ sortname: cv
   <b>Universität Bonn</b>, Bonn, Germany<br>
   M.Sc. in <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
   <b><i>Coursework Overview</i></b>: Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
-  <b><i>Thesis</i></b> with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/index.html#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
+  <b><i>Thesis</i></b> with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2012 – September 2015<br>
