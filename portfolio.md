@@ -31,9 +31,9 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 
 <h2>Art</h2>
 
-<h3>Drawing</h3>
+<h3><a class="anchor" id="drawing">Drawing</h3>
 <p>
-During my Master’s studies (2012-2015), I participated in drawing courses offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly with charcoal, with some Conté.
+During my Master’s studies (2012-2015), I participated in drawing courses offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses were about 15&ndash;20 minutes.
 <table style="width:100%;">
   <tr>
   {% for j in (1..9) %}
