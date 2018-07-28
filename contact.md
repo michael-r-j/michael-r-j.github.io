@@ -5,4 +5,4 @@ permalink: /contact/
 sortname: contact
 ---
 
-Email: <span class="rev">moc.socyl@j-r-m</span>
+Email: <span class="rev">ca.ta.neiwut@zenemij.leahcim</span>
