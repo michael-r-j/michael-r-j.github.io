@@ -14,7 +14,24 @@ This is to-be-determined.  A current description is on the <a href="/#phd">main 
 <h3>Master’s thesis</h3>
 
 <p>
-This was completed in July 2015, and is described on the <a href="/#masters">main page</a>.
+  This was completed in July 2015.
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <td><u>Title</u>:</td> <td><i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i></td>
+    </tr>
+    <tr>
+      <td><u>Adviser</u>:</td> <td>Prof. C. F. Bödigheimer</td>
+    </tr>
+    <tr>
+      <td><u>School</u>:</td> <td>Universität Bonn, Germany</td>
+    </tr>
+    <tr>
+      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Let \(\mathbf{D}^{2}\) be the \(2\)-disk, as it sits in the standard \(\mathbf{R}^{2} \cong \mathbf{C}\), and let \(\mathcal{Z} = \{\zeta_{j}\}_{j=1}^{n} \subset \mathbf{D}^{2}\).  On \(\mathbf{D}^{2} \smallsetminus \{\zeta_{j}\}_{j}\), there is a harmonic function with singularities at \(\mathcal{Z}\):
+        \[g_{\mathcal{Z}} \left(z\right) := \sum_{j=1}^{n} \ln \left|\frac{\zeta_{j} - z}{1 - \overline{\zeta_{j}} z}\right| .\]
+        It can be shown that this function has, with multiplicities, \(n-1\) critical points in \(\mathbf{D}^{2} \smallsetminus \{\zeta_{j}\}_{j=1}^{n}\).  Looking at the flow lines of the gradient of \(g_{\mathcal{Z}}\) around a critical point \(\rho\), there are certain flow lines that approach \(\rho\) from \(\partial \mathbf{D}^{2}\), the boundary of \(\mathbf{D}^{2}\), and certain flow lines that recede from \(\rho\) toward some singularity or another critical point.  The main task was to understand the relationship between those singular points \(\mathcal{Z}\) and the points of \(\partial\mathbf{D}^{2}\) which flow approaching some critical point.
+      </td>
+    </tr>
+  </table>
 </p>
 
 
@@ -26,65 +43,65 @@ setting. Using appropriate results from the theory and contextual material, two 
 (in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context,
 and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
 </p>
-
 <br>
 
 <h2>Art</h2>
 
-<h3><a class="anchor" id="drawing"></a>Drawing</h3>
+<h3><a class="anchor" id="drawing-Bonn"></a>Drawing in Bonn</h3>
 <p>
-During my Master’s studies (2012-2015), I participated in drawing courses offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses were for about 15&ndash;20 minutes.
-<table style="width:100%;">
-  <tr>
-  {% for j in (1..9) %}
-    <td><a href="/drawings/assorted/00{{ j }}.jpg"><img src="/drawings/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-  {% assign row = forloop.index | modulo:4 %}
-  {% if row == 0 %}
-  </tr>
-  <tr>
-  {% endif %}
-  {% endfor %}
-  {% for j in (0..6) %}
-    <td><a href="/drawings/assorted/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-  {% assign row = forloop.index | modulo:4 %}
-  {% if row == 3 %}
-  </tr>
-  <tr>
-  {% endif %}
-  {% endfor %}
-  </tr>
-</table>
+  During my Master’s studies (2012-2015), I participated in <i>Aktzeichnen: Zeichnen nach Modell II</i> offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses varied in length, for about 15&ndash;20 minutes each.
+  <table style="width:100%;">
+    <tr>
+    {% for j in (1..9) %}
+      <td><a href="/drawings/assorted/00{{ j }}.jpg"><img src="/drawings/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..6) %}
+      <td><a href="/drawings/assorted/01{{ j }}.jpg"><img src="/drawings/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
 </p>
 <br>
 
-<h3>Sculpture</h3>
+<h3>Sculpture at Princeton</h3>
 <p>
-During my undergraduate studies, I participated in a few studio Art courses (2010-2012), mainly doing sculptural work.  Below is a selection of my work from those courses; they are mixed-media, with predominant use of steel, wood, and twine.  A recurrent theme is exploring space through promoted negative space and constructed tension.
-<table style="width:100%;">
-  <tr>
-  {% for j in (1..9) %}
-    <td><a href="/sculptures/small/00{{ j }}.jpg"><img src="/sculptures/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-  {% assign row = forloop.index | modulo:4 %}
-  {% if row == 0 %}
-  </tr>
-  <tr>
-  {% endif %}
-  {% endfor %}
-  {% for j in (0..6) %}
-    <td><a href="/sculptures/small/01{{ j }}.jpg"><img src="/sculptures/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-  {% assign row = forloop.index | modulo:4 %}
-  {% if row == 3 and j != 6 %}
-  </tr>
-  <tr>
-  {% endif %}
-  {% endfor %}
-  </tr>
-</table>
+  During my undergraduate studies, I participated in a few studio Art courses (2010-2012), mainly doing sculptural work.  Below is a selection of my work from those courses; they are mixed-media, with predominant use of steel, wood, and twine.  A recurrent theme is exploring space through promoted negative space and constructed tension.
+  <table style="width:100%;">
+    <tr>
+    {% for j in (1..9) %}
+      <td><a href="/sculptures/small/00{{ j }}.jpg"><img src="/sculptures/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..6) %}
+      <td><a href="/sculptures/small/01{{ j }}.jpg"><img src="/sculptures/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 and j != 6 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
 </p>
 <br>
 
 <h3>Video</h3>
 <p>
-A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
-<br><br>
-<img src="/files/video/Draenge-titel-small.png" style="width:50%">
+  A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
+  <br><br>
+  <img src="/files/video/Draenge-titel-small.png" style="width:50%">
+</p>
