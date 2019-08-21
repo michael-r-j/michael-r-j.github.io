@@ -4,10 +4,10 @@ title: CV
 permalink: /CV/
 sortname: cv
 ---
-
+<b><a href="./#CV_Education">Education</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Academic-Experience">Academic Experience</a> | <a href="./#CV_University-Activities">University Activities</a> | <a href="./#CV_University-Accomplishments">University Accomplishments</a> | <a href="./#CV_Skills">Skills</a></b>
 <hr>
 
-<h2>Education</h2>
+<h2><a class="anchor" id="CV_Education"></a>Education <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
@@ -24,7 +24,7 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Universität Bonn</b>, Bonn, Germany<br>
   M.Sc. in <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
-  <b><i>Coursework Overview</i></b>: Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
+  <b><i>Coursework Overview</i></b> : Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
   <b><i>Thesis</i></b> with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
@@ -36,8 +36,8 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
   A.B. in <a href="http://www.math.princeton.edu/">Mathematics</a><br>
-  <b><i>Coursework Overview</i></b>: Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
-  <b><i>Concurrent Coursework Overview</i></b>: Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
+  <b><i>Coursework Overview</i></b> : Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
+  <b><i>Concurrent Coursework Overview</i></b> : Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
   <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a>: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus
 of Variations</i>
   </td>
@@ -52,7 +52,7 @@ of Variations</i>
 
 <hr>
 
-<h2>Work Experience</h2>
+<h2><a class="anchor" id="CV_Work-Experience"></a>Work Experience <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
@@ -70,7 +70,7 @@ of Variations</i>
 
 <hr>
 
-<h2>Academic Experience</h2>
+<h2><a class="anchor" id="CV_Academic-Experience"></a>Academic Experience <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
@@ -145,7 +145,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 
 <hr>
 
-<h2>University Activities</h2>
+<h2><a class="anchor" id="CV_University-Activities"></a>University Activities <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
@@ -202,7 +202,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 
 <hr>
 
-<h2>University Accomplishments</h2>
+<h2><a class="anchor" id="CV_University-Accomplishments"></a>University Accomplishments <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
@@ -240,7 +240,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 
 <hr>
 
-<h2>Skills</h2>
+<h2><a class="anchor" id="CV_Skills"></a>Skills <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>

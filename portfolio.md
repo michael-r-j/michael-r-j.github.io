@@ -47,7 +47,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 
 <h2>Art</h2>
 
-<h3><a class="anchor" id="drawing-Bonn"></a>Drawing in Bonn</h3>
+<h3><a class="anchor" id="drawing_Bonn"></a>Drawing in Bonn</h3>
 <p>
   During my Master’s studies (2012-2015), I participated in <i>Aktzeichnen: Zeichnen nach Modell II</i> offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses varied in length, for about 15&ndash;20 minutes each.
   <table style="width:100%;">
