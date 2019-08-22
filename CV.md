@@ -4,6 +4,9 @@ title: CV
 permalink: /CV/
 sortname: cv
 ---
+
+{% include ORCID.html %}
+
 <b><a href="./#CV_Education">Education</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Academic-Experience">Academic Experience</a> | <a href="./#CV_University-Activities">University Activities</a> | <a href="./#CV_University-Accomplishments">University Accomplishments</a> | <a href="./#CV_Skills">Skills</a></b>
 <hr>
 

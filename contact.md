@@ -6,3 +6,5 @@ sortname: contact
 ---
 
 Email: <span class="rev">ta.ca.neiwut@zenemij.leahcim</span>
+
+{% include ORCID.html %}
