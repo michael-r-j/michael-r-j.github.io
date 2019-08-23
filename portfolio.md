@@ -150,7 +150,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 
 <h3><a class="anchor" id="sculpture_TU"></a>Sculpture at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
 <p>
-  So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first was about 3-dimensional design with the theme "3-dimensional tilings", and the second was aimed at developing art pieces, around the theme of "pairs/couples".
+  So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first, <i>Dreidimensionales Gestalten</i> (WS2018-19), was about "3-dimensional tilings", and the second, <i>Künstlerisches Projekt X</i> (SS2019), was aimed at developing art pieces, around the theme of "pairs/couples".
   <table style="width:100%;">
     <tr>
       <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/3DG/Objekt.jpg"><img src="/Kunst/Wien/Bildhauerei/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
