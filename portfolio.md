@@ -82,8 +82,8 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
   Here I have a couple of attempts at portraiture in watercolor.
   <table style="width:50%;">
     <tr>
-      <td style="width:25%"><a href="/Kunst/Portraet/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/Kunst/Portraet/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Portraet/resized/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Portraet/resized/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>
