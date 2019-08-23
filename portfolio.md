@@ -12,6 +12,7 @@ sortname: portfolio
   </ol></li>
   <li><a href="./#Art">Art</a>
   <ol style="list-style-type:none;margin-left:-1em;">
+    <li><a href="./#portraiture">Portraiture</a></li>
     <li>Vienna
     <ol style="list-style-type:none;margin-left:-1em;">
     <li><a href="./#sketching_Vienna">Sketching</a> | <a href="./#drawing_TU">Drawing/Painting</a> | <a href="./#sculpture_TU">Sculpture</a></li>
@@ -75,6 +76,17 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 <hr>
 
 <h2><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+
+<h3><a class="anchor" id="portraiture"></a>Portraiture <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<p>
+  Here I have a couple of attempts at portraiture in watercolor.
+  <table style="width:50%;">
+    <tr>
+      <td style="width:25%"><a href="/Kunst/Portraet/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Portraet/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
 
 <h3><a class="anchor" id="sketching_Vienna"></a>Sketching in Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
 <p>
