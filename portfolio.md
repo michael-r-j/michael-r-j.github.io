@@ -79,7 +79,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
   <table style="width:100%;">
     <tr>
     {% for j in (1..9) %}
-      <td><a href="/Kunst/Princeton/sculptures/small/00{{ j }}.jpg"><img src="/Kunst/Princeton/sculptures/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+      <td><a href="/Kunst/Princeton/sculpture/small/00{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 0 %}
     </tr>
@@ -87,7 +87,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
     {% endif %}
     {% endfor %}
     {% for j in (0..6) %}
-      <td><a href="/Kunst/Princeton/sculptures/small/01{{ j }}.jpg"><img src="/Kunst/Princeton/sculptures/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+      <td><a href="/Kunst/Princeton/sculpture/small/01{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 3 and j != 6 %}
     </tr>
