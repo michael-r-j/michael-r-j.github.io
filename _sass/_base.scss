@@ -1,7 +1,7 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3 {
+body, h1, h2, h3, hs {
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ b {
 /**
  * Set `margin-bottom to maintain vertical rhythm
  */
-h1, h2, h3 {
+h1, h2, h3, hs {
     margin-bottom: $spacing-unit * 2;
 }
 p {
@@ -53,6 +53,9 @@ h3 {
     font-size: $base-font-size;
     font-weight: 700;
     margin-bottom: $spacing-unit;
+}
+hs {
+  font-size: $small-font-size;
 }
 
 
