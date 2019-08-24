@@ -122,7 +122,7 @@ a.anchor {
   top: - $spacing-unit * 12;
   visibility: hidden;
 }
-// For larger widths
+// For larger widths -- maybe 492px?
 @media (min-width:508px) {
   a.anchor {
     display: block;
