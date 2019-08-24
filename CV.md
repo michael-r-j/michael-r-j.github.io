@@ -18,9 +18,14 @@ sortname: cv
 <table style="width:100%;border-collapse:collapse;">
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
-  <b>Technische Universität Wien</b>, Vienna, Austria<br>
+  <b>Technische Universität Wien</b>, <i>Project Assistant</i>, Vienna, Austria<br>
   Ph.D. in <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a> and early-stage researcher (ESR) within the <a href="http://arcades-network.eu/">ARCADES Network</a><br>
-  <b><i>Dissertation</i></b> with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/#phd">main page</a>)
+  from the EU's Horizon 2020 program, under Marie Skłodowska-Curie grant N<sup>o</sup> 675789<br>
+  <hs>
+    <b><i>Coursework Overview</i></b> : Geometric Data Processing, Introduction to Optimization<br>
+    <b><i>Concurrent Coursework Overview</i></b> : Material-Based Art Project, \(3\)-Dimensional Design, Figure Drawing<br>
+    <b><i>Dissertation</i></b>  with <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a current description on the <a href="/#phd">main page</a>)
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2016 –<br>
@@ -30,8 +35,10 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Universität Bonn</b>, Bonn, Germany<br>
   M.Sc. in <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
-  <b><i>Coursework Overview</i></b> : Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
-  <b><i>Thesis</i></b> with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
+  <hs>
+    <b><i>Coursework Overview</i></b> : Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
+    <b><i>Thesis</i></b>  with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2012 – September 2015<br>
@@ -42,10 +49,11 @@ sortname: cv
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
   A.B. in <a href="http://www.math.princeton.edu/">Mathematics</a><br>
-  <b><i>Coursework Overview</i></b> : Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
-  <b><i>Concurrent Coursework Overview</i></b> : Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
-  <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a>: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus
-of Variations</i>
+  <hs>
+    <b><i>Coursework Overview</i></b> : Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
+    <b><i>Concurrent Coursework Overview</i></b> : Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
+    <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a>: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus of Variations</i>
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   September 2008 – June 2012<br>
@@ -64,10 +72,67 @@ of Variations</i>
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>SAP Service &amp; Support Centre</b>, <i>Computer Analyst (Support Engineer)</i>, Dublin, Ireland<br>
-  Worked on insurance software development
+  <hs>
+    Worked on insurance software development
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   14 March – 13 September 2016
+  </td>
+</tr>
+</table>
+</p>
+<br>
+
+<hr>
+
+<h2><a class="anchor" id="CV_Conferences"></a>Conferences <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b><a href="https://www.generativeart.com/loc2018/index.htm">XXI. Generative Art Conference</a></b>, Verona, Italy<br>
+  <b><i>Talk</i></b>  with María Lara Miró: <i>From Lines to Circles: Rethinking Design Coordinates</i>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  18 – 20 December 2018<br>
+  </td>
+</tr>
+
+<tr>
+<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b><a href="https://wp.bcamath.org/spm2018/">Solid and Physical Modeling 2018</a></b>, Bilbao, Spain<br>
+  <b><i>Poster</i></b> : <i>Interactive Geometric Design: Constraints Imposed by Function and Fabrication</i>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  11 – 13 June 2018<br>
+  </td>
+</tr>
+
+<tr>
+<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
+  <b><a href="http://www.geometrie.tugraz.at/events/og2017.html">Geometry Workshop in Obergurgl 2017</a></b>, Obergurgl, Austria<br>
+  <b><i>Talk</i></b> : <i>Discrete Weingarten Surfaces from Strips: Expressed in At-Most-Quadratic Constraints</i>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  21 – 26 September 2017<br>
+  </td>
+</tr>
+</table>
+</p>
+<br>
+
+<hr>
+
+<h2><a class="anchor" id="CV_Papers"></a>Papers<sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
+  Jimenez, M.R., Müller, C. & Pottmann, H., <i>Discretizations of Surfaces with Constant Ratio of Principal Curvatures</i>, Discrete Comput. Geom. (2019).<br>
+  <a href="https://doi.org/10.1007/s00454-019-00098-7">https://doi.org/10.1007/s00454-019-00098-7</a>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
   </td>
 </tr>
 </table>
@@ -80,10 +145,38 @@ of Variations</i>
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
+<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b><a href="http://arcades-network.eu/index.php/events/list/?tribe_paged=1&tribe_event_display=past">ARCADES Events</a></b> with information at <a href="http://arcades-network.eu/">http://arcades-network.eu/</a><br>
+    <hs>
+      <b>Learning Week III</b>, INRIA, Sophia Antipolis, France<br>
+      <b>Second Software & Industrial Workshop</b>, Cambridge, UK<br>
+      <b>Doctoral School II & ESR Days</b>, Barcelona, Spain<br>
+      <b>Learning Week II</b>, INRIA, Sophia Antipolis, France<br>
+      <b>First Software & Industrial Workshop</b>, Athens, Greece<br>
+      <b>Learning Week I</b>, INRIA, Sophia Antipolis, France<br>
+      <b>Doctoral School I</b>, Oslo, Norway
+    </hs>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+    <br>
+    <hs>
+      27 – 29 March 2019<br>
+      28 – 31 January 2019<br>
+      3 – 7 September 2018<br>
+      19 – 23 March 2018<br>
+      27 November – 1 December 2017<br>
+      3 – 7 April 2017<br>
+      28 November – 2 December 2016
+    </hs>
+  </td>
+</tr>
+<tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>BMS/SFB Summer School: Discrete Differential Geometry</b>, TU Berlin, Berlin, Germany<br>
   Lectures by: Prof. V. Bazhanov, D. Cremers, V. Fock, G. Kutyniok, F. Luo, U. Pinkall, W. K. Schief, Y. Suris, S. Tabachnikov, and M. Wardetzky<br>
-  with talk titles, and information, at <a href="http://www.discretization.de/en/events/16/">http://www.discretization.de/en/events/16/</a>
+  <hs>
+    with talk titles, and information, at <a href="http://www.discretization.de/events/16/">http://www.discretization.de/events/16/</a>
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   9 – 20 September 2013
@@ -93,8 +186,10 @@ of Variations</i>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Lab Assistant</b>, Civil Engineering Department, Princeton University<br>
 For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, regarding his course “Engineering in the Modern World”<br>
-— Designed a couple of interactive demonstrations of magnetism and telegraphy for first-year students<br>
-— Systematized the restoration of a vintage PDP 8/L computer, including both replacing hardware on its flip-chip modules, and debugging memory reading/writing
+  <hs>
+    — Designed a couple of interactive demonstrations of magnetism and telegraphy for first-year students<br>
+    — Systematized the restoration of a vintage PDP 8/L computer, including both replacing hardware on its flip-chip modules, and debugging memory reading/writing
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   June – August 2012
@@ -104,7 +199,9 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>NSF/RTG Summer Program in Analysis and Geometry</b>, Princeton University<br>
   Lectures by: Asst. Prof. G. Holzegel, Prof. E. Stein, L. Pierce, and A. Ionescu<br>
-  with (resp.) talk titles: “The Geometry of General Relativity”, “A quick introduction to harmonic analysis in \(\mathbf{R}^{d}\)”, “Discrete Analogues in Harmonic Analysis”, “Harmonic Analysis and Nonlinear Dispersive Equations”
+  <hs>
+    with (resp.) talk titles: “The Geometry of General Relativity”, “A quick introduction to harmonic analysis in \(\mathbf{R}^{d}\)”, “Discrete Analogues in Harmonic Analysis”, “Harmonic Analysis and Nonlinear Dispersive Equations”
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   6 – 22 July 2011
@@ -113,9 +210,11 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Research Assistant</b>, Physics Department, Princeton University<br>
-  For <a href="http://www.princeton.edu/physics/people/display_person.xml?netid=staggs">Prof. Suzanne Staggs</a><br>
-  — Calculated, with Python, estimate Mueller matrices for an ABS half-wave plate<br>
-  — Learned about linear optics, Jones matrices, and Mueller matrices
+  For <a href="https://phy.princeton.edu/people/suzanne-t-staggs">Prof. Suzanne Staggs</a><br>
+  <hs>
+    — Calculated, with Python, estimate Mueller matrices for an ABS half-wave plate<br>
+    — Learned about linear optics, Jones matrices, and Mueller matrices
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   June – August 2011
@@ -125,9 +224,11 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Lab Assistant</b>, Civil Engineering Department, Princeton University<br>
   For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, regarding his course “Engineering in the Modern World”<br>
-  — Developed six hands-on laboratory demonstrations for his course meant for first-year students<br>
-  — Wrote accompanying intuitive descriptions of the Physics-related processes exemplified by the demonstrations<br>
-  — Constructed guidelines for use in these laboratory exercises as to show how these processes are involved in radio transmission and reception
+  <hs>
+    — Developed six hands-on laboratory demonstrations for his course meant for first-year students<br>
+    — Wrote accompanying intuitive descriptions of the Physics-related processes exemplified by the demonstrations<br>
+    — Constructed guidelines for use in these laboratory exercises as to show how these processes are involved in radio transmission and reception
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   June – August 2010
@@ -138,8 +239,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
   <b>Research Assistant</b>, Astrophysics Department, Princeton University<br>
   For <a href="http://www.astro.princeton.edu/~anatoly/">Prof. Anatoly Spitkovsky</a>, Lorenzo Sironi (GS)<br>
   Abstract Title: <i>Accelerating Particle Acceleration in Shocks</i><br>
-  — Worked with FORTRAN code to run particle-in-cell simulations of particle acceleration in plasma<br>
-  — Coded in IDL in order to analysis and interpret the output data
+  <hs>
+    — Worked with FORTRAN code to run particle-in-cell simulations of particle acceleration in plasma<br>
+    — Coded in IDL in order to analysis and interpret the output data
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   June – August 2009
@@ -157,7 +260,9 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Universität Bonn Fachbibliothek Mathematik</b> <i>Studentische Hilfskraft (Student Assistant)</i>, Bonn, Germany<br>
-  — Managed, weekly, the front desk of the Mathematics library
+  <hs>
+    — Managed, weekly, the front desk of the Mathematics library
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   April 2013 – September 2015
@@ -166,8 +271,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Max Planck Institute for Mathematics</b> <i>Wissenschaftliche Hilfskraft (Scientific Assistant)</i>, Bonn, Germany<br>
-  — \(\LaTeX\)-ed several chapters for the fourth edition of Prof. Dale Husemöller’s textbook <i>Fibre Bundles</i>, under supervision of Dr. Alexander Weisse<br>
-  — \(\LaTeX\)-ed a few other smaller papers/files for Prof. Husemöller and Dr. Weisse
+  <hs>
+    — \(\LaTeX\)-ed several chapters for the fourth edition of Prof. Dale Husemöller’s textbook <i>Fibre Bundles</i>, under supervision of Dr. Alexander Weisse<br>
+    — \(\LaTeX\)-ed a few other smaller papers/files for Prof. Husemöller and Dr. Weisse
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   March 2013 – June 2015
@@ -176,7 +283,9 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Princeton Learning Cooperative</b> <i>Tutor</i>, Princeton, NJ, U.S.A.<br>
-  — Tutored a local high school student in abstract Algebra, once a week for several months
+  <hs>
+    — Tutored a local high school student in abstract Algebra, once a week for several months
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   October 2011 – January 2012
@@ -185,8 +294,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Princeton UNIX Users’ Group (PUG)</b> <i>President</i> (2009 – 2011), <i>Treasurer</i> (2011 – 2012), Princeton University<br>
-  — Promoted student use of *nix on campus<br>
-  — Managed group’s listserv
+  <hs>
+    — Promoted student use of *nix on campus<br>
+    — Managed group’s listserv
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   May 2009 – May 2012
@@ -195,8 +306,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Freshmen Scholars Institute</b> <i>Tutor</i>, Princeton University<br>
-  — Engaged selected incoming freshmen with elementary Number Theory and Probability<br>
-  — Aided tutees with homework sets, three nights a week for six weeks
+  <hs>
+    — Engaged selected incoming freshmen with elementary Number Theory and Probability<br>
+    — Aided tutees with homework sets, three nights a week for six weeks
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   July – August 2011
@@ -214,8 +327,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Princeton Class of 2012</b> <i>Class Jacket Designer</i>, Princeton University<br>
-  Winner of my class’s design competition for its traditional senior-class jacket<br>
-  <a href="https://www.princeton.edu/paw/ROXEN/av_files/PAWReunionsGuide2012.pdf">Mentioned</a> in the Princeton Alumni Weekly, page 4 (PDF page 6)
+  <hs>
+    Winner of my class’s design competition for its traditional senior-class jacket<br>
+    <a href="https://www.princeton.edu/paw/ROXEN/av_files/PAWReunionsGuide2012.pdf">Mentioned</a> in the Princeton Alumni Weekly, page 4 (PDF page 6)
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   12 December 2011
@@ -224,8 +339,10 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Nassau Literature Review</b> <i>Contributor to Winter 2010 issue</i>, Princeton University<br>
-  Selected to have one of my sculptures featured in the student literary magazine <a href="https://nasslit.com/">Nassau Literature Review</a><br>
-  <a href="https://michael-r-j.github.io/files/NassLit-2010-winter.pdf">Electronic copy</a>, see page 70 (PDF page 71)
+  <hs>
+    Selected to have one of my sculptures featured in the student literary magazine <a href="https://nasslit.com/">Nassau Literature Review</a><br>
+    <a href="https://michael-r-j.github.io/files/NassLit-2010-winter.pdf">Electronic copy</a>, see page 70 (PDF page 71)
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   4 December 2010
@@ -234,7 +351,9 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton Class of 2012</b> <i>Pre-Rade 2009 Shirt Designer</i>, Princeton University<br>
-  Winner of my class’s design competition for its t-shirt at the Princeton Pre-Rade, 13 September 2009
+  <hs>
+    Winner of my class’s design competition for its t-shirt at the Princeton Pre-Rade, 13 September 2009
+  </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   27 July 2009
