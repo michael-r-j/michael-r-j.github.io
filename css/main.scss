@@ -21,7 +21,7 @@ $site-header-height: 50px;
 
 $footer-font-size: $base-font-size*.9;
 
-$spacing-unit:     10px;
+$spacing-unit:     $base-font-size * 0.6666666666;
 
 $background-color: #f5f5f5;
 $header-background-color: darken($background-color, 15%);

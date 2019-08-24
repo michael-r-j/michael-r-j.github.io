@@ -115,9 +115,19 @@ span.rev {
 }
 
 // To position the line go-to
+// For smaller widths
 a.anchor {
   display: block;
   position: relative;
-  top: - $spacing-unit * 7;
+  top: - $spacing-unit * 12;
   visibility: hidden;
+}
+// For larger widths
+@media (min-width:508px) {
+  a.anchor {
+    display: block;
+    position: relative;
+    top: - $spacing-unit * 7;
+    visibility: hidden;
+  }
 }
