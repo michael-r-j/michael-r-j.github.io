@@ -93,18 +93,26 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
   While living in Vienna, I sketch regularly around the City: at museums, and recently, also outside.  The drawings are done in pencil, while the paintings are done with various watercolors.
   <table style="width:100%;">
     <tr>
-    {% for j in (0..1) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/02{{ 1 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/02{{ 1 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% for j in (0..5) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/02{{ 5 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/02{{ 5 | minus: j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 0 %}
     </tr>
     <tr>
     {% endif %}
     {% endfor %}
-    {% for j in (0..4) %}
+    {% for j in (0..9) %}
       <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/01{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/01{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 2 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
     </tr>
     <tr>
     {% endif %}
