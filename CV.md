@@ -8,7 +8,8 @@ sortname: cv
 {% include ORCID.html %}
 
 <p>
-  <h3><a href="./#CV_Education">Education</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Conferences">Conferences</a> | <a href="./#CV_Papers">Papers</a> | <a href="./#CV_Academic-Experience">Academic Experience</a> | <a href="./#CV_University-Activities">University Activities</a> | <a href="./#CV_University-Accomplishments">University Accomplishments</a> | <a href="./#CV_Skills">Skills</a></h3>
+  <h3><a href="./#CV_Education">Education</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Conferences">Conferences</a> | <a href="./#CV_Papers">Papers</a> | <a href="./#CV_Academic-Experience">Academic Experience</a><br>
+  <a href="./#CV_University-Activities">University Activities</a> | <a href="./#CV_University-Accomplishments">University Accomplishments</a> | <a href="./#CV_Skills">Skills</a></h3>
 </p>
 
 <hr>
