@@ -1,0 +1,5 @@
+mkdir ./resized
+mkdir ./thumbs
+for i in *jpg ; do convert $i -quality 90% ./resized/$i ; done
+cd ./resized
+for i in *jpg ; do convert $i -resize 25% ../thumbs/$i ; done
