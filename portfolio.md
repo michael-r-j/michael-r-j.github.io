@@ -173,32 +173,32 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
   So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first, <i>Dreidimensionales Gestalten</i> (WS2018-19), was about "3-dimensional tilings", and the second, <i>Künstlerisches Projekt X</i> (SS2019), was aimed at developing art pieces, around the theme of "pairs/couples".
   <table style="width:100%;">
     <tr>
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/3DG/Objekt.jpg"><img src="/Kunst/Wien/Bildhauerei/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/Stunted-Ephemera.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/Stunted-Ephemera.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/Stunted-Ephemera.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/Stunted-Ephemera.jpg" style="width:100%;"></a></td>
     {% for j in (1..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/00{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 2 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/01{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 1 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..2) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/02{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/02{{ j }}.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/00{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 3 %}
     </tr>
     <tr>
     {% endif %}
     {% endfor %}
+    {% for j in (0..9) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/01{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 2 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..2) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/02{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/02{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+     <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/3DG/Objekt.jpg"><img src="/Kunst/Wien/Bildhauerei/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
 
@@ -237,7 +237,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
   <table style="width:100%;">
     <tr>
     {% for j in (1..9) %}
-      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/small/00{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/resized/00{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 0 %}
     </tr>
@@ -245,7 +245,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
     {% endif %}
     {% endfor %}
     {% for j in (0..6) %}
-      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/small/01{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/resized/01{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
     {% assign row = forloop.index | modulo:4 %}
     {% if row == 3 and j != 6 %}
     </tr>
