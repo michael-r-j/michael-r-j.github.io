@@ -35,7 +35,7 @@ sortname: portfolio
 <h3><a class="anchor" id="PhD"></a>Doctoral dissertation <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
 
 <p>
-  This is to-be-determined.  A current description is on the <a href="/#phd">main page</a>.
+  This is to-be-determined.
 </p>
 <br>
 
