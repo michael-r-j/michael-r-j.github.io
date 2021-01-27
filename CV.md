@@ -19,13 +19,13 @@ sortname: cv
 <table style="width:100%;border-collapse:collapse;">
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
-  <b>Technische Universität Wien</b>, <i>Project Assistant</i>, Vienna, Austria<br>
+  <b>Technische Universität Wien</b>, Vienna, Austria<br>
   Ph.D. in <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a><br>
-  Third-party projects (October 2019 – )<br>
-  ESR within <a href="http://arcades-network.eu/">ARCADES Network</a>, Marie Skłodowska-Curie grant N<sup>o</sup> 675789<br>
+  Third-party projects (October 2019 – December 2020)<br>
+  ESR within <a href="http://arcades-network.eu/">ARCADES Network</a>, Marie Skłodowska-Curie grant N&ordm; 675789<br>
   (October 2016 – September 2019)<br>
   <hs>
-    <b><i>Supervisor</i></b>:  <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. Helmut Pottmann</a> (see a description on the <a href="/#phd">main page</a>)<br>
+    <b><i>Supervisor</i></b>:  <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. H. Pottmann</a> (October 2016 – July 2020) (see a description on the <a href="/#phd">main page</a>)<br>
     <b><i>Coursework Overview</i></b> : Geometric Data Processing, Introduction to Optimization<br>
     <b><i>Concurrent Coursework Overview</i></b> : Material-Based Art Project, \(3\)-Dimensional Design, Figure Drawing
   </hs>
@@ -373,7 +373,7 @@ For <a href="http://www.princeton.edu/~mlittman/">Prof. Michael Littman</a>, reg
 <table style="width:100%;border-collapse:collapse;">
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
-<b>Computer</b>: Proficient in using \(\LaTeX\), Linux, Haskell, GIMP, Inkscape, most office-suite programs.<br>
+<b>Computer</b>: Proficient in using \(\LaTeX\), Linux, GIMP, Inkscape, most office-suite programs.<br>
 <b>Languages</b>: English (native), German (ca. level B2).
   </td>
 </tr>
