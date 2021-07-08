@@ -15,6 +15,7 @@ sortname: portfolio
     <li><a href="./#portraiture">Portraiture</a></li>
     <li>Vienna
     <ol style="list-style-type:none;margin-left:-1em;">
+    <!--<li><a href="./#Angewandte">Angewandte (TransArts)</a></li>-->
     <li><a href="./#sketching_Vienna">Sketching</a> | <a href="./#drawing_TU">Drawing/Painting</a> | <a href="./#sculpture_TU">Sculpture</a></li>
     </ol></li>
     <li>Bonn
