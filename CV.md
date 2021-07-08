@@ -19,6 +19,15 @@ sortname: cv
 <table style="width:100%;border-collapse:collapse;">
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Universität für angewandte Kunst Wien</b>, Vienna, Austria<br>
+  M.A. in <a href="https://www.transarts.at/">Transdisciplinary Art</a><br>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  October 2020 –<br>
+  </td>
+</tr>
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Technische Universität Wien</b>, Vienna, Austria<br>
   Ph.D. in <a href="http://www.dmg.tuwien.ac.at/">Mathematics</a><br>
   Third-party projects (October 2019 – December 2020)<br>
