@@ -76,12 +76,13 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 <hr>
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my Instagram</a>.
 
 <h2><a class="anchor" id="Angewandte"></a>Angewandte, Transdisciplinary Arts <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   In October 2020, I started a Masters in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class at the University of Applied Arts (Angewandte) in Vienna.<br>
   <p>
-    <b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a><br></b>
+    <b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (12.5.21 – 13.6.21)</b><br>
     <div style="padding-left: 5%">»Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
     The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
     The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
