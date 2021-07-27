@@ -5,18 +5,17 @@ permalink: /portfolio/
 sortname: portfolio
 ---
 
-<h3><ol style="padding:0;list-style-type:none;">
+<h2><ol style="padding:0;list-style-type:none;">
   <li><a href="./#Math">Mathematics</a>
   <ol style="list-style-type:none;margin-left:-1em;">
     <li><a href="./#PhD">Doctoral dissertation</a> | <a href="./#MSc">Master's thesis</a> | <a href="./#AB">Bachelor's thesis</a></li>
   </ol></li>
   <li><a href="./#Art">Art</a>
   <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#portraiture">Portraiture</a></li>
     <li>Vienna
     <ol style="list-style-type:none;margin-left:-1em;">
-    <!--<li><a href="./#Angewandte">Angewandte (TransArts)</a></li>-->
-    <li><a href="./#sketching_Vienna">Sketching</a> | <a href="./#drawing_TU">Drawing/Painting</a> | <a href="./#sculpture_TU">Sculpture</a></li>
+    <li><a href="./#Angewandte">Angewandte (Transdisciplinary Arts)</a></li>
+    <li><a href="./#sketching_Vienna">Sketching</a> | <a href="./#drawing_TU">Drawing/Painting</a> | <a href="./#sculpture_TU">Sculpture</a> | <a href="./#portraiture">Portraiture</a></li>
     </ol></li>
     <li>Bonn
     <ol style="list-style-type:none;margin-left:-1em;">
@@ -27,20 +26,20 @@ sortname: portfolio
     <li><a href="./#sculpture_Princeton">Sculpture</a> | <a href="./#video_Princeton">Video</a></li>
     </ol></li>
   </ol></li>
-</ol></h3>
+</ol></h2>
 
 <hr>
 
-<h2><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
-<h3><a class="anchor" id="PhD"></a>Doctoral dissertation <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="PhD"></a>Doctoral dissertation <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 <p>
   This is to-be-determined.
 </p>
 <br>
 
-<h3><a class="anchor" id="MSc"></a>Master’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="MSc"></a>Master’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 <p>
   This was completed in July 2015.
@@ -64,7 +63,7 @@ sortname: portfolio
 </p>
 <br>
 
-<h3><a class="anchor" id="AB"></a>Bachelor’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="AB"></a>Bachelor’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 <p>
 Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian
@@ -76,20 +75,72 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 
 <hr>
 
-<h2><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
-<h3><a class="anchor" id="portraiture"></a>Portraiture <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="Angewandte"></a>Angewandte, Transdisciplinary Arts <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
-  Here I have a couple of attempts at portraiture in watercolor.
-  <table style="width:50%;">
+  In October 2020, I started a Masters in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class at the University of Applied Arts (Angewandte) in Vienna.<br>
+  <p>
+    <b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a><br></b>
+    <div style="padding-left: 5%">»Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
+    The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
+    The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
+    <table style="width:100%;">
+      <tr>
+        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
+        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
+      </tr>
+    </table>
+    <table style="width:100%;">
+      <tr>
+        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-front.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
+        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-side.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
+      </tr>
+    </table>
+    </div>
+  </p>
+  <!--<table style="width:100%;">
     <tr>
-      <td style="width:25%"><a href="/Kunst/Portraet/resized/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/Kunst/Portraet/resized/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
+    {% for j in (0..6) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/02{{ 6 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/02{{ 6 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
     </tr>
-  </table>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..9) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/01{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/01{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 1 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+    <tr>
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Aquarell/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Aquarell/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>-->
 </p>
+<br>
 
-<h3><a class="anchor" id="sketching_Vienna"></a>Sketching in Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="sketching_Vienna"></a>Sketching in Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   While living in Vienna, I sketch regularly around the City: at museums, and recently, also outside.  The drawings are done in pencil, while the paintings are done with various watercolors.
   <table style="width:100%;">
@@ -133,7 +184,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 </p>
 <br>
 
-<h3><a class="anchor" id="drawing_TU"></a>Drawing/Painting at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="drawing_TU"></a>Drawing/Painting at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   During my Doctoral studies (2016&ndash;), I am regularly participated in <i>Beobachtendes Zeichnen I/II</i> offered by the TU Wien.  The paintings are done in watercolors, while the drawings are done in pencil, and the duration of the poses varied, from about 5&ndash;15 minutes each.
   <table style="width:100%;">
@@ -169,7 +220,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 </p>
 <br>
 
-<h3><a class="anchor" id="sculpture_TU"></a>Sculpture at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="sculpture_TU"></a>Sculpture at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first, <i>Dreidimensionales Gestalten</i> (WS2018-19), was about "3-dimensional tilings", and the second, <i>Künstlerisches Projekt X</i> (SS2019), was aimed at developing art pieces, around the theme of "pairs/couples".
   <table style="width:100%;">
@@ -202,11 +253,21 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/3DG/Objekt.jpg"><img src="/Kunst/Wien/Bildhauerei/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
+</p>
 
+<h2><a class="anchor" id="portraiture"></a>Portraiture while Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<p>
+  Here I have a couple of attempts at portraiture in watercolor.
+  <table style="width:50%;">
+    <tr>
+      <td style="width:25%"><a href="/Kunst/Portraet/resized/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/Kunst/Portraet/resized/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
 </p>
 <br>
 
-<h3><a class="anchor" id="drawing_Bonn"></a>Drawing in Bonn <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="drawing_Bonn"></a>Drawing in Bonn <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   During my Master’s studies (2012&ndash;2015), I participated in <i>Aktzeichnen: Zeichnen nach Modell II</i> offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses varied in length, from about 15&ndash;20 minutes each.
   <table style="width:100%;">
@@ -232,7 +293,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 </p>
 <br>
 
-<h3><a class="anchor" id="sculpture_Princeton"></a>Sculpture at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="sculpture_Princeton"></a>Sculpture at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   During my undergraduate studies, I participated in a few studio Art courses (2010&ndash;2012), mainly doing sculptural work.  Below is a selection of my work from those courses; they are mixed-media, with predominant use of steel, wood, and twine.  A recurrent theme is exploring space through promoted negative space and constructed tension.
   <table style="width:100%;">
@@ -258,7 +319,7 @@ and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian c
 </p>
 <br>
 
-<h3><a class="anchor" id="video_Princeton"></a>Video at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h3>
+<h2><a class="anchor" id="video_Princeton"></a>Video at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
   <br><br>
