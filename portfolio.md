@@ -8,7 +8,7 @@ sortname: portfolio
 <h2><ol style="padding:0;list-style-type:none;">
   <li><a href="./#Math">Mathematics</a>
   <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#PhD">Doctoral dissertation</a> | <a href="./#MSc">Master's thesis</a> | <a href="./#AB">Bachelor's thesis</a></li>
+    <li><a href="./#PhD">Doctoral dissertation</a> | <a href="./#PhD_studies">Doctoral studies</a> | <a href="./#MSc">Master's thesis</a> | <a href="./#AB">Bachelor's thesis</a></li>
   </ol></li>
   <li><a href="./#Art">Art</a>
   <ol style="list-style-type:none;margin-left:-1em;">
@@ -35,7 +35,44 @@ sortname: portfolio
 <h2><a class="anchor" id="PhD"></a>Doctoral dissertation <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 <p>
-  This is to-be-determined.
+  This is to-be-determined; currently looking for a supervisor.
+</p>
+<br>
+
+<h2><a class="anchor" id="PhD_studies"></a>Doctoral studies <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+
+From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network</a> ESR (<i>Early-Stage Researcher</i>) as a Project Assistant at TU Wien, leading to one publication and one preprint; see <a href="/CV/#CV_Papers">my papers</a>.  More details are on <a href="/CV/#CV_Education">my CV</a>.
+<p>
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <td><u>Title</u>:</td> <td><i>Surfaces with a constant ratio of principle curvatures</i></td>
+    </tr>
+    <tr>
+      <td><u>Adviser</u>:</td> <td>Prof. Helmut Pottmann</td>
+    </tr>
+    <tr>
+      <td><u>School</u>:</td> <td>Technische Universität Wien, Austria</td>
+    </tr>
+    <tr>
+      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Investigate surfaces that have a constant ratio of principle curvatures.  These are of particular interest for architectural applications, because a discretization of them not only yields aesthetically-appealing façades, but also has a realization that is possible using flat, rectangular strips along the asymptotic polylines.
+      <table style="width:95%;margin-left:auto;margin-right:auto;">
+        <tr>
+          <td style="width:30%;"><a href="/research/renders/enneper2_.png"><img src="/research/renders/thumbs/enneper2_.png" style="width:100%;"></a></td>
+          <td style="width:5%;"><a href="/research/renders/enneper2_flat-strips_.png"><img src="/research/renders/thumbs/enneper2_flat-strips_.png" style="width:100%;"></a></td>
+          <td style="width:30%;"><a href="/research/renders/enneper2_strips_color_.png"><img src="/research/renders/thumbs/enneper2_strips_color_.png" style="width:100%;"></a></td>
+          <td style="width:30%;"><a href="/research/renders/loop-de-loop_struct-perspective_.png"><img src="/research/renders/thumbs/loop-de-loop_struct-perspective_.png" style="width:100%;"></a></td>
+        </tr>
+      </table>
+      Currently, explicit smooth examples are not known in general, aside from minimal surfaces and a family of surfaces of revolution.  Here is what a couple discrete examples look like, which have minimal-surface analogs.
+      <table style="width:60%;margin-left:auto;margin-right:auto;">
+        <tr>
+          <td style="width:30%"><a href="/research/renders/tri_stretch_new_.png"><img src="/research/renders/thumbs/tri_stretch_new_.png" style="width:100%;"></a></td>
+          <td style="width:30%"><a href="/research/renders/punc_cube_stretch_new_.png"><img src="/research/renders/thumbs/punc_cube_stretch_new_.png" style="width:100%;"></a></td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+  </table>
 </p>
 <br>
 
@@ -82,62 +119,49 @@ More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my I
 <p>
   In October 2020, I started a Masters in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class at the University of Applied Arts (Angewandte) in Vienna.<br>
   <p>
-    <b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (12.5.21 – 13.6.21)</b><br>
-    <div style="padding-left: 5%">»Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
-    The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
-    The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
-    <table style="width:100%;">
-      <tr>
-        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
-        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
-      </tr>
-    </table>
-    <table style="width:100%;">
-      <tr>
-        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-front.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
-        <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-side.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
-      </tr>
-    </table>
+    <a class="anchor" id="Angewandte_Festival21"></a><b>Angewandte Festival 2021</b> (29.6.21 – 2.7.21)<br>
+    <div style="padding-left: 5%">
+      <b>»Stühle mit Abstand«</b><br>
+      <i>chairs, 2 meters of steel, Abstand</i><br>
+      What does it mean to find intimacy, when familiarity is obscured?  Two chairs are placed in an intimate acrobatic pose, a physical conversation mediated by 2 meters of steel.
+      <table style="width:100%;">
+        <tr>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/chairs_front.gif"><img src="/Kunst/Wien/Angewandte/Festival21/chairs_front.gif" style="width:100%;"></a></td>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/chairs_side.gif"><img src="/Kunst/Wien/Angewandte/Festival21/chairs_side_.gif" style="width:100%;"></a></td>
+        </tr>
+      </table>
+    </div>
+    <div style="padding-left: 5%">
+      <b>»Stunted Objects«</b><br>
+      <i>plaster, wood, steel, rust, friction</i><br>
+      <table style="width:100%;">
+        <tr>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/object1.gif"><img src="/Kunst/Wien/Angewandte/Festival21/object1.gif" style="width:100%"></a></td>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/object2_tog.jpg"><img src="/Kunst/Wien/Angewandte/Festival21/thumbs/object2_front_.jpg" onmouseover="this.src='/Kunst/Wien/Angewandte/Festival21/thumbs/object2_side_.jpg'" onmouseout="this.src='/Kunst/Wien/Angewandte/Festival21/thumbs/object2_front_.jpg'" style="width:100%;"></a></td>
+        </tr>
+      </table>
     </div>
   </p>
-  <!--<table style="width:100%;">
-    <tr>
-    {% for j in (0..6) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/02{{ 6 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/02{{ 6 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/01{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/01{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 1 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..8) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 3 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-    <tr>
-    {% for j in (0..8) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Aquarell/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Aquarell/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-  </table>-->
+  <p>
+    <a class="anchor" id="Angewandte_Naivete"></a><b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (12.5.21 – 13.6.21)</b><br>
+    <div style="padding-left: 5%">
+      »Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
+      The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
+      The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
+      <table style="width:100%;">
+        <tr>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
+        </tr>
+      </table>
+      <table style="width:100%;">
+        <tr>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-front.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
+          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-side.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
+        </tr>
+      </table>
+    </div>
+  </p>
 </p>
 <br>
 

@@ -8,7 +8,7 @@ sortname: cv
 {% include ORCID.html %}
 
 <p>
-  <h3><a href="./#CV_Education">Education</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Conferences">Conferences</a> | <a href="./#CV_Papers">Papers</a> | <a href="./#CV_Academic-Experience">Academic Experience</a><br>
+  <h3><a href="./#CV_Education">Education</a> | <a href="./#CV_Papers">Publications & Preprints</a> | <a href="./#CV_Work-Experience">Work Experience</a> | <a href="./#CV_Conferences">Conferences</a> | <a href="./#CV_Academic-Experience">Academic Experience</a><br>
   <a href="./#CV_University-Activities">University Activities</a> | <a href="./#CV_University-Accomplishments">University Accomplishments</a> | <a href="./#CV_Skills">Skills</a></h3>
 </p>
 
@@ -26,6 +26,7 @@ sortname: cv
   October 2020 –<br>
   </td>
 </tr>
+
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Technische Universität Wien</b>, Vienna, Austria<br>
@@ -34,7 +35,7 @@ sortname: cv
   ESR within <a href="http://arcades-network.eu/">ARCADES Network</a>, Marie Skłodowska-Curie grant N&ordm; 675789<br>
   (October 2016 – September 2019)<br>
   <hs>
-    <b><i>Supervisor</i></b>:  <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. H. Pottmann</a> (October 2016 – July 2020) (see a description on the <a href="/#phd">main page</a>)<br>
+    <b><i>Supervisor</i></b>:  <a href="http://www.dmg.tuwien.ac.at/pottmann/">Prof. H. Pottmann</a> (October 2016 – July 2020) (see a description in <a href="/portfolio/#PhD_studies">my portfolio</a>)<br>
     <b><i>Coursework Overview</i></b> : Geometric Data Processing, Introduction to Optimization<br>
     <b><i>Concurrent Coursework Overview</i></b> : Material-Based Art Project, \(3\)-Dimensional Design, Figure Drawing
   </hs>
@@ -43,13 +44,14 @@ sortname: cv
   October 2016 –<br>
   </td>
 </tr>
+
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
   <b>Universität Bonn</b>, Bonn, Germany<br>
   M.Sc. in <a href="http://www.mathematics.uni-bonn.de/">Mathematics</a><br>
   <hs>
     <b><i>Coursework Overview</i></b> : Complex Geometry, Symplectic Geometry, Global Analysis of Riemann Surfaces, Ricci Flow, Differential Topology, Hyperbolic Groups, Algebraic Topology, Characteristic Classes, Representation Theory<br>
-    <b><i>Thesis</i></b>  with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description on the <a href="/#masters">main page</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
+    <b><i>Thesis</i></b>  with <a href="http://www.math.uni-bonn.de/people/cfb/">Prof. C. F. Bödigheimer</a> (see a description in <a href="/portfolio/#MSc">my portfolio</a>): <i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i>
   </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
@@ -57,6 +59,7 @@ sortname: cv
   Weighted GPA: 2.1 (81%)
   </td>
 </tr>
+
 <tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>Princeton University</b>, Princeton, NJ, U.S.A.<br>
@@ -64,12 +67,37 @@ sortname: cv
   <hs>
     <b><i>Coursework Overview</i></b> : Differential Geometry, Riemannian Geometry, Modern Classical Dynamics, Advanced Classical Mechanics, Algebra with Galois Theory, Mathematical Methods in Physics<br>
     <b><i>Concurrent Coursework Overview</i></b> : Advanced Sculpture Studio, Advanced Painting Studio, Advanced Drawing Studio, German Language<br>
-    <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a>: <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus of Variations</i>
+    <b><i>Thesis</i></b> with <a href="http://www.imperial.ac.uk/people/g.holzegel">Asst. Prof. G. Holzegel</a> (see a description in <a href="/portfolio/#AB">my portfolio</a>): <i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus of Variations</i>
   </hs>
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   September 2008 – June 2012<br>
   Dept. GPA: 3.35 of 4 (B+)
+  </td>
+</tr>
+</table>
+</p>
+<br>
+
+<hr>
+
+<h2><a class="anchor" id="CV_Papers"></a>Publications & Preprints<sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<p>
+<table style="width:100%;border-collapse:collapse;">
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  Jimenez, M.R., <i>Note on Surfaces of Revolution with an Affine-Linear Relation between their Curvature Radii</i>, <a href="https://arxiv.org/abs/2105.10320">arXiv preprint</a>.
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  </td>
+</tr>
+
+<tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
+  Jimenez, M.R., Müller, C. & Pottmann, H., <i>Discretizations of Surfaces with Constant Ratio of Principal Curvatures</i>, Discrete Comput. Geom. (2019).<br>
+  <a href="https://doi.org/10.1007/s00454-019-00098-7">https://doi.org/10.1007/s00454-019-00098-7</a>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
   </td>
 </tr>
 </table>
@@ -128,23 +156,6 @@ sortname: cv
   </td>
   <td style="width:25%;vertical-align:top;text-align:right;">
   21 – 26 September 2017<br>
-  </td>
-</tr>
-</table>
-</p>
-<br>
-
-<hr>
-
-<h2><a class="anchor" id="CV_Papers"></a>Papers<sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-<table style="width:100%;border-collapse:collapse;">
-<tr>
-<td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
-  Jimenez, M.R., Müller, C. & Pottmann, H., <i>Discretizations of Surfaces with Constant Ratio of Principal Curvatures</i>, Discrete Comput. Geom. (2019).<br>
-  <a href="https://doi.org/10.1007/s00454-019-00098-7">https://doi.org/10.1007/s00454-019-00098-7</a>
-  </td>
-  <td style="width:25%;vertical-align:top;text-align:right;">
   </td>
 </tr>
 </table>
