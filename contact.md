@@ -5,6 +5,6 @@ permalink: /contact/
 sortname: contact
 ---
 
-Email: <span class="rev">ta.ca.neiwut@zenemij.leahcim</span>
+E-mail: <span class="rev">ta.jrm@liam</span>
 
 {% include ORCID.html %}
