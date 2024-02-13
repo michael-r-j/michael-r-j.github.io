@@ -1,10 +1,6 @@
-# Site settings
-title: Michael-R-J
-email: #
-#description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://michael-r-j.github.io" # the base hostname & protocol for your site
-github_username: michael-r-j
+# Site parameters
+title: "Michael R.J."
+baseurl: ""
 
 # Build settings
 markdown: kramdown
