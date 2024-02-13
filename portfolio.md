@@ -143,7 +143,7 @@ More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my I
     </div>
   </p>
   <p>
-    <a class="anchor" id="Angewandte_Naivete"></a><b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (12.5.21 – 13.6.21)</b><br>
+    <a class="anchor" id="Angewandte_Naivete"></a><b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (18.3.21 – 12.6.21) [<a href="/files/Naivete_WUK_press.pdf">press release</a>]</b><br>
     <div style="padding-left: 5%">
       »Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
       The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
