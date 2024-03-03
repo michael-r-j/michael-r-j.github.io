@@ -268,14 +268,14 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
   The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
   <table style="width:100%;">
     <tr>
-      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/art/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
-      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/art/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/resized/front.jpg"><img src="/art/exhibitions/2021/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/resized/front-night.jpg"><img src="/art/exhibitions/2021/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
   <table style="width:100%;">
     <tr>
-      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/inside-front.gif"><img src="/art/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
-      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/inside-side.gif"><img src="/art/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-front.gif"><img src="/art/exhibitions/2021/Naivete/inside-front.gif" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-side.gif"><img src="/art/exhibitions/2021/Naivete/inside-side.gif" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>
