@@ -10,13 +10,13 @@ sortname: portfolio
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
         <tr>
-          <td>2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
+          <td style="width:7em;vertical-align:top;">2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
         </tr>
         <tr>
-          <td>2012 – 2015</td> <td><a href="./#MSc">Master's thesis</a><span style="font-weight:normal;">, Universität Bonn, Bonn, Germany</span></td>
+          <td style="vertical-align:top;">2012 – 2015</td> <td><a href="./#MSc">Master's thesis</a><span style="font-weight:normal;">, Universität Bonn, Bonn, Germany</span></td>
         </tr>
         <tr>
-          <td>2008 – 2012</td> <td><a href="./#AB">Bachelor's thesis</a><span style="font-weight:normal;">, Princeton University, NJ, U.S.A.</span></td>
+          <td style="vertical-align:top;">2008 – 2012</td> <td><a href="./#AB">Bachelor's thesis</a><span style="font-weight:normal;">, Princeton University, NJ, U.S.A.</span></td>
         </tr>
       </table>
     </ol>
@@ -25,7 +25,7 @@ sortname: portfolio
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
         <tr>
-          <td style="vertical-align:top;">2023</td> <td style="width:90%;height:auto;"><a href="./#Vulnerable-Embrace">»Vulnerable Embrace«</a><span style="font-weight:normal;">, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria</span></td>
+          <td style="width:5em;vertical-align:top;">2023</td> <td><a href="./#Vulnerable-Embrace">»Vulnerable Embrace«</a><span style="font-weight:normal;">, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria</span></td>
         </tr>
         <tr>
           <td style="vertical-align:top;">2022</td> <td><a href="./#brass-knots-link">»Brass Knots & Link«</a><span style="font-weight:normal;">, exhibited in the Judith Fegerl show at Kunstraum im Vektor, Hall in Tirol, Austria</span></td>
@@ -34,16 +34,16 @@ sortname: portfolio
           <td style="vertical-align:top;">2022</td> <td><a href="./#Introspective-Geometries">»Introspective Geometries«</a><span style="font-weight:normal;">, <i>Mitten am Rand</i> group show at masc foundation & Kunsttankstelle, Vienna, Austria</span></td>
         </tr>
         <tr>
-          <td>2022</td> <td><a href="./#alien-self">»alien self«</a><span style="font-weight:normal;">, <i>Hast du Lust?</i> group show at Improper Walls, Vienna, Austria</span></td>
+          <td style="vertical-align:top;">2022</td> <td><a href="./#alien-self">»alien self«</a><span style="font-weight:normal;">, <i>Hast du Lust?</i> group show at Improper Walls, Vienna, Austria</span></td>
         </tr>
         <tr>
-          <td>2021</td> <td><a href="./#Shelter">»Shelter«</a></td>
+          <td style="vertical-align:top;">2021</td> <td><a href="./#Shelter">»Shelter«</a></td>
         </tr>
         <tr>
-          <td>2021</td> <td><a href="./#Naivete">»Naïveté«</a><span style="font-weight:normal;">, installation in the Kunstzelle at the WUK Vienna, Austria</span></td>
+          <td style="vertical-align:top;">2021</td> <td><a href="./#Naivete">»Naïveté«</a><span style="font-weight:normal;">, installation in the Kunstzelle at the WUK Vienna, Austria</span></td>
         </tr>
         <tr>
-          <td>2012 –</td> <td><a href="./#Miscollection">»Miscollection«</a><span style="font-weight:normal;">, 185 Nassau Street, Princeton University, NJ, U.S.A.</span></td>
+          <td style="vertical-align:top;">2012 –</td> <td><a href="./#Miscollection">»Miscollection«</a><span style="font-weight:normal;">, 185 Nassau Street, Princeton University, NJ, U.S.A.</span></td>
         </tr>
       </table>
     </ol>
