@@ -165,7 +165,6 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 <br>
 
 <h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-links/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<i>transparencies, ink, creases</i>
 <p>
   This is a collection of brass mathematical objects made in the course <i>Arbeiten mit Buntmetall</i> led by Judith Fegerl in the winter semester of 2022 at the Angewandte.  To accompany her work in her show, Judith selected a few students pieces to be presented.<br>
   The collection comprises a model of the Borromean rings (»Borromean axes«), and two prime knots (»3-fold« and »5-fold«).  This is the start of a longer-term series of such objects.<br><br>
@@ -261,7 +260,7 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 <br>
 
 <h2><a class="anchor" id="Naivete"></a><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a>, Austria (18.3.21 – 12.6.21) [<a href="/art/exhibitions/2021/Naivete/Naivete_WUK_press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<i>pinwheel, ventilation ducts, breath of the WUK Vienna</i>
+<i>pinwheel, ventilation ducts, breath of the WUK</i>
 <p>
   »Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
   The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
