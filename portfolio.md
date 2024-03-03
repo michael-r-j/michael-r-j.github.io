@@ -7,37 +7,52 @@ sortname: portfolio
 
 <h2><ol style="padding:0;list-style-type:none;">
   <li><a href="./#Math">Mathematics</a>
-  <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#PhD">Doctoral dissertation</a> | <a href="./#PhD_studies">Doctoral studies</a> | <a href="./#MSc">Master's thesis</a> | <a href="./#AB">Bachelor's thesis</a></li>
-  </ol></li>
+    <ol style="list-style-type:none;margin-left:-1em;">
+      <table style="width:100%;border-collapse:collapse;">
+        <tr>
+          <td>2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
+        </tr>
+        <tr>
+          <td>2012 – 2015</td> <td><a href="./#MSc">Master's thesis</a><span style="font-weight:normal;">, Universität Bonn, Bonn, Germany</span></td>
+        </tr>
+        <tr>
+          <td>2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
+        </tr>
+      </table>
+    </ol>
+  </li>
   <li><a href="./#Art">Art</a>
-  <ol style="list-style-type:none;margin-left:-1em;">
-    <li>Vienna
     <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#Angewandte">Angewandte (Transdisciplinary Arts)</a></li>
-    <li><a href="./#sketching_Vienna">Sketching</a> | <a href="./#drawing_TU">Drawing/Painting</a> | <a href="./#sculpture_TU">Sculpture</a> | <a href="./#portraiture">Portraiture</a></li>
-    </ol></li>
-    <li>Bonn
-    <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#drawing_Bonn">Drawing</a></li>
-    </ol></li>
-    <li>Princeton
-    <ol style="list-style-type:none;margin-left:-1em;">
-    <li><a href="./#sculpture_Princeton">Sculpture</a> | <a href="./#video_Princeton">Video</a></li>
-    </ol></li>
-  </ol></li>
+      <table style="width:100%;border-collapse:collapse;">
+        <tr>
+          <td style="vertical-align:top;">2023</td> <td style="width:90%;height:auto;"><a href="./#Vulnerable-Embrace">»Vulnerable Embrace«</a><span style="font-weight:normal;">, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria</span></td>
+        </tr>
+        <tr>
+          <td style="vertical-align:top;">2022</td> <td><a href="./#brass-knots-link">»Brass Knots & Link«</a><span style="font-weight:normal;">, exhibited in the Judith Fegerl show at Kunstraum im Vektor, Hall in Tirol, Austria</span></td>
+        </tr>
+        <tr>
+          <td style="vertical-align:top;">2022</td> <td><a href="./#Introspective-Geometries">»Introspective Geometries«</a><span style="font-weight:normal;">, <i>Mitten am Rand</i> group show at masc foundation & Kunsttankstelle, Vienna, Austria</span></td>
+        </tr>
+        <tr>
+          <td>2022</td> <td><a href="./#alien-self">»alien self«</a><span style="font-weight:normal;">, <i>Hast du Lust?</i> group show at Improper Walls, Vienna, Austria</span></td>
+        </tr>
+        <tr>
+          <td>2021</td> <td><a href="./#Shelter">»Shelter«</a></td>
+        </tr>
+        <tr>
+          <td>2021</td> <td><a href="./#Naivete">»Naïveté«</a><span style="font-weight:normal;">, installation in the Kunstzelle at the WUK Vienna, Austria</span></td>
+        </tr>
+        <tr>
+          <td>2012 –</td> <td><a href="./#Miscollection">»Miscollection«</a><span style="font-weight:normal;">, 185 Nassau Street, Princeton University, NJ, U.S.A.</span></td>
+        </tr>
+      </table>
+    </ol>
+  </li>
 </ol></h2>
 
 <hr>
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-
-<h2><a class="anchor" id="PhD"></a>Doctoral dissertation <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-
-<p>
-  This is to-be-determined; currently looking for a supervisor.
-</p>
-<br>
 
 <h2><a class="anchor" id="PhD_studies"></a>Doctoral studies <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
@@ -103,250 +118,187 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 <h2><a class="anchor" id="AB"></a>Bachelor’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 <p>
-Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian
-setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding
-(in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context,
-and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
+  This was completed in May 2012.
+  <table style="width:100%;border-collapse:collapse;">
+    <tr>
+      <td><u>Title</u>:</td> <td><i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus of Variations</i></td>
+    </tr>
+    <tr>
+      <td><u>Adviser</u>:</td> <td>Asst. Prof. G. Holzegel</td>
+    </tr>
+    <tr>
+      <td><u>School</u>:</td> <td>Princeton University, Princeton, NJ, U.S.A.</td>
+    </tr>
+    <tr>
+      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding (in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context, and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
+      </td>
+    </tr>
+  </table>
 </p>
 <br>
 
 <hr>
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my Instagram</a>.
 
-<h2><a class="anchor" id="Angewandte"></a>Angewandte, Transdisciplinary Arts <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="Vulnerable-Embrace"></a>»Vulnerable Embrace«, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria (8.11.22 – 6.2.23) [<a href="https://www.dieangewandte.at/ausstellungen/transarts_-_michael_r_jimenez_vulnerable_embrace">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>doors, balloon, doorstops, needle, sign</i>
 <p>
-  In October 2020, I started a Masters in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class at the University of Applied Arts (Angewandte) in Vienna.<br>
-  <p>
-    <a class="anchor" id="Angewandte_Festival21"></a><b>Angewandte Festival 2021</b> (29.6.21 – 2.7.21)<br>
-    <div style="padding-left: 5%">
-      <b>»Stühle mit Abstand«</b><br>
-      <i>chairs, 2 meters of steel, Abstand</i><br>
-      What does it mean to find intimacy, when familiarity is obscured?  Two chairs are placed in an intimate acrobatic pose, a physical conversation mediated by 2 meters of steel.
-      <table style="width:100%;">
-        <tr>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/chairs_front.gif"><img src="/Kunst/Wien/Angewandte/Festival21/chairs_front.gif" style="width:100%;"></a></td>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/chairs_side.gif"><img src="/Kunst/Wien/Angewandte/Festival21/chairs_side_.gif" style="width:100%;"></a></td>
-        </tr>
-      </table>
-    </div>
-    <div style="padding-left: 5%">
-      <b>»Stunted Objects«</b><br>
-      <i>plaster, wood, steel, rust, friction</i><br>
-      <table style="width:100%;">
-        <tr>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/object1.gif"><img src="/Kunst/Wien/Angewandte/Festival21/object1.gif" style="width:100%"></a></td>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Festival21/object2_tog.jpg"><img src="/Kunst/Wien/Angewandte/Festival21/thumbs/object2_front_.jpg" onmouseover="this.src='/Kunst/Wien/Angewandte/Festival21/thumbs/object2_side_.jpg'" onmouseout="this.src='/Kunst/Wien/Angewandte/Festival21/thumbs/object2_front_.jpg'" style="width:100%;"></a></td>
-        </tr>
-      </table>
-    </div>
-  </p>
-  <p>
-    <a class="anchor" id="Angewandte_Naivete"></a><b><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a> (18.3.21 – 12.6.21) [<a href="/files/Naivete_WUK_press.pdf">press release</a>]</b><br>
-    <div style="padding-left: 5%">
-      »Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
-      The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
-      The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
-      <table style="width:100%;">
-        <tr>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/Kunst/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
-        </tr>
-      </table>
-      <table style="width:100%;">
-        <tr>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-front.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
-          <td style="width:50%"><a href="/Kunst/Wien/Angewandte/Naivete/inside-side.gif"><img src="/Kunst/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
-        </tr>
-      </table>
-    </div>
-  </p>
+  As people, we come to be in the intersection of social spaces and through the interplay of personal boundaries.  Our selves find their place through the intermingling of vulnerability and trust.  How do we navigate those confrontations, both alone and collectively?<br>
+  A balloon finds itself in the embrace of the doors of the 2<sup style="vertical-align:top;">nd</sup> Floor space.  It proposes the act of sitting with unease, to engage with hope, while asking what it means to be vulnerable as a dimension of self definition.<br><br>
+
+  Where does safety end and transgression start?
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_side.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_side.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_close.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_close.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_needle.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_needle.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:100%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_signs.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_signs.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
 </p>
 <br>
 
-<h2><a class="anchor" id="sketching_Vienna"></a>Sketching in Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria</span> (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-links/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>transparencies, ink, creases</i>
 <p>
-  While living in Vienna, I sketch regularly around the City: at museums, and recently, also outside.  The drawings are done in pencil, while the paintings are done with various watercolors.
+  This is a collection of brass mathematical objects made in the course <i>Arbeiten mit Buntmetall</i> led by Judith Fegerl in the winter semester of 2022 at the Angewandte.  To accompany her work in her show, Judith selected a few students pieces to be presented.<br>
+  The collection comprises a model of the Borromean rings (»Borromean axes«), and two prime knots (»3-fold« and »5-fold«).  This is the start of a longer-term series of such objects.<br><br>
+
+  The following photos are taken in the exhibition, courtesy of Kunstraum im Vektor.
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:35%"><a href="/art/exhibitions/2022/brass-knots-link/resized/Borromean-axes.jpg"><img src="/art/exhibitions/2022/brass-knots-link/thumbs/Borromean-axes.jpg" style="width:100%;"></a></td>
+      <td style="width:65%"><a href="/art/exhibitions/2022/brass-knots-link/resized/knots.jpg"><img src="/art/exhibitions/2022/brass-knots-link/thumbs/knots.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
+<br>
+
+<h2><a class="anchor" id="Introspective-Geometries"></a>»Introspective Geometries«, <i>Mitten am Rand</i> group show at masc foundation & Kunsttankstelle, Vienna, Austria (19. – 26.11.22) [<a href="https://www.dieangewandte.at/ausstellungen/mitten_am_rand">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>transparencies, ink, creases</i>
+<p>
+  This project consists of a series of drawings investigating paper both passively as a surface for drawing and actively as a tool of drawing.  Its use of transparent paper is to fall essentially unto paper as a vehicle and delimiter of form.  Each drawing explores the act of introspection — reflecting, turning, and folding inwards — to not only find form but also be formed.  It is about the dualized interplay of the re-flexive <i>itself</i> forming and being formed by the ef-flexive (outward-pointing flexion) <i>its self</i>.  Through the process of folding and line making from its edge, each paper becomes a support for spatial drawing: as the paper folds to delineate form on <i>itself</i>, it finds a form for <i>its self</i>.
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:100%"><a href="/art/exhibitions/2022/Introspective-Geometries/resized/Introspective-Geometries.jpg"><img src="/art/exhibitions/2022/Introspective-Geometries/thumbs/Introspective-Geometries.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2022/Introspective-Geometries/resized/Introspective-Geometries_close0.jpg"><img src="/art/exhibitions/2022/Introspective-Geometries/thumbs/Introspective-Geometries_close0.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2022/Introspective-Geometries/resized/Introspective-Geometries_close1.jpg"><img src="/art/exhibitions/2022/Introspective-Geometries/thumbs/Introspective-Geometries_close1.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2022/Introspective-Geometries/resized/Introspective-Geometries_close2.jpg"><img src="/art/exhibitions/2022/Introspective-Geometries/thumbs/Introspective-Geometries_close2.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2022/Introspective-Geometries/resized/Introspective-Geometries_close3.jpg"><img src="/art/exhibitions/2022/Introspective-Geometries/thumbs/Introspective-Geometries_close3.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
+<br>
+
+<h2><a class="anchor" id="alien-self"></a>»alien self«, <a href="https://improperwalls.com/events/2022/5/25/hast-du-lust"><i>Hast du Lust?</i> group show at Improper Walls</a>, Vienna, Austria (25.5. – 24.6.22) <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>mirror, faucet, soap, soap dish, towel, filth</i>
+<p>
+  In a world of others, how do we find space for the conception of ourselves?<br>
+  How much of how we see ourselves is how others have seen us?<br>
+  Should we cleanse ourselves of others, so that we may be ourselves?<br><br>
+
+  To say it is only about washing oneself, is to obfuscate the feeling that sometimes "being clean" is not about dirt, but rather abstracted filth. In times of insecurity and anxiety, it is about trying to save oneself, to find oneself underneath the invisible layers of others, those transactions of unintelligible touch. Maybe it is like drowning in the liquid of sequential abstractions of fathomable threats, and cleaning is like grasping at that liquid, trying to get out from it, to breathe again — only to look up at the mirror at oneself in dirtying doubt, to find the soap itself is filth, and to find the hand towel is shamefully lost to the floor. Do it again.<br>
+
+  Shame and guilt cannot be washed away with soap. As a queer person, anxieties about the interface between the inward and the outward, about that boundary of self and what intimacy can mean, lead to coping mechanisms of hiding, of alienating oneself for the sake of others. In this way, queer expression is dirtied with parts of others, being touched by someone you may not know, presently or even before you were born.<br>
+
+  »alien self« is about that part of ourselves from which we cower, that we have made foreign because of the dirtied mirror from which we learned to view ourselves. It is about how intimacy starts in subtler, filthier ways of self.
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:50%"><a href="/art/exhibitions/2022/alien-self/resized/alien-self_all.jpg"><img src="/art/exhibitions/2022/alien-self/thumbs/alien-self_all.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2022/alien-self/resized/alien-self_close.jpg"><img src="/art/exhibitions/2022/alien-self/thumbs/alien-self_close.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
+<br>
+
+<h2><a class="anchor" id="Shelter"></a>»Shelter«, (2021) <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>metal, fiber, rust/patina, cold</i>
+<p>
+  A collection of objects made of metal and fiber find themselves in the threshold of the outside imposing inward, as the cold January air takes up the room.<br>
+  Through the theme of material vulnerability and capacity, material residues of process become a notion of history and time of relationship.  The objects are reflections on the stories of comfort and security within relationship dynamics — histories of effect and affect, of exchanges across some boundaries, while others are blurred or undone.<br><br>
+
+  Is effecting affect an act of transgression?<br>
+  Is interaction found in vulnerability a violation?<br><br>
+
+  This work is further exploration of the idea from my previous semester project: creating "affective spaces", a space that affects — to impose feeling or sensation — using the interruption of slight insecurity to the process of usual experience.<br>
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Shelter/resized/all0.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/all0.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Shelter/resized/all1.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/all1.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:33%"><a href="/art/Wien/Angewandte/Shelter/resized/embraced-windows0.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/embraced-windows0.jpg" style="width:100%;"></a></td>
+      <td style="width:33%"><a href="/art/Wien/Angewandte/Shelter/resized/window-painting0a.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/window-painting0a.jpg" style="width:100%;"></a></td>
+      <td style="width:33%"><a href="/art/Wien/Angewandte/Shelter/resized/window-painting1r.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/window-painting1r.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/Wien/Angewandte/Shelter/resized/copper-knit1.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/copper-knit1.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Wien/Angewandte/Shelter/resized/copper-knit2.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/copper-knit2.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Wien/Angewandte/Shelter/resized/held1.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/held1.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Wien/Angewandte/Shelter/resized/held2.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/held2.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:33%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/Wien/Angewandte/Shelter/resized/touched1.jpg"><img src="/art/Wien/Angewandte/Shelter/thumbs/touched1.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
+<br>
+
+<h2><a class="anchor" id="Naivete"></a><i>Naïveté</i>, installation in the <a href="https://www.wuk.at/kunstzelle/">Kunstzelle</a> at the <a href="https://www.wuk.at/michael-robert-jimenez-naivete/">WUK Vienna</a>, Austria (18.3.21 – 12.6.21) [<a href="/art/exhibitions/2021/Naivete/Naivete_WUK_press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>pinwheel, ventilation ducts, breath of the WUK Vienna</i>
+<p>
+  »Naïveté« is about both resiliency and vulnerability, particularly in reflection on the past year of the pandemic, and especially in the context of childhood existence.  In a time of uncertainty and disrupted milieu, it is a reflection on feelings of isolation and coping.  It is about finding a space to exist under outside pressures and restrictions, and how unceasing situations can make even typical behaviors seem wearying.<br>
+  The singular pinwheel spins without respite, as the exhaust of the WUK's ventilation system is pumped into the Kunstzelle.  The pinwheel is affected by the outside, but it channels that into being as it can, in the only way it can: it spins, relentlessly.  And as a colorful toy, it is a representation of childhood innocence, something whose simple existence is unapologetic in doing what it does.<br>
+  The installation is about how naïveté creates an imperfect bubble of unknowing: it conveys hope, yet also the burden of being affected.
   <table style="width:100%;">
     <tr>
-    {% for j in (0..6) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/02{{ 6 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/02{{ 6 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/01{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/01{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 1 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..8) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Zeichnen/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Zeichnen/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 3 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-    <tr>
-    {% for j in (0..8) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Skizze/Aquarell/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Skizze/Aquarell/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/resized/front.jpg"><img src="/art/Wien/Angewandte/Naivete/thumbs/front.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/resized/front-night.jpg"><img src="/art/Wien/Angewandte/Naivete/thumbs/front-night.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="drawing_TU"></a>Drawing/Painting at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-  During my Doctoral studies (2016&ndash;), I am regularly participated in <i>Beobachtendes Zeichnen I/II</i> offered by the TU Wien.  The paintings are done in watercolors, while the drawings are done in pencil, and the duration of the poses varied, from about 5&ndash;15 minutes each.
   <table style="width:100%;">
     <tr>
-    {% for j in (0..2) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Akt/Aquarell/resized/01{{ 2 | minus: j }}.jpg"><img src="/Kunst/Wien/Akt/Aquarell/thumbs/01{{ 2 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..8) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Akt/Aquarell/resized/00{{ 9 | minus: j }}.jpg"><img src="/Kunst/Wien/Akt/Aquarell/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 1 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-    <tr>
-    {% for j in (0..4) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Akt/Zeichnen/resized/00{{ 5 | minus: j }}.jpg"><img src="/Kunst/Wien/Akt/Zeichnen/thumbs/00{{ 5 | minus: j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/inside-front.gif"><img src="/art/Wien/Angewandte/Naivete/inside-front.gif" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/Wien/Angewandte/Naivete/inside-side.gif"><img src="/art/Wien/Angewandte/Naivete/inside-side.gif" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>
 <br>
 
-<h2><a class="anchor" id="sculpture_TU"></a>Sculpture at the TU <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="Miscollection"></a>»Miscollection«, first iteration installed for a couple days at 185 Nassau Street, Princeton University, NJ, U.S.A. (2012 – on-going) <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>wood, acrylic paint, hammer, nails, tools, wall</i>
 <p>
-  So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first, <i>Dreidimensionales Gestalten</i> (WS2018-19), was about "3-dimensional tilings", and the second, <i>Künstlerisches Projekt X</i> (SS2019), was aimed at developing art pieces, around the theme of "pairs/couples".
+  A series of wooden placards, with a repeating painted motif and a single hole for a nail, by which they could be affixed to a wall. These placards were placed in the space in various states of installation to suggest the on‐going, active process of "collecting", as opposed to the static display of a "collection". The title of the piece is to convey that, together, these placard objects form a group as independent objects. But as one looks at the objects relative to each other, the repeating motif with its obstructed or missing details, suggest they form a sort of "collection of those, which are incomplete": as puzzle pieces in a "miscollection", together they suggest a whole, a "complete piece of obtainable information", which is not graspable from each alone, let alone fathomable. Inspiration for this work came the prompt to form a means of advertising oneself: this was interpreted as the task of developing a means of forming, and then disseminating, identity. The idea for this work was to simulate the typical, indirect uncovering of one's identity, as completed over the course of several singular moments, or "informational snapshots": the fragments of what is revealed versus what is hidden over the course of time, that eventually suggest, and sum up to, a more complete — though ever‐changing — picture of oneself, as shown to the world.<br><br>
+
+  This is an on-going work, with new iterations being constructed and construed — always bundled with with at least a hammer and nails for installation.
   <table style="width:100%;">
     <tr>
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/Stunted-Ephemera.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/Stunted-Ephemera.jpg" style="width:100%;"></a></td>
-    {% for j in (1..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/00{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 3 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..9) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/01{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 2 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..2) %}
-      <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/paar/resized/02{{ j }}.jpg"><img src="/Kunst/Wien/Bildhauerei/paar/thumbs/02{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-     <td style="width:25%"><a href="/Kunst/Wien/Bildhauerei/3DG/Objekt.jpg"><img src="/Kunst/Wien/Bildhauerei/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Princeton/2012/Miscollection/resized/Miscollection.jpg"><img src="/art/Princeton/2012/Miscollection/thumbs/Miscollection.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Princeton/2012/Miscollection/resized/Miscollection_close1.jpg"><img src="/art/Princeton/2012/Miscollection/thumbs/Miscollection_close1.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Princeton/2012/Miscollection/resized/Miscollection_close2.jpg"><img src="/art/Princeton/2012/Miscollection/thumbs/Miscollection_close2.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/Princeton/2012/Miscollection/resized/Miscollection_close3.jpg"><img src="/art/Princeton/2012/Miscollection/thumbs/Miscollection_close3.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
-</p>
-
-<h2><a class="anchor" id="portraiture"></a>Portraiture while Vienna <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-  Here I have a couple of attempts at portraiture in watercolor.
-  <table style="width:50%;">
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
     <tr>
-      <td style="width:25%"><a href="/Kunst/Portraet/resized/001.jpg"><img src="/Kunst/Portraet/thumbs/001.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/Kunst/Portraet/resized/002.jpg"><img src="/Kunst/Portraet/thumbs/002.jpg" style="width:100%;"></a></td>
+      <td style="width:100%"><a href="/art/Princeton/2012/Miscollection/resized/Miscollection_2020.jpg"><img src="/art/Princeton/2012/Miscollection/thumbs/Miscollection_2020.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>
 <br>
-
-<h2><a class="anchor" id="drawing_Bonn"></a>Drawing in Bonn <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-  During my Master’s studies (2012&ndash;2015), I participated in <i>Aktzeichnen: Zeichnen nach Modell II</i> offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses varied in length, from about 15&ndash;20 minutes each.
-  <table style="width:100%;">
-    <tr>
-    {% for j in (1..9) %}
-      <td style="width:25%"><a href="/Kunst/Bonn/Akt/assorted/00{{ j }}.jpg"><img src="/Kunst/Bonn/Akt/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..6) %}
-      <td style="width:25%"><a href="/Kunst/Bonn/Akt/assorted/01{{ j }}.jpg"><img src="/Kunst/Bonn/Akt/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 3 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-  </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="sculpture_Princeton"></a>Sculpture at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-  During my undergraduate studies, I participated in a few studio Art courses (2010&ndash;2012), mainly doing sculptural work.  Below is a selection of my work from those courses; they are mixed-media, with predominant use of steel, wood, and twine.  A recurrent theme is exploring space through promoted negative space and constructed tension.
-  <table style="width:100%;">
-    <tr>
-    {% for j in (1..9) %}
-      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/resized/00{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 0 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    {% for j in (0..6) %}
-      <td style="width:25%"><a href="/Kunst/Princeton/sculpture/resized/01{{ j }}.jpg"><img src="/Kunst/Princeton/sculpture/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
-    {% assign row = forloop.index | modulo:4 %}
-    {% if row == 3 and j != 6 %}
-    </tr>
-    <tr>
-    {% endif %}
-    {% endfor %}
-    </tr>
-  </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="video_Princeton"></a>Video at Princeton <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<p>
-  A piece (December, 2011) from a course during my undergraduate studies, entitled <i>Painting without Canvas</i>.
-  <br><br>
-  <img src="/Kunst/Princeton/video/Draenge-titel-small.png" style="width:50%">
-</p>

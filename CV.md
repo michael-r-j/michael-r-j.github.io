@@ -110,6 +110,18 @@ sortname: cv
 <p>
 <table style="width:100%;border-collapse:collapse;">
 <tr>
+  <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:15px;">
+  <b>Deloitte Österreich</b>, <i>FSI Auditor</i>, Vienna, Austria<br>
+  <hs>
+    Worked on developing R code to help audit bank portfolios according to IFRS9
+  </hs>
+  </td>
+  <td style="width:25%;vertical-align:top;text-align:right;">
+  9 January – 30 September 2023
+  </td>
+</tr>
+
+<tr>
   <td style="width:75%;vertical-align:top;text-align:left;padding-bottom:0px;">
   <b>SAP Service &amp; Support Centre</b>, <i>Computer Analyst (Support Engineer)</i>, Dublin, Ireland<br>
   <hs>
