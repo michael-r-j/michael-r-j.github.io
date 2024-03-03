@@ -16,7 +16,7 @@ sortname: portfolio
           <td>2012 – 2015</td> <td><a href="./#MSc">Master's thesis</a><span style="font-weight:normal;">, Universität Bonn, Bonn, Germany</span></td>
         </tr>
         <tr>
-          <td>2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
+          <td>2008 – 2012</td> <td><a href="./#AB">Bachelor's thesis</a><span style="font-weight:normal;">, Princeton University, NJ, U.S.A.</span></td>
         </tr>
       </table>
     </ol>
