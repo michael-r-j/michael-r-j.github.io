@@ -5,7 +5,7 @@ permalink: /about/
 sortname: about
 ---
 
-<a href="/img/plackard.jpg"><img src="/img/plackard_cropped.jpg" style="float:right;width:25%;padding-left:20px;"></a>
+<a href="/img/placard.jpg"><img src="/img/placard_cropped.jpg" style="float:right;width:25%;padding-left:20px;"></a>
 
 <p>Currently, I am a doctoral candidate in Mathematics at TU Wien without a supervisor, and a Master's student at the <a href="https://www.dieangewandte.at/">Angewandte Wien</a> in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class.</p>
 
