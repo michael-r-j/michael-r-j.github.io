@@ -164,7 +164,7 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 </p>
 <br>
 
-<h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria</span> (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-links/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-links/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <i>transparencies, ink, creases</i>
 <p>
   This is a collection of brass mathematical objects made in the course <i>Arbeiten mit Buntmetall</i> led by Judith Fegerl in the winter semester of 2022 at the Angewandte.  To accompany her work in her show, Judith selected a few students pieces to be presented.<br>
