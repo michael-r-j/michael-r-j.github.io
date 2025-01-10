@@ -164,7 +164,7 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 </p>
 <br>
 
-<h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-links/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-link/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
   This is a collection of brass mathematical objects made in the course <i>Arbeiten mit Buntmetall</i> led by Judith Fegerl in the winter semester of 2022 at the Angewandte.  To accompany her work in her show, Judith selected a few students pieces to be presented.<br>
   The collection comprises a model of the Borromean rings (»Borromean axes«), and two prime knots (»3-fold« and »5-fold«).  This is the start of a longer-term series of such objects.<br><br>
@@ -199,7 +199,7 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 </p>
 <br>
 
-<h2><a class="anchor" id="alien-self"></a>»alien self«, <a href="https://improperwalls.com/events/2022/5/25/hast-du-lust"><i>Hast du Lust?</i> group show at Improper Walls</a>, Vienna, Austria (25.5. – 24.6.22) <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="alien-self"></a>»alien self«, <a href="https://improperwalls.com/events/2022/5/25/hast-du-lust"><i>Hast du Lust?</i> group show at Improper Walls</a>, Vienna, Austria (25.5. – 24.6.22) [<a href="https://improperwalls.com/events/2022/5/25/hast-du-lust">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <i>mirror, faucet, soap, soap dish, towel, filth</i>
 <p>
   In a world of others, how do we find space for the conception of ourselves?<br>
