@@ -1,0 +1,2 @@
+for i in *gif ; do gifsicle -O1 $i > ./resized/$i ; done
+for i in *gif ; do gifsicle --scale 0.75 $i > ./thumbs/$i ; done
