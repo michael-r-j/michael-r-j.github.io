@@ -273,8 +273,8 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
   </table>
   <table style="width:100%;">
     <tr>
-      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-front.gif"><img src="/art/exhibitions/2021/Naivete/inside-front.gif" style="width:100%;"></a></td>
-      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-side.gif"><img src="/art/exhibitions/2021/Naivete/inside-side.gif" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-front.gif"><img src="/art/exhibitions/2021/Naivete/thumbs/inside-front.gif" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="/art/exhibitions/2021/Naivete/inside-side.gif"><img src="/art/exhibitions/2021/Naivete/thumbs/inside-side.gif" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>

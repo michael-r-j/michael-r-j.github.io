@@ -113,8 +113,8 @@ More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my I
       What does it mean to find intimacy, when familiarity is obscured?  Two chairs are placed in an intimate acrobatic pose, a physical conversation mediated by 2 meters of steel.
       <table style="width:100%;">
         <tr>
-          <td style="width:50%"><a href="/art/Wien/Angewandte/Festival21/chairs_front.gif"><img src="/art/Wien/Angewandte/Festival21/chairs_front.gif" style="width:100%;"></a></td>
-          <td style="width:50%"><a href="/art/Wien/Angewandte/Festival21/chairs_side.gif"><img src="/art/Wien/Angewandte/Festival21/chairs_side_.gif" style="width:100%;"></a></td>
+          <td style="width:50%"><a href="/art/Wien/Angewandte/Festival21/chairs_front.gif"><img src="/art/Wien/Angewandte/Festival21/thumbs/chairs_front.gif" style="width:100%;"></a></td>
+          <td style="width:50%"><a href="/art/Wien/Angewandte/Festival21/chairs_side.gif"><img src="/art/Wien/Angewandte/Festival21/thumbs/chairs_side.gif" style="width:100%;"></a></td>
         </tr>
       </table>
     </div>
