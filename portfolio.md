@@ -25,6 +25,9 @@ sortname: portfolio
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
         <tr>
+          <td style="width:5em;vertical-align:top;">2024</td> <td><a href="./#dorthin">»dorthin«</a><span style="font-weight:normal;">, part of the TransArts contribution <i>these tires are made for walking</i> to the Klima Biennale Wien, Nordwestbahnhof, Vienna, Austria</span></td>
+        </tr>
+        <tr>
           <td style="width:5em;vertical-align:top;">2023</td> <td><a href="./#Vulnerable-Embrace">»Vulnerable Embrace«</a><span style="font-weight:normal;">, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria</span></td>
         </tr>
         <tr>
@@ -140,6 +143,38 @@ From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network<
 <hr>
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+
+<h2><a class="anchor" id="dorthin"></a>»dorthin«, part of the TransArts contribution <i>these tires are made for walking</i> to the Klima Biennale Wien, Nordwestbahnhof, Vienna, Austria (6.4. – 14.7.24) [<a href="https://www.dieangewandte.at/ausstellungen/klima_biennale_wien_-_festivalareal_nordwestbahnhof">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<i>wood</i>
+<p>
+  Train tracks made of wood are planted askew into the ground. Directed toward the sky that they will never reach, their stunted lengths contrast the concept of the limitless potential of growth: formed, processed wood juxtaposes its living counterpart, as that counterpart's growth confronts its shaped death.  Train tracks, as a symbol of quick socioeconomic expansion and growth, find their finiteness against the slowly expanding and growing of a living tree.<br>
+
+  Part of the work involved the performative transport by foot of the train tracks to the location for installation, and then a solo performative transport by train for a short train track.
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_bridge.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_bridge.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/dorthin_transport.gif"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_transport.gif" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/dorthin_short-transport.gif"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_short-transport.gif" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:100%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_front.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_front.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_side.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_side-crop.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_scale.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_scale-crop.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_ground.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_ground.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
+<br>
 
 <h2><a class="anchor" id="Vulnerable-Embrace"></a>»Vulnerable Embrace«, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria (8.11.22 – 6.2.23) [<a href="https://www.dieangewandte.at/ausstellungen/transarts_-_michael_r_jimenez_vulnerable_embrace">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <i>doors, balloon, doorstops, needle, sign</i>
