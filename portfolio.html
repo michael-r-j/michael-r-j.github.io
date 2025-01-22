@@ -9,15 +9,16 @@ sortname: portfolio
   <li><a href="./#Math">Mathematics</a>
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
-        <tr>
-          <td style="width:7em;vertical-align:top;">2016 – 2020</td> <td><a href="./#PhD_studies">Doctoral studies</a><span style="font-weight:normal;">, Technische Universität Wien, Vienna, Austria</span></td>
-        </tr>
-        <tr>
-          <td style="vertical-align:top;">2012 – 2015</td> <td><a href="./#MSc">Master's thesis</a><span style="font-weight:normal;">, Universität Bonn, Bonn, Germany</span></td>
-        </tr>
-        <tr>
-          <td style="vertical-align:top;">2008 – 2012</td> <td><a href="./#AB">Bachelor's thesis</a><span style="font-weight:normal;">, Princeton University, NJ, U.S.A.</span></td>
-        </tr>
+        {% assign entries = site.entries | sort: 'endyear' | reverse %}
+        {% for entry in entries %}
+          {% if entry.page == 'portfolio' %}
+            {% if entry.type == 'math' %}
+              <tr>
+                <td style="width:7em;vertical-align:top;">{{ entry.startyear }} {% if entry.endyear != nil %} – {{ entry.endyear }}{% endif %}</td> <td><a href="./#{{ entry.anchor }}">{{ entry.title }}</a><span style="font-weight:normal;">{% if entry.desc != nil %}, {{ entry.desc }}{% endif %}</span></td>
+              </tr>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
       </table>
     </ol>
   </li>
@@ -57,88 +58,16 @@ sortname: portfolio
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
-<h2><a class="anchor" id="PhD_studies"></a>Doctoral studies <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-
-From 2016 – 2019, in the <a href="http://arcades-network.eu/">ARCADES Network</a> ESR (<i>Early-Stage Researcher</i>) as a Project Assistant at TU Wien, leading to one publication and one preprint; see <a href="/CV/#CV_Papers">my papers</a>.  More details are on <a href="/CV/#CV_Education">my CV</a>.
-<p>
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <td><u>Title</u>:</td> <td><i>Surfaces with a constant ratio of principle curvatures</i></td>
-    </tr>
-    <tr>
-      <td><u>Adviser</u>:</td> <td>Prof. Helmut Pottmann</td>
-    </tr>
-    <tr>
-      <td><u>School</u>:</td> <td>Technische Universität Wien, Austria</td>
-    </tr>
-    <tr>
-      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Investigate surfaces that have a constant ratio of principle curvatures.  These are of particular interest for architectural applications, because a discretization of them not only yields aesthetically-appealing façades, but also has a realization that is possible using flat, rectangular strips along the asymptotic polylines.
-      <table style="width:95%;margin-left:auto;margin-right:auto;">
-        <tr>
-          <td style="width:30%;"><a href="/research/renders/enneper2_.png"><img src="/research/renders/thumbs/enneper2_.png" style="width:100%;"></a></td>
-          <td style="width:5%;"><a href="/research/renders/enneper2_flat-strips_.png"><img src="/research/renders/thumbs/enneper2_flat-strips_.png" style="width:100%;"></a></td>
-          <td style="width:30%;"><a href="/research/renders/enneper2_strips_color_.png"><img src="/research/renders/thumbs/enneper2_strips_color_.png" style="width:100%;"></a></td>
-          <td style="width:30%;"><a href="/research/renders/loop-de-loop_struct-perspective_.png"><img src="/research/renders/thumbs/loop-de-loop_struct-perspective_.png" style="width:100%;"></a></td>
-        </tr>
-      </table>
-      Currently, explicit smooth examples are not known in general, aside from minimal surfaces and a family of surfaces of revolution.  Here is what a couple discrete examples look like, which have minimal-surface analogs.
-      <table style="width:60%;margin-left:auto;margin-right:auto;">
-        <tr>
-          <td style="width:30%"><a href="/research/renders/tri_stretch_new_.png"><img src="/research/renders/thumbs/tri_stretch_new_.png" style="width:100%;"></a></td>
-          <td style="width:30%"><a href="/research/renders/punc_cube_stretch_new_.png"><img src="/research/renders/thumbs/punc_cube_stretch_new_.png" style="width:100%;"></a></td>
-        </tr>
-      </table>
-      </td>
-    </tr>
-  </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="MSc"></a>Master’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-
-<p>
-  This was completed in July 2015.
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <td><u>Title</u>:</td> <td><i>From Green's Functions to Chord Spaces, for the \(2\)-Disk</i></td>
-    </tr>
-    <tr>
-      <td><u>Adviser</u>:</td> <td>Prof. C. F. Bödigheimer</td>
-    </tr>
-    <tr>
-      <td><u>School</u>:</td> <td>Universität Bonn, Germany</td>
-    </tr>
-    <tr>
-      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Let \(\mathbf{D}^{2}\) be the \(2\)-disk, as it sits in the standard \(\mathbf{R}^{2} \cong \mathbf{C}\), and let \(\mathcal{Z} = \{\zeta_{j}\}_{j=1}^{n} \subset \mathbf{D}^{2}\).  On \(\mathbf{D}^{2} \smallsetminus \{\zeta_{j}\}_{j}\), there is a harmonic function with singularities at \(\mathcal{Z}\):
-        \[g_{\mathcal{Z}} \left(z\right) := \sum_{j=1}^{n} \ln \left|\frac{\zeta_{j} - z}{1 - \overline{\zeta_{j}} z}\right| .\]
-        It can be shown that this function has, with multiplicities, \(n-1\) critical points in \(\mathbf{D}^{2} \smallsetminus \{\zeta_{j}\}_{j=1}^{n}\).  Looking at the flow lines of the gradient of \(g_{\mathcal{Z}}\) around a critical point \(\rho\), there are certain flow lines that approach \(\rho\) from \(\partial \mathbf{D}^{2}\), the boundary of \(\mathbf{D}^{2}\), and certain flow lines that recede from \(\rho\) toward some singularity or another critical point.  The main task was to understand the relationship between those singular points \(\mathcal{Z}\) and the points of \(\partial\mathbf{D}^{2}\) which flow approaching some critical point.
-      </td>
-    </tr>
-  </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="AB"></a>Bachelor’s thesis <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-
-<p>
-  This was completed in May 2012.
-  <table style="width:100%;border-collapse:collapse;">
-    <tr>
-      <td><u>Title</u>:</td> <td><i>(In)completeness in Riemannian, and Lorentzian, Geometries via the Calculus of Variations</i></td>
-    </tr>
-    <tr>
-      <td><u>Adviser</u>:</td> <td>Asst. Prof. G. Holzegel</td>
-    </tr>
-    <tr>
-      <td><u>School</u>:</td> <td>Princeton University, Princeton, NJ, U.S.A.</td>
-    </tr>
-    <tr>
-      <td style="width:75px;text-align:left;vertical-align:top;"><u>Synopsis</u>:</td> <td>Starting from near foundations, the theory of the calculus of variations was developed in the semi-Riemannian setting. Using appropriate results from the theory and contextual material, two main theorems were proven regarding (in)completeness based on curvature bounds: the Bonnet-Myers (completeness) theorem in the Riemannian context, and one of Hawking’s singularity (incompleteness) theorems in the Lorentzian context.
-      </td>
-    </tr>
-  </table>
-</p>
-<br>
+{% assign entries = site.entries | sort: 'endyear' | reverse %}
+{% for entry in entries %}
+  {% if entry.page == 'portfolio' %}
+    {% if entry.type == 'math' %}
+      <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+      {{ entry.content }}
+      <br>
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
 <hr>
 
