@@ -1,6 +1,11 @@
 # Site parameters
-title: "Michael R.J."
+title: "ᴍʀᴊ" #"Michael R.J."
 baseurl: ""
 
 # Build settings
 markdown: kramdown
+
+# Organizing entries
+collections:
+  entries:
+    output: true
