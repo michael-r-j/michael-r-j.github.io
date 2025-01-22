@@ -25,9 +25,16 @@ sortname: portfolio
   <li><a href="./#Art">Art</a>
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
-        <tr>
-          <td style="width:5em;vertical-align:top;">2024</td> <td><a href="./#dorthin">»dorthin«</a><span style="font-weight:normal;">, part of the TransArts contribution <i>these tires are made for walking</i> to the Klima Biennale Wien, Nordwestbahnhof, Vienna, Austria</span></td>
-        </tr>
+        {% assign entries = site.entries | sort: 'startyear' | reverse %}
+        {% for entry in entries %}
+          {% if entry.page == 'portfolio' %}
+            {% if entry.type == 'art' %}
+              <tr>
+                <td style="width:7em;vertical-align:top;">{{ entry.startyear }} {% if entry.endyear != nil %} – {{ entry.endyear }}{% endif %}</td> <td><a href="./#{{ entry.anchor }}">»{{ entry.title }}«</a><span style="font-weight:normal;">{% if entry.desc != nil %}, {{ entry.desc }}{% endif %}</span></td>
+              </tr>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
         <tr>
           <td style="width:5em;vertical-align:top;">2023</td> <td><a href="./#Vulnerable-Embrace">»Vulnerable Embrace«</a><span style="font-weight:normal;">, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria</span></td>
         </tr>
@@ -73,60 +80,16 @@ sortname: portfolio
 
 <h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
-<h2><a class="anchor" id="dorthin"></a>»dorthin«, part of the TransArts contribution <i>these tires are made for walking</i> to the Klima Biennale Wien, Nordwestbahnhof, Vienna, Austria (6.4. – 14.7.24) [<a href="https://www.dieangewandte.at/ausstellungen/klima_biennale_wien_-_festivalareal_nordwestbahnhof">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<i>wood</i>
-<p>
-  Train tracks made of wood are planted askew into the ground. Directed toward the sky that they will never reach, their stunted lengths contrast the concept of the limitless potential of growth: formed, processed wood juxtaposes its living counterpart, as that counterpart's growth confronts its shaped death.  Train tracks, as a symbol of quick socioeconomic expansion and growth, find their finiteness against the slowly expanding and growing of a living tree.<br>
-
-  Part of the work involved the performative transport by foot of the train tracks to the location for installation, and then a solo performative transport by train for a short train track.
-  <table style="width:75%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_bridge.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_bridge.jpg" style="width:100%;"></a></td>
-    </tr>
-  </table>
-  <table style="width:100%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/dorthin_transport.gif"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_transport.gif" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/dorthin_short-transport.gif"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_short-transport.gif" style="width:100%;"></a></td>
-    </tr>
-  </table>
-  <table style="width:100%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_front.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_front.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_side.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_side-crop.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_scale.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_scale-crop.jpg" style="width:100%;"></a></td>
-    </tr>
-  </table>
-  <table style="width:75%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/dorthin/resized/dorthin_ground.jpg"><img src="/art/exhibitions/2024/dorthin/thumbs/dorthin_ground.jpg" style="width:100%;"></a></td>
-    </tr>
-  </table>
-</p>
-<br>
-
-<h2><a class="anchor" id="Vulnerable-Embrace"></a>»Vulnerable Embrace«, 2<sup style="vertical-align:top;">nd</sup> Floor space of the TransArts Class at the Angewandte VZA7, Vienna, Austria (8.11.22 – 6.2.23) [<a href="https://www.dieangewandte.at/ausstellungen/transarts_-_michael_r_jimenez_vulnerable_embrace">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
-<i>doors, balloon, doorstops, needle, sign</i>
-<p>
-  As people, we come to be in the intersection of social spaces and through the interplay of personal boundaries.  Our selves find their place through the intermingling of vulnerability and trust.  How do we navigate those confrontations, both alone and collectively?<br>
-  A balloon finds itself in the embrace of the doors of the 2<sup style="vertical-align:top;">nd</sup> Floor space.  It proposes the act of sitting with unease, to engage with hope, while asking what it means to be vulnerable as a dimension of self definition.<br><br>
-
-  Where does safety end and transgression start?
-  <table style="width:100%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_side.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_side.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_close.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_close.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_needle.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_needle.jpg" style="width:100%;"></a></td>
-    </tr>
-  </table>
-  <table style="width:75%;margin-left:auto;margin-right:auto;">
-    <tr>
-      <td style="width:100%"><a href="/art/exhibitions/2023/Vulnerable-Embrace/resized/Vulnerable-Embrace_signs.jpg"><img src="/art/exhibitions/2023/Vulnerable-Embrace/thumbs/Vulnerable-Embrace_signs.jpg" style="width:100%;"></a></td>
-    </tr>
-  </table>
-</p>
-<br>
+{% assign entries = site.entries | sort: 'startyear' | reverse %}
+{% for entry in entries %}
+  {% if entry.page == 'portfolio' %}
+    {% if entry.type == 'art' %}
+    <h2><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.desc != nil %}, {{ entry.desc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+      {{ entry.content }}
+      <br>
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
 <h2><a class="anchor" id="brass-knots-link"></a>»Brass Knots & Link«, exhibited in the <a href="https://im-vektor.com/judith-fegerl/">Judith Fegerl show at Kunstraum im Vektor</a>, Hall in Tirol, Austria (28.10. – 30.12.22) [<a href="/art/exhibitions/2022/brass-knots-link/press.pdf">press release</a>] <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 <p>
