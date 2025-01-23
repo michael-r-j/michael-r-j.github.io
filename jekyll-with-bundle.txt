@@ -31,3 +31,15 @@ def proc_version
     nil
   end
 end
+
+# update ruby with rbenv
+# https://github.com/rbenv/rbenv?tab=readme-ov-file
+git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+~/.rbenv/bin/rbenv init
+. .bashrc
+# ruby-build installation for install script
+# https://github.com/rbenv/ruby-build#readme
+git clone https://github.com/rbenv/ruby-build.git "$(rbenv root)"/plugins/ruby-build
+rbenv install -l
+rbenv install 3.4.1
+rbenv global 3.4.1
