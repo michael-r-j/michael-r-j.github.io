@@ -1,22 +1,23 @@
 <header class="header-cont">
 
   <div class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="wrapper">
+      <!--<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>-->
+      <a class="" href="{{ site.baseurl }}/"><img src="/files/mrj.png" class="site-title" style="opacity:0.75;height:50px;position:relative;left:-5px;top:5px;"></a>
 
-    <nav class="site-nav">
-      <div>
-        {% assign sorted_pages = site.pages | sort:"sortname" %}
-        {% for itm in sorted_pages %}
-          {% if itm.title and itm.title != page.title %}
-          <a class="page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
-          {% elsif itm.title and itm.title == page.title %}
-          <a class="current-page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-  </div>
+      <nav class="site-nav">
+        <div>
+          {% assign sorted_pages = site.pages | sort:"sortname" %}
+          {% for itm in sorted_pages %}
+            {% if itm.title and itm.title != page.title %}
+              <a class="page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
+            {% elsif itm.title and itm.title == page.title %}
+              <a class="current-page-link" href="{{ itm.url | prepend: site.baseurl }}">{{ itm.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      </nav>
+    </div>
   </div>
 
 </header>
