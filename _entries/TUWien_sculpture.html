@@ -1,0 +1,49 @@
+---
+title: Sculpture
+page: praxis
+type: art
+anchor: TUWien_sculpture
+startyear:
+endyear:
+endmonth:
+range:
+loc: 'TU Wien'
+dates:
+press:
+extralink:
+published:
+---
+
+<p>
+  So far during Doctoral studies (2016&ndash;), I participated in two Art/Design course at the TU Wien: the first, <i>Dreidimensionales Gestalten</i> (WS2018-19), was about "3-dimensional tilings", and the second, <i>Künstlerisches Projekt X</i> (SS2019), was aimed at developing art pieces, around the theme of "pairs/couples".
+  <table style="width:100%;">
+    <tr>
+      <td style="width:25%"><a href="/art/Wien/sculpture/Paar/resized/Stunted-Ephemera.jpg"><img src="/art/Wien/sculpture/Paar/thumbs/Stunted-Ephemera.jpg" style="width:100%;"></a></td>
+    {% for j in (1..9) %}
+      <td style="width:25%"><a href="/art/Wien/sculpture/Paar/resized/00{{ j }}.jpg"><img src="/art/Wien/sculpture/Paar/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..9) %}
+      <td style="width:25%"><a href="/art/Wien/sculpture/Paar/resized/01{{ j }}.jpg"><img src="/art/Wien/sculpture/Paar/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 2 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..2) %}
+      <td style="width:25%"><a href="/art/Wien/sculpture/Paar/resized/02{{ j }}.jpg"><img src="/art/Wien/sculpture/Paar/thumbs/02{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+     <td style="width:25%"><a href="/art/Wien/sculpture/3DG/Objekt.jpg"><img src="/art/Wien/sculpture/3DG/thumbs/Objekt.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>

@@ -1,0 +1,49 @@
+---
+title: 'Drawing/Painting'
+page: praxis
+type: art
+anchor: TUWien_drawing-painting
+startyear:
+endyear:
+endmonth:
+range:
+loc: 'TU Wien'
+dates:
+press:
+extralink:
+published:
+---
+
+<p>
+  During my Doctoral studies (2016&ndash;), I am regularly participated in <i>Beobachtendes Zeichnen I/II</i> offered by the TU Wien.  The paintings are done in watercolors, while the drawings are done in pencil, and the duration of the poses varied, from about 5&ndash;15 minutes each.
+  <table style="width:100%;">
+    <tr>
+    {% for j in (0..2) %}
+      <td style="width:25%"><a href="/art/Wien/Akt/watercolor/resized/01{{ 2 | minus: j }}.jpg"><img src="/art/Wien/Akt/watercolor/thumbs/01{{ 2 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/art/Wien/Akt/watercolor/resized/00{{ 9 | minus: j }}.jpg"><img src="/art/Wien/Akt/watercolor/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 1 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+    <tr>
+    {% for j in (0..4) %}
+      <td style="width:25%"><a href="/art/Wien/Akt/drawing/resized/00{{ 5 | minus: j }}.jpg"><img src="/art/Wien/Akt/drawing/thumbs/00{{ 5 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
+</p>

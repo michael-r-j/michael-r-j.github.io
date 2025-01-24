@@ -1,0 +1,39 @@
+---
+title: Photography
+page: praxis
+type: art
+anchor: photography
+startyear:
+endyear:
+endmonth:
+range:
+loc:
+dates:
+press:
+extralink:
+published:
+---
+
+<p>
+  In April 2023, I came into the possession of a Rollei 35S.  Here are some photos that represent some of the visual themes I am interested in exploring as part of my overall artistic praxis: spatial renditions cast with the ether of light.
+  <table style="width:100%;">
+    <tr>
+    {% assign row = 0 %}
+    {% assign col = 0 %}
+    {% for image in site.static_files %}
+      {% if image.path contains 'art/photos/thumbs' %}
+        <td style="width:25%"><a href="{{ image.path | replace:'thumbs','resized'}}"><img src="{{ image.path }}" style="width:100%;"></a></td>
+        {% assign col = col | plus:1 %}
+        {% if col == 4 %}
+          {% assign row = row | plus:1 %}
+          {% assign col = col | modulo:4 %}
+        {% endif %}
+      {% endif %}
+      {% if col == 0 and row >= 1 and row <= 2 %}
+        </tr>
+        <tr>
+      {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
+</p>

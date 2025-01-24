@@ -1,0 +1,57 @@
+---
+title: Sketching
+page: praxis
+type: art
+anchor: Vienna_sketching
+startyear:
+endyear:
+endmonth:
+range:
+loc: Vienna
+dates:
+press:
+extralink:
+published:
+---
+
+<p>
+  While living in Vienna, I sketch regularly around the City: at museums, and recently, also outside.  The drawings are done in pencil, while the paintings are done with various watercolors.
+  <table style="width:100%;">
+    <tr>
+    {% for j in (0..6) %}
+      <td style="width:25%"><a href="/art/Wien/sketches/drawing/resized/02{{ 6 | minus: j }}.jpg"><img src="/art/Wien/sketches/drawing/thumbs/02{{ 6 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..9) %}
+      <td style="width:25%"><a href="/art/Wien/sketches/drawing/resized/01{{ 9 | minus: j }}.jpg"><img src="/art/Wien/sketches/drawing/thumbs/01{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 1 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/art/Wien/sketches/drawing/resized/00{{ 9 | minus: j }}.jpg"><img src="/art/Wien/sketches/drawing/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+    <tr>
+    {% for j in (0..8) %}
+      <td style="width:25%"><a href="/art/Wien/sketches/watercolor/resized/00{{ 9 | minus: j }}.jpg"><img src="/art/Wien/sketches/watercolor/thumbs/00{{ 9 | minus: j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
+</p>

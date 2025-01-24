@@ -1,0 +1,39 @@
+---
+title: Drawing
+page: praxis
+type: art
+anchor: Bonn_drawing
+startyear:
+endyear:
+endmonth:
+range:
+loc: Bonn
+dates:
+press:
+extralink:
+published:
+---
+
+<p>
+  During my Master’s studies (2012&ndash;2015), I participated in <i>Aktzeichnen: Zeichnen nach Modell II</i> offered by the Atelier für Bildende Kunst of Universität Bonn.  The drawings are mostly charcoal, some with Conté, and the poses varied in length, from about 15&ndash;20 minutes each.
+  <table style="width:100%;">
+    <tr>
+    {% for j in (1..9) %}
+      <td style="width:25%"><a href="/art/Bonn/Akt/assorted/00{{ j }}.jpg"><img src="/art/Bonn/Akt/assorted/thumbs/00{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 0 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    {% for j in (0..6) %}
+      <td style="width:25%"><a href="/art/Bonn/Akt/assorted/01{{ j }}.jpg"><img src="/art/Bonn/Akt/assorted/thumbs/01{{ j }}.jpg" style="width:100%;"></a></td>
+    {% assign row = forloop.index | modulo:4 %}
+    {% if row == 3 %}
+    </tr>
+    <tr>
+    {% endif %}
+    {% endfor %}
+    </tr>
+  </table>
+</p>
