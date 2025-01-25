@@ -81,7 +81,7 @@ $site-title-font-weight: 500;
 
 $header-height: 50px;
 $header-font-family: 'Source Sans 3', sans-serif;//'IBM Plex Sans', sans-serif;//'Alegreya Sans SC', sans-serif;
-$header-page-font-weight: 400;
+$header-page-font-weight: 300;
 $header-current-page-font-weight: 900;
 
 $default-title-font-weight: 500;
@@ -278,7 +278,7 @@ a.anchor {
     font-size: $larger-font-size;
     font-weight: $site-title-font-weight;
     line-height: $header-height;
-    letter-spacing: -1px;
+    //letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
