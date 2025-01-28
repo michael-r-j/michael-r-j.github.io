@@ -7,9 +7,9 @@ sortname: portfolio
 
 {% assign entries_math = site.entries | where: 'page', 'portfolio' | where: 'type', 'math' | sort: 'endyear' | reverse %}
 
-{% assign entries_art_endyear_grp = site.entries | where: 'page', 'portfolio' | where: 'type', 'art' | group_by: 'endyear' | sort: 'name' | reverse %}
+{% assign entries_art_endyear_grpd = site.entries | where: 'page', 'portfolio' | where: 'type', 'art' | group_by: 'endyear' | sort: 'name' | reverse %}
 {% assign entries_art_endyear = '' | split: '' %}
-{% for year in entries_art_endyear_grp %}
+{% for year in entries_art_endyear_grpd %}
   {% assign entries_art_endyear_endmonth = year.items | sort: 'endmonth' | reverse %}
   {% for entry in entries_art_endyear_endmonth %}
     {% if entry.endyear != nil %}
