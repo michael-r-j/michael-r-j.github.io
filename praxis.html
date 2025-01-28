@@ -56,7 +56,7 @@ sortname: praxis
                 {% assign entries_math_loc_endyear_endmonth_sort = year.items | sort: 'endmonth' | reverse %}
                 {% for entry in entries_math_loc_endyear_endmonth_sort %}
                     {% if entry.endyear != nil %}
-                      <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
+                      <li><a href="./#{{ entry.anchor }}">{% if entry.path contains 'talk_' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}</a></li>
                     {% endif %}
                 {% endfor %}
               {% endfor %}
@@ -125,7 +125,7 @@ sortname: praxis
 <h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 {% for entry in entries_math %}
-<h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.path contains 'talk_' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
   {{ entry.content }}
   <br>
 {% endfor %}
