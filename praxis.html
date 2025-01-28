@@ -5,7 +5,32 @@ permalink: /praxis/
 sortname: praxis
 ---
 
-{% assign entries_math = site.entries | where: 'page', 'praxis' | where: 'type', 'math' | sort: 'endyear' | reverse %}
+{% assign entries_math_loc_grpd = site.entries | where: 'page', 'praxis' | where: 'type', 'math' | group_by: 'loc' | sort: 'name' | reverse %}
+{% assign entries_math_loc_endyear_endmonth_sort = '' | split: '' %}
+{% for loc in entries_math_loc_grpd %}
+  {% assign entries_math_loc_endyear_grpd = loc.items | group_by: 'endyear' | sort: 'name' | reverse %}
+  {% for year in entries_math_loc_endyear_grpd %}
+    {% assign entries_math_loc_endyear_endmonth_sort_tmp = year.items | sort: 'endmonth' | reverse %}
+    {% for entry in entries_math_loc_endyear_endmonth_sort_tmp %}
+      {% if entry.loc != nil %}
+        {% if entry.endyear != nil %}
+          {% assign entries_math_loc_endyear_endmonth_sort = entries_math_loc_endyear_endmonth_sort | push: entry %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+
+{% assign entries_math_startyear_sort = site.entries | where: 'page', 'praxis' | where: 'type', 'math' | sort: 'startyear' %}
+{% assign entries_math_ongoing = '' | split: '' %}
+{% for entry in entries_math_startyear_sort %}
+  {% if entry.endyear == nil %}
+    {% assign entries_math_ongoing = entries_math_ongoing | push: entry %}
+  {% endif %}
+{% endfor %}
+
+{% assign entries_math = entries_math_ongoing | concat: entries_math_loc_endyear_endmonth_sort %}
+
 
 {% assign entry_art_photography = site.entries | where: 'page', 'praxis' | where: 'type', 'art' | where: 'title', 'Photography' | first %}
 {% assign entries_art_Angewandte = site.entries | where: 'page', 'praxis' | where: 'type', 'art' | where: 'loc', 'Angewandte' | sort: 'endyear' | reverse %}
@@ -19,8 +44,25 @@ sortname: praxis
 <h2><ol style="padding:0;list-style-type:none;">
   <li><a href="./#Math">Mathematics</a>
     <ol style="list-style-type:none;margin-left:-1em;">
-      {% for entry in entries_math %}
+      {% for entry in entries_math_ongoing %}
         <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
+      {% endfor %}
+      {% for loc in entries_math_loc_grpd %}
+        {% if loc != nil %}
+          {% assign entries_math_loc_endyear_grpd = loc.items | group_by: 'endyear' | sort: 'name' | reverse %}
+          <li>{{ loc.name }}
+            <ol style="list-style-type:none;margin-left:-1em;">
+              {% for year in entries_math_loc_endyear_grpd %}
+                {% assign entries_math_loc_endyear_endmonth_sort = year.items | sort: 'endmonth' | reverse %}
+                {% for entry in entries_math_loc_endyear_endmonth_sort %}
+                    {% if entry.endyear != nil %}
+                      <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </ol>
+          </li>
+        {% endif %}
       {% endfor %}
     </ol>
   </li>
@@ -83,7 +125,7 @@ sortname: praxis
 <h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 {% for entry in entries_math %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
   {{ entry.content }}
   <br>
 {% endfor %}
