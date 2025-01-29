@@ -2,7 +2,20 @@
 layout: default
 ---
 
-{% assign entries_praxis_math = site.entries | where: 'page', 'praxis' | where: 'type', 'math' | sort: 'endyear' | reverse %}
+{% assign entries_praxis_math_endyear_grpd = site.entries | where: 'page', 'praxis' | where: 'type', 'math' | group_by: 'endyear' | sort: 'name' | reverse %}
+
+
+{% assign entries_praxis_math_endyear_endmonth_sort = '' | split: '' %}
+{% for year in entries_praxis_math_endyear_grpd %}
+  {% assign entries_praxis_math_endyear = year.items | sort: 'endmonth' | reverse %}
+  {% for entry in entries_praxis_math_endyear %}
+    {% if entry.loc != nil %}
+      {% if entry.endyear != nil %}
+        {% assign entries_praxis_math_endyear_endmonth_sort = entries_praxis_math_endyear_endmonth_sort | push: entry %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 <div class="default-main-page">
 
@@ -15,7 +28,7 @@ layout: default
     Gave the following talks recently:<br>
     <ul style="padding:0;padding-left:3ex;margin-top:-1ex;list-style-type:'⤳  ';">
       {% assign cnt = 0 %}
-      {% for entry in entries_praxis_math %}
+      {% for entry in entries_praxis_math_endyear_endmonth_sort %}
         {% if cnt <= 2 %}
           {% if entry.path contains 'talk_' %}
             <li>
