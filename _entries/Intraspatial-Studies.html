@@ -17,7 +17,16 @@ published: true
 <i>steel, plaster, wood</i>
 <p>
   Sculptural studies of bodies filling space, of interface, of relationship.<br>
-  These are representative of on-going studies.
+  {% assign studies = '' | split: '' %}
+  {% for entry in site.entries %}
+    {% if entry.title contains 'Angewandte Festival 2021' %}
+      {% assign studies = studies | push: entry %}
+    {% endif %}
+    {% if entry.title contains 'Angewandte Festival 2022' %}
+      {% assign studies = studies | push: entry %}
+    {% endif %}
+  {% endfor %}
+  These are representative of on-going studies (cf. {% assign cnt = 0 %}{% for study in studies %}{% assign cnt = cnt | plus :1 %}{% if cnt == studies.size %} and {% endif %}<a href="/{{ study.page }}/#{{ study.anchor }}">{{ study.title }}</a>{% if studies.size > 2 %}{% if cnt < studies.size %}, {% endif %}{% endif %}{% endfor %}).
   <table style="width:50%;margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/shelf.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/shelf.jpg" style="width:100%;"></a></td>
