@@ -3,6 +3,7 @@
 *.swo
 *.swn
 # Jekyll
+.bundle
+Gemfile.lock
 _site
 .sass-cache
-freelancer-theme-master
