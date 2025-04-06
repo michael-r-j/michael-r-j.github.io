@@ -58,7 +58,7 @@ sortname: portfolio
 <h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
 
 {% for entry in entries_math %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">PDF</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
   {{ entry.content }}
   <br>
 {% endfor %}
