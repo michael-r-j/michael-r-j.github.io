@@ -11,6 +11,7 @@ loc: 'part of the exhibition of a TransArts workshop led by Angelika Loderer'
 dates: '17. – 18.12.24'
 press: 'https://www.dieangewandte.at/aktuell/ausstellungen/ausstellungen_detail?artikel_id=1733888534787'
 extralink:
+imgdir: '/art/exhibitions/2024/Intraspatial-Studies'
 published: true
 ---
 
@@ -29,24 +30,24 @@ published: true
   These are representative of on-going studies (cf. {% assign cnt = 0 %}{% for study in studies %}{% assign cnt = cnt | plus :1 %}{% if cnt == studies.size %} and {% endif %}<a href="/{{ study.page }}/#{{ study.anchor }}">{{ study.title }}</a>{% if studies.size > 2 %}{% if cnt < studies.size %}, {% endif %}{% endif %}{% endfor %}).
   <table style="width:50%;margin-left:auto;margin-right:auto;">
     <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/shelf.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/shelf.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/resized/shelf.jpg"><img src="{{ page.imgdir}}/thumbs/shelf.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
   <table style="width:100%;margin-left:auto;margin-right:auto;">
     <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/study1_front.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/study1_front.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/study2_front.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/study2_front.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/resized/study1_front.jpg"><img src="{{ page.imgdir}}/thumbs/study1_front.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/resized/study2_front.jpg"><img src="{{ page.imgdir}}/thumbs/study2_front.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
   <table style="width:100%;margin-left:auto;margin-right:auto;">
     <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/study1_side.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/study1_side.jpg" style="width:100%;"></a></td>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/resized/study2_side.jpg"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/study2_side.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/resized/study1_side.jpg"><img src="{{ page.imgdir}}/thumbs/study1_side.jpg" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/resized/study2_side.jpg"><img src="{{ page.imgdir}}/thumbs/study2_side.jpg" style="width:100%;"></a></td>
     </tr>
   </table>
   <table style="width:25%;margin-left:auto;margin-right:auto;">
     <tr>
-      <td style="width:25%"><a href="/art/exhibitions/2024/Intraspatial-Studies/video.gif"><img src="/art/exhibitions/2024/Intraspatial-Studies/thumbs/video.gif" style="width:100%;"></a></td>
+      <td style="width:25%"><a href="{{ page.imgdir}}/video.gif"><img src="{{ page.imgdir}}/thumbs/video.gif" style="width:100%;"></a></td>
     </tr>
   </table>
 </p>
