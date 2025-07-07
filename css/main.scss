@@ -149,6 +149,13 @@ a {
 
 
 //**************************************************
+// Image loading
+img {
+  loading: lazy;
+}
+
+
+//**************************************************
 // Wrapper
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
