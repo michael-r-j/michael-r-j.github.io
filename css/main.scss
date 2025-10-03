@@ -116,14 +116,17 @@ p {
 // Headings
 h1 {
     font-size: $large-font-size;
+    font-variant: small-caps;
 }
 h2 {
     font-size: $medium-font-size;
+    font-variant: small-caps;
 }
 
 h3 {
     font-size: $base-font-size;
     font-weight: $base-bold-font-weight;
+    font-variant: small-caps;
     margin-bottom: $spacing-unit;
 }
 hs {
