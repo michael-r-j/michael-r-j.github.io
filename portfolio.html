@@ -28,34 +28,34 @@ sortname: portfolio
 
 {% assign entries_art = entries_art_ongoing | concat: entries_art_endyear %}
 
-<h2><ol style="padding:0;list-style-type:none;">
-  <li><a href="./#Math">Mathematics</a>
+<ol style="padding:0;list-style-type:none;">
+  <li><h1halff><a href="./#Math">Mathematics</a></h1halff>
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
         {% for entry in entries_math %}
           <tr>
-            <td style="width:7em;vertical-align:top;">{{ entry.startyear }} –{% if entry.endyear != nil %} {{ entry.endyear }}{% endif %}</td> <td><a href="./#{{ entry.anchor }}">{{ entry.title }}</a><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}</span></td>
+            <td style="width:8em;vertical-align:top;"><h2fn>{{ entry.startyear }} –{% if entry.endyear != nil %} {{ entry.endyear }}{% endif %}</h2fn></td> <td><h2f><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></h2f><h2fn><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}</span></h2fn></td>
           </tr>
         {% endfor %}
       </table>
     </ol>
   </li>
-  <li><a href="./#Art">Art</a>
+  <li><h1halff><a href="./#Art">Art</a></h1halff>
     <ol style="list-style-type:none;margin-left:-1em;">
       <table style="width:100%;border-collapse:collapse;">
         {% for entry in entries_art %}
           <tr>
-            <td style="width:7em;vertical-align:top;">{% if entry.range %}{{ entry.startyear }} – {% endif %}{{ entry.endyear }}</td> <td><a href="./#{{ entry.anchor }}">»{{ entry.title }}«</a><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}</span></td>
+            <td style="width:8em;vertical-align:top;"><h2fn>{% if entry.range %}{{ entry.startyear }} – {% endif %}{{ entry.endyear }}</h2fn></td> <td><h2fn><a href="./#{{ entry.anchor }}">»{{ entry.title }}«</a><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}</span></h2fn></td>
           </tr>
         {% endfor %}
       </table>
     </ol>
   </li>
-</ol></h2>
+</ol>
 
 <hr>
 
-<h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
 
 {% for entry in entries_math %}
   <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">PDF</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
@@ -65,10 +65,10 @@ sortname: portfolio
 
 <hr>
 
-<h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
 
 {% for entry in entries_art %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>{% if entry.extralink != nil %}, <a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>{% if entry.extralink != nil %}, <a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2n>
   {{ entry.content }}
   <br>
 {% endfor %}

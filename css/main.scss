@@ -103,8 +103,11 @@ b {
 
 //**************************************************
 // Set `margin-bottom to maintain vertical rhythm
-h1, h2, h3, hs {
+h1, h1half, h2, h2n, h3, hs {
     margin-bottom: $spacing-unit * 2;
+}
+h3 {
+    margin-bottom: $spacing-unit;
 }
 p {
     margin: 0;
@@ -118,16 +121,46 @@ h1 {
     font-size: $large-font-size;
     font-variant: small-caps;
 }
+// h1.5
+h1half {
+    display: block;
+    font-size: $base-font-size * 1.5;
+    font-weight: $base-bold-font-weight;
+    font-variant: small-caps;
+}
+// h1.5 without block
+h1halff {
+    font-size: $base-font-size * 1.5;
+    font-weight: $base-bold-font-weight;
+    font-variant: small-caps;
+}
 h2 {
     font-size: $medium-font-size;
     font-variant: small-caps;
 }
-
+// h2 without small-caps
+h2n {
+    display: block;
+    font-size: $medium-font-size;
+    font-weight: $base-bold-font-weight;
+    font-variant: normal;
+}
+// h2 without block
+h2f {
+    font-size: $medium-font-size;
+    font-weight: $base-bold-font-weight;
+    font-variant: small-caps;
+}
+// h2 without block and without small-caps
+h2fn {
+    font-size: $medium-font-size;
+    font-weight: $base-bold-font-weight;
+    font-variant: normal;
+}
 h3 {
     font-size: $base-font-size;
     font-weight: $base-bold-font-weight;
     font-variant: small-caps;
-    margin-bottom: $spacing-unit;
 }
 hs {
   font-size: $small-font-size;

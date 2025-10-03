@@ -41,9 +41,9 @@ sortname: praxis
 {% assign entries_art_Princeton = site.entries | where: 'page', 'praxis' | where: 'type', 'art' | where: 'loc', 'Princeton' %}
 {% assign entries_art_cities = entries_art_Vienna | concat: entries_art_TUWien | concat: entries_art_Bonn | concat: entries_art_Princeton %}
 
-<h2><ol style="padding:0;list-style-type:none;">
-  <li><a href="./#Math">Mathematics</a>
-    <ol style="list-style-type:none;margin-left:-1em;">
+<ol style="padding:0;list-style-type:none;">
+  <li><h1halff><a href="./#Math">Mathematics</a></h1halff>
+    <h2f><ol style="list-style-type:none;margin-left:-1em;">
       {% for entry in entries_math_ongoing %}
         <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
       {% endfor %}
@@ -64,10 +64,10 @@ sortname: praxis
           </li>
         {% endif %}
       {% endfor %}
-    </ol>
+    </ol></h2f>
   </li>
-  <li><a href="./#Art">Art</a>
-    <ol style="list-style-type:none;margin-left:-1em;">
+  <li><h1halff><a href="./#Art">Art</a></h1halff>
+    <h2f><ol style="list-style-type:none;margin-left:-1em;">
       <li><a href="./#{{ entry_art_photography.anchor }}">{{ entry_art_photography.title }}</a></li>
       <li>Vienna
         <ol style="list-style-type:none;margin-left:-1em;">
@@ -116,13 +116,13 @@ sortname: praxis
           </li>
         </ol>
       </li>
-    </ol>
+    </ol></h2f>
   </li>
-</ol></h2>
+</ol>
 
 <hr>
 
-<h2 style="font-size: 1.75em"><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
 
 {% for entry in entries_math %}
   <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.path contains 'talk_' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
@@ -132,7 +132,7 @@ sortname: praxis
 
 <hr>
 
-<h2 style="font-size: 1.75em"><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
 <p>
   More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my Instagram</a>.
 </p>
