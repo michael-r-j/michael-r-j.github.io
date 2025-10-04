@@ -122,26 +122,26 @@ sortname: praxis
 
 <hr>
 
-<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
+<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h1half>
 
 {% for entry in entries_math %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.path contains 'talk_' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.path contains 'talk_' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %} <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
   {{ entry.content }}
   <br>
 {% endfor %}
 
 <hr>
 
-<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
+<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h1half>
 <p>
   More-current ponderings are on <a href="https://www.instagram.com/mchl_rj/">my Instagram</a>.
 </p>
 
-<h2><a class="anchor" id="{{ entry_art_photography.anchor }}"></a>{{ entry_art_photography.title }} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="{{ entry_art_photography.anchor }}"></a>{{ entry_art_photography.title }} <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
 {{ entry_art_photography.content }}
 <br>
 
-<h2><a class="anchor" id="Angewandte"></a>Angewandte, Transdisciplinary Arts <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+<h2><a class="anchor" id="Angewandte"></a>Angewandte, Transdisciplinary Arts <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
 <p>
   In October 2020, I started a Masters in the Transdisciplinary Arts (<a href="https://www.transarts.at/">TransArts</a>) Class at the University of Applied Arts (Angewandte) in Vienna.<br>
   {% for entry in entries_art_Angewandte %}
@@ -154,6 +154,6 @@ sortname: praxis
 <br>
 
 {% for entry in entries_art_cities %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} in {{ entry.loc }} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} in {{ entry.loc }} <sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
   {{ entry.content }}
 {% endfor %}

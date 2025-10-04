@@ -162,6 +162,10 @@ h3 {
     font-weight: $base-bold-font-weight;
     font-variant: small-caps;
 }
+// small-caps without h1, h2, h3
+sc {
+    font-variant: small-caps;
+}
 hs {
   font-size: $small-font-size;
 }

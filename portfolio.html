@@ -55,20 +55,20 @@ sortname: portfolio
 
 <hr>
 
-<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
+<h1half><a class="anchor" id="Math"></a>Mathematics <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h1half>
 
 {% for entry in entries_math %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">PDF</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2>
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }}{% if entry.extralink != nil %} [{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">PDF</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2>
   {{ entry.content }}
   <br>
 {% endfor %}
 
 <hr>
 
-<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h1half>
+<h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h1half>
 
 {% for entry in entries_art %}
-  <h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>{% if entry.extralink != nil %}, <a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size: 0.75em;">top</a></sup></h2n>
+  <h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>{% if entry.extralink != nil %}, <a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2n>
   {{ entry.content }}
   <br>
 {% endfor %}
