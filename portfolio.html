@@ -68,7 +68,7 @@ sortname: portfolio
 <h1half><a class="anchor" id="Art"></a>Art <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h1half>
 
 {% for entry in entries_art %}
-  <h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil %} [<a href="{{ entry.press }}">press release</a>{% if entry.extralink != nil %}, <a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2n>
+<h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil or entry.extralink != nil %} [{% if entry.press != nil %}<a href="{{ entry.press }}">press release</a>{% endif %}{% if entry.press != nil and entry.extralink != nil %}, {% endif %}{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %} <sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2n>
   {{ entry.content }}
   <br>
 {% endfor %}
