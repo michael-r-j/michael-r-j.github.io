@@ -246,6 +246,17 @@ a.anchor {
 }
 
 
+//**************************************************
+// Summary text in details changes with state, open/close
+details.descriptive[open] summary::after {
+  content: attr(opened-text);
+}
+
+details.descriptive:not([open]) summary::after {
+  content: attr(closed-text);
+}
+
+
 //**********************************************
 // LAYOUT (from ../_sass/_layout.scss)
 //**********************************************

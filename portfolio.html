@@ -45,8 +45,9 @@ sortname: portfolio
     </ol>
   </li>
   <li><h1halff><a href="./#Art">Art</a></h1halff>
-    <ol style="list-style-type:none;margin-left:-1em;">
-      <li><h2f>Solo exhibitions</h2f></li>
+    <ol style="list-style-type:none;padding-left:0em;">
+      <li><details class="descriptive" close>
+        <summary closed-text=" [click to expand]" opened-text=" [click to collapse]" style="font-variant:small-caps;"><h2f>Solo Exhibitions</h2f></summary>
         <ol style="list-style-type:none;margin-left:-1em;">
           <li><table style="width:100%;border-collapse:collapse;">
             {% for entry in entries_exhibit_solo_endyear_sort %}
@@ -60,7 +61,9 @@ sortname: portfolio
             {% endfor %}
           </table></li>
         </ol>
-      <li><h2f>Group exhibitions</h2f></li>
+      </details></li>
+      <li><details class="descriptive" close>
+        <summary closed-text=" [click to expand]" opened-text=" [click to collapse]" style="font-variant:small-caps;"><h2f>Group exhibitions</h2f></summary>
         <ol style="list-style-type:none;margin-left:-1em;">
           <li><table style="width:100%;border-collapse:collapse;">
             {% for entry in entries_exhibit_group_endyear_sort %}
@@ -74,6 +77,7 @@ sortname: portfolio
             {% endfor %}
           </table></li>
         </ol>
+      </details></li>
       <li><h2f>Work</h2f></li>
         <ol style="list-style-type:none;margin-left:-1em;">
           <li><table style="width:100%;border-collapse:collapse;">
