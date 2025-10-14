@@ -27,7 +27,7 @@ published: true
         {% if forloop.index == 1 %}
           <h3>Exhibited:</h3>
           <ul style="padding:0;padding-left:3ex;margin-top:-1ex;list-style-type:'⤳  ';">
-            <li>{{ exhibit_entry.dates }}&emsp;{{ exhibit_entry.exhibittype }} exhibition <i>{{ exhibit_entry.title }}</i>, {{ exhibit_entry.loc }}{% if exhibit_entry.press != nil or exhibit_entry.extralink != nil %} [{% if exhibit_entry.press != nil %}<a href="{{ exhibit_entry.press }}">press release</a>{% endif %}{% if exhibit_entry.press != nil and exhibit_entry.extralink != nil %}, {% endif %}{% if exhibit_entry.extralink != nil %}<a href="{{ exhibit_entry.extralink }}">link</a>{% endif %}]{% endif %}</li>
+            <li>{{ exhibit_entry.dates }}&emsp;{{ exhibit_entry.exhibittype }} exhibition <i>{{ exhibit_entry.title }}</i>, {{ exhibit_entry.loc }}{% if exhibit_entry.press != nil or exhibit_entry.extralink != nil %} [{% if exhibit_entry.press != nil %}<a href="{{ exhibit_entry.press }}">press&nbsp;release</a>{% endif %}{% if exhibit_entry.press != nil and exhibit_entry.extralink != nil %}, {% endif %}{% if exhibit_entry.extralink != nil %}<a href="{{ exhibit_entry.extralink }}">link</a>{% endif %}]{% endif %}</li>
           </ul>
         {% endif %}
       {% endif %}
