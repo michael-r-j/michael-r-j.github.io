@@ -54,7 +54,7 @@ sortname: portfolio
                 <td style="width:8em;vertical-align:top;"><h2fn>{{ entry.endyear }}</h2fn></td> <td><h2fn><i>{{ entry.title }}</i><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil or entry.extralink != nil %}<br> [{% if entry.press != nil %}<a href="{{ entry.press }}">press release</a>{% endif %}{% if entry.press != nil and entry.extralink != nil %}, {% endif %}{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %}</span></h2fn><br>
                 {% if entry.works != nil %}
                 Work{% if entry.works.size > 1 %}s{% endif %}:
-                {% for work_anchor in entry.works %}{% assign work_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'art' | where: 'anchor', work_anchor | first %}{% if forloop.index > 1 %}, {% endif %}<a href="./#{{ work_anchor }}">»{{ work_entry.title }}«</a>{% endfor %}</td>
+                {% for work_anchor in entry.works %}{% assign work_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'art' | where: 'anchor', work_anchor | first %}{% if forloop.index > 1 %}, {% endif %}<a href="./#{{ work_anchor }}">»{{ work_entry.title }}«</a>{% assign work_entry = nil %}{% endfor %}</td>
                 {% endif %}
               </tr>
             {% endfor %}
@@ -68,7 +68,7 @@ sortname: portfolio
                 <td style="width:8em;vertical-align:top;"><h2fn>{{ entry.endyear }}</h2fn></td> <td><h2fn><i>{{ entry.title }}</i><span style="font-weight:normal;">{% if entry.loc != nil %}, {{ entry.loc }}{% endif %}{% if entry.dates != nil %} ({{ entry.dates }}){% endif %}{% if entry.press != nil or entry.extralink != nil %}<br> [{% if entry.press != nil %}<a href="{{ entry.press }}">press release</a>{% endif %}{% if entry.press != nil and entry.extralink != nil %}, {% endif %}{% if entry.extralink != nil %}<a href="{{ entry.extralink }}">link</a>{% endif %}]{% endif %}</span></h2fn><br>
                 {% if entry.works != nil %}
                 Work{% if entry.works.size > 1 %}s{% endif %}:
-                {% for work_anchor in entry.works %}{% assign work_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'art' | where: 'anchor', work_anchor | first %}{% if forloop.index > 1 %}, {% endif %}<a href="./#{{ work_anchor }}">»{{ work_entry.title }}«</a>{% endfor %}</td>
+                {% for work_anchor in entry.works %}{% assign work_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'art' | where: 'anchor', work_anchor | first %}{% if forloop.index > 1 %}, {% endif %}<a href="./#{{ work_anchor }}">»{{ work_entry.title }}«</a>{% assign work_entry = nil %}{% endfor %}</td>
                 {% endif %}
               </tr>
             {% endfor %}
@@ -79,7 +79,7 @@ sortname: portfolio
           <li><table style="width:100%;border-collapse:collapse;">
             {% for entry in entries_art %}
               <tr>
-                <td style="width:8em;vertical-align:top;"><h2fn>{% if entry.range %}{{ entry.startyear }} – {% endif %}{{ entry.endyear }}</h2fn></td> <td><h2fn><a href="./#{{ entry.anchor }}">»{{ entry.title }}«</a><span style="font-weight:normal;">{% if entry.loc != nil %}{% assign loc_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', entry.loc | first %}, <i>{{ loc_entry.title }}</i>, {{ loc_entry.loc }}{% endif %}</span></h2fn></td>
+                <td style="width:8em;vertical-align:top;"><h2fn>{% if entry.range %}{{ entry.startyear }} – {% endif %}{{ entry.endyear }}</h2fn></td> <td><h2fn><a href="./#{{ entry.anchor }}">»{{ entry.title }}«</a><span style="font-weight:normal;">{% if entry.loc != nil %}{% assign loc_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', entry.loc | first %}, <i>{{ loc_entry.title }}</i>, {{ loc_entry.loc }}{% assign loc_entry = nil %}{% endif %}</span></h2fn></td>
               </tr>
             {% endfor %}
           </table></li>
@@ -103,7 +103,7 @@ sortname: portfolio
 <h1half><a class="anchor" id="Art"></a>Art&nbsp;<sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h1half>
 
 {% for entry in entries_art %}
-<h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}{% assign loc_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', entry.loc | first %}, <i>{{ loc_entry.title}}</i>, {{ loc_entry.loc }}{% endif %}{% if loc_entry.dates != nil %} ({{ loc_entry.dates }}){% endif %}{% if loc_entry.press != nil or loc_entry.extralink != nil %} [{% if loc_entry.press != nil %}<a href="{{ loc_entry.press }}">press release</a>{% endif %}{% if loc_entry.press != nil and loc_entry.extralink != nil %}, {% endif %}{% if loc_entry.extralink != nil %}<a href="{{ loc_entry.extralink }}">link</a>{% endif %}]{% endif %}&nbsp;<sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2n>
+<h2n><a class="anchor" id="{{ entry.anchor }}"></a>»{{ entry.title }}«{% if entry.loc != nil %}{% assign loc_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', entry.loc | first %}, <i>{{ loc_entry.title}}</i>, {{ loc_entry.loc }} ({{ loc_entry.dates }}){% if loc_entry.press != nil or loc_entry.extralink != nil %} [{% if loc_entry.press != nil %}<a href="{{ loc_entry.press }}">press release</a>{% endif %}{% if loc_entry.press != nil and loc_entry.extralink != nil %}, {% endif %}{% if loc_entry.extralink != nil %}<a href="{{ loc_entry.extralink }}">link</a>{% endif %}]{% endif %}{% assign loc_entry = nil %}{% endif %}&nbsp;<sup><a href="./#" style="font-size:0.75em;"><sc>top</sc></a></sup></h2n>
   {{ entry.content }}
   <br>
 {% endfor %}
