@@ -7,10 +7,9 @@ startyear: 2024
 endyear: 2024
 endmonth: 7
 range: false
-loc: '<i>What makes you laugh, what makes you cry?</i> group show at Hollerei Galerie, Vienna, Austria'
-dates: '16.9. – 3.11.25'
-press:
-extralink: 'https://hollerei-galerie.at/post/793570018945302529/what-makes-you-laugh-what-makes-you-cry-opening'
+loc:
+exhibitlist:
+  - BEGEGNET-Hollerei
 imgdir: '/art/exhibitions/2025/BEGEGNET'
 published: true
 ---
@@ -19,7 +18,22 @@ published: true
 <p>
   A steel plate repeatedly encounters wet cotton fabric.  These encounters leave traces on the fabric, while the plate is steadily changed.  It is being as the mediation between affect and effect.<br>
 
-  Memories bring about a self, that is in turn formed by its stories: the subject and the lost object.<br>
+  Memories bring about a self, that is in turn formed by its stories: the subject and the lost object.<br><br>
+
+  {% if page.exhibitlist != nil %}
+    {% for exhibit_anchor in page.exhibitlist %}
+      {% assign exhibit_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', exhibit_anchor | first %}
+      {% if exhibit_entry != nil %}
+        {% if forloop.index == 1 %}
+          <h3>Exhibited:</h3>
+          <ul style="padding:0;padding-left:3ex;margin-top:-1ex;list-style-type:'⤳  ';">
+            <li>{{ exhibit_entry.dates }}&emsp;{{ exhibit_entry.exhibittype }} exhibition <i>{{ exhibit_entry.title }}</i>, {{ exhibit_entry.loc }}{% if exhibit_entry.press != nil or exhibit_entry.extralink != nil %} [{% if exhibit_entry.press != nil %}<a href="{{ exhibit_entry.press }}">press release</a>{% endif %}{% if exhibit_entry.press != nil and exhibit_entry.extralink != nil %}, {% endif %}{% if exhibit_entry.extralink != nil %}<a href="{{ exhibit_entry.extralink }}">link</a>{% endif %}]{% endif %}</li>
+          </ul>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
   <table style="width:75%;margin-left:auto;margin-right:auto;">
     <tr>
       <td style="width:25%"><a href="{{ page.imgdir }}/resized/BEGEGNET_wall-close.jpg"><img src="{{ page.imgdir }}/thumbs/BEGEGNET_wall-close.jpg" style="width:100%;"></a></td>
