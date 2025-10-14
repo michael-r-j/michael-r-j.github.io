@@ -19,8 +19,8 @@ sortname: portfolio
 {% endfor %}
 
 
-{% assign entries_exhibit_solo_endyear_sort = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'exhibittype', 'solo' | sort: 'endyear' | reverse %}
-{% assign entries_exhibit_group_endyear_sort = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'exhibittype', 'group' | sort: 'endyear' | reverse %}
+{% assign entries_exhibit_solo_endyear_sort = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'exhibittype', 'solo' | sort: 'endmonth' | sort: 'endyear' | reverse %}
+{% assign entries_exhibit_group_endyear_sort = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'exhibittype', 'group' | sort: 'endmonth' | sort: 'endyear' | reverse %}
 
 {% assign entries_art_startyear_sort = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'art' | sort: 'startyear' | reverse %}
 {% assign entries_art_ongoing = '' | split: '' %}
