@@ -42,30 +42,6 @@ sortname: praxis
 {% assign entries_art_cities = entries_art_Vienna | concat: entries_art_TUWien | concat: entries_art_Bonn | concat: entries_art_Princeton %}
 
 <ol style="padding:0;list-style-type:none;">
-  <li><h1halff><a href="./#Math">Mathematics</a></h1halff>
-    <h2f><ol style="list-style-type:none;margin-left:-1em;">
-      {% for entry in entries_math_ongoing %}
-        <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
-      {% endfor %}
-      {% for loc in entries_math_seminar_loc_grpd %}
-        {% if loc != nil %}
-          {% assign entries_math_seminar_loc_endyear_grpd = loc.items | group_by: 'endyear' | sort: 'name' | reverse %}
-          <li>{{ loc.name }}
-            <ol style="list-style-type:none;margin-left:-1em;">
-              {% for year in entries_math_seminar_loc_endyear_grpd %}
-                {% assign entries_math_seminar_loc_endyear_endmonth_sort = year.items | sort: 'endmonth' | reverse %}
-                {% for entry in entries_math_seminar_loc_endyear_endmonth_sort %}
-                    {% if entry.endyear != nil %}
-                    <li><a href="./#{{ entry.anchor }}">{% if entry.format == 'talk' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.endyear != nil %} ({{ entry.endyear }}){% endif %}</a></li>
-                    {% endif %}
-                {% endfor %}
-              {% endfor %}
-            </ol>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ol></h2f>
-  </li>
   <li><h1halff><a href="./#Art">Art</a></h1halff>
     <h2f><ol style="list-style-type:none;margin-left:-1em;">
       <li><a href="./#{{ entry_art_photography.anchor }}">{{ entry_art_photography.title }}</a></li>
@@ -118,17 +94,31 @@ sortname: praxis
       </li>
     </ol></h2f>
   </li>
+  <li><h1halff><a href="./#Math">Mathematics</a></h1halff>
+    <h2f><ol style="list-style-type:none;margin-left:-1em;">
+      {% for entry in entries_math_ongoing %}
+        <li><a href="./#{{ entry.anchor }}">{{ entry.title }}</a></li>
+      {% endfor %}
+      {% for loc in entries_math_seminar_loc_grpd %}
+        {% if loc != nil %}
+          {% assign entries_math_seminar_loc_endyear_grpd = loc.items | group_by: 'endyear' | sort: 'name' | reverse %}
+          <li>{{ loc.name }}
+            <ol style="list-style-type:none;margin-left:-1em;">
+              {% for year in entries_math_seminar_loc_endyear_grpd %}
+                {% assign entries_math_seminar_loc_endyear_endmonth_sort = year.items | sort: 'endmonth' | reverse %}
+                {% for entry in entries_math_seminar_loc_endyear_endmonth_sort %}
+                    {% if entry.endyear != nil %}
+                    <li><a href="./#{{ entry.anchor }}">{% if entry.format == 'talk' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.endyear != nil %} ({{ entry.endyear }}){% endif %}</a></li>
+                    {% endif %}
+                {% endfor %}
+              {% endfor %}
+            </ol>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol></h2f>
+  </li>
 </ol>
-
-<hr>
-
-<h1half><a class="anchor" id="Math"></a>Mathematics&nbsp;<sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h1half>
-
-{% for entry in entries_math %}
-  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.format == 'talk' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.endyear != nil %} ({{ entry.endyear }}){% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %}&nbsp;<sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
-  {{ entry.content }}
-  <br>
-{% endfor %}
 
 <hr>
 
@@ -156,4 +146,14 @@ sortname: praxis
 {% for entry in entries_art_cities %}
   <h2><a class="anchor" id="{{ entry.anchor }}"></a>{{ entry.title }} in {{ entry.loc }}&nbsp;<sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
   {{ entry.content }}
+{% endfor %}
+
+<hr>
+
+<h1half><a class="anchor" id="Math"></a>Mathematics&nbsp;<sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h1half>
+
+{% for entry in entries_math %}
+  <h2><a class="anchor" id="{{ entry.anchor }}"></a>{% if entry.format == 'talk' %}Talk: <i>{{ entry.title }}</i>{% else %}{{ entry.title }}{% endif %}{% if entry.endyear != nil %} ({{ entry.endyear }}){% endif %}{% if entry.extralink != nil %} [<a href="{{ entry.extralink }}">PDF</a>]{% endif %}&nbsp;<sup><a href="./#" style="font-size: 0.75em;"><sc>top</sc></a></sup></h2>
+  {{ entry.content }}
+  <br>
 {% endfor %}
