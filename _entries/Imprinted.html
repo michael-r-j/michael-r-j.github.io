@@ -1,0 +1,49 @@
+---
+title: Imprinted
+page: portfolio
+type: art
+anchor: Imprinted
+startyear: 2022
+endyear: 2026
+endmonth: 3
+range: true
+loc:
+exhibitlist:
+  - Imprinted-KABUFF
+imgdir: '/art/exhibitions/2026/Imprinted'
+published: true
+---
+
+<i>copper plate with patina, two hooked nails</i> [20 × 50 × 0.05 cm]
+<p>
+  Cotton yarn was knitted around a copper plate.  Through moisture and salt, a layer of patina formed after over two years, left as a memory of their reciprocal touch.  The texture is made of the traces of their contact.<br>
+  <br>
+  Baumwollgarn wurde um eine Kupferplatte gestrickt. Durch Nässe und Salz entstand nach über zwei Jahren eine Schicht Patina, die als Erinnerung dieser gegenseitigen Berührung zurückbleibt.  Die Textur besteht aus den Spuren dieses Kontakts.
+
+  {% if page.exhibitlist != nil %}
+    {% for exhibit_anchor in page.exhibitlist %}
+      {% assign exhibit_entry = site.entries | where: 'published', 'true' | where: 'page', 'portfolio' | where: 'type', 'exhibit' | where: 'anchor', exhibit_anchor | first %}
+      {% if exhibit_entry != nil %}
+        {% if forloop.index == 1 %}
+          <h3>Exhibited:</h3>
+          <ul style="padding:0;padding-left:3ex;margin-top:-1ex;list-style-type:'⤳  ';">
+            <li>{{ exhibit_entry.dates }}&emsp;{{ exhibit_entry.exhibittype }} exhibition <i>{{ exhibit_entry.title }}</i>, {{ exhibit_entry.loc }}{% if exhibit_entry.press != nil or exhibit_entry.extralink != nil %} [{% if exhibit_entry.press != nil %}<a href="{{ exhibit_entry.press }}">press&nbsp;release</a>{% endif %}{% if exhibit_entry.press != nil and exhibit_entry.extralink != nil %}, {% endif %}{% if exhibit_entry.extralink != nil %}<a href="{{ exhibit_entry.extralink }}">link</a>{% endif %}]{% endif %}</li>
+          </ul>
+        {% endif %}
+      {% endif %}
+      {% assign exhibit_entry = nil %}
+    {% endfor %}
+  {% endif %}
+
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:50%"><a href="{{ page.imgdir }}/resized/Imprinted.jpg"><img src="{{ page.imgdir }}/thumbs/Imprinted.jpg" style="width:100%;"></a></td>
+      <td style="width:50%"><a href="{{ page.imgdir }}/resized/Imprinted_detail.jpg"><img src="{{ page.imgdir }}/thumbs/Imprinted_detail.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+  <table style="width:75%;margin-left:auto;margin-right:auto;">
+    <tr>
+      <td style="width:100%;text-align:center;"><a href="{{ page.imgdir }}/resized/Imprinted_scan-crop.jpg"><img src="{{ page.imgdir }}/thumbs/Imprinted_scan-crop.jpg" style="width:100%;"></a></td>
+    </tr>
+  </table>
+</p>
