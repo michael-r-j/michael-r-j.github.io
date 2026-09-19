@@ -34,7 +34,7 @@ works:
   - [work1, anchor name]
   - [work2, anchor name]
   - [work3, anchor name]
-press: [press release, flyer, poster]
+info: [press release, flyer, poster]
 extralink: [e.g. link to gallery website]
 published: [true/false, false for loc not to be include in exhibition lists]
 ---
@@ -97,7 +97,7 @@ endyear: [for sorting, endyear then endmonth]
 endmonth: [for sorting]
 loc: [location, not referencing exhibit entry]
 dates: [date range]
-press: [poster, etc.]
+info: [poster, etc.]
 extralink: [website]
 imgdir: [directory for the images]
 published: true
